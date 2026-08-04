@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-08-04T04:56:47.702Z",
+  "window": {
+    "startDate": "2026-07-29",
+    "endDate": "2026-08-04",
+    "days": 7
+  },
+  "totalAwards": 28092,
+  "totalObligated": 436328109541.33,
+  "totalOutlays": 188147717927.7,
+  "uniqueRecipients": 4002,
+  "uniqueAgencies": 55,
+  "hitPaginationCap": false,
+  "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+  "elapsedMs": 135403,
+  "notes": [
+    "awardAmount is the obligated amount for this award transaction (USAspending \"Award Amount\"), not a contract ceiling/potential value.",
+    "totalOutlays is USAspending \"Total Outlays\" — actual dollars disbursed to date against the award, where reported; null when not reported. It is NOT a ceiling or ask price.",
+    "A single row can represent a large multi-year vehicle; the dates shown are that award transaction's period of performance, not necessarily when money changed hands in this window.",
+    "This run completed pagination without hitting the safety cap — the dataset is the complete set of matching awards for the window."
+  ]
+}
