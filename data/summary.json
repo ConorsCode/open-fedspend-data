@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T04:56:47.702Z",
+  "generatedAt": "2026-08-04T09:40:00.662Z",
   "window": {
     "startDate": "2026-07-29",
     "endDate": "2026-08-04",
@@ -12,7 +12,7 @@
   "uniqueAgencies": 55,
   "hitPaginationCap": false,
   "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
-  "elapsedMs": 135403,
+  "elapsedMs": 111174,
   "notes": [
     "awardAmount is the obligated amount for this award transaction (USAspending \"Award Amount\"), not a contract ceiling/potential value.",
     "totalOutlays is USAspending \"Total Outlays\" — actual dollars disbursed to date against the award, where reported; null when not reported. It is NOT a ceiling or ask price.",
