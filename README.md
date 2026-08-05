@@ -229,3 +229,11 @@ plain Node script meant to be read in one sitting.
 
 MIT — see [`LICENSE`](LICENSE). The code is MIT licensed; the award data
 itself is US government public data from USAspending.gov.
+
+## Related open datasets
+
+Part of a small set of free, daily-refreshed datasets built the same way:
+zero-dependency Node fetcher, GitHub Actions refresh, public endpoints only.
+
+- **[Open Jobs Data](https://github.com/ConorsCode/open-jobs-data)** — 15,919 open job postings from 90 companies across nine applicant tracking systems.
+- **[Open Dependency Risk](https://github.com/ConorsCode/open-dependency-risk)** — 1,500 widely-used npm and PyPI packages joined with known vulnerabilities from OSV.dev.
