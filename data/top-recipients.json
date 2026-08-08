@@ -2,8 +2,8 @@
   {
     "recipientName": "THE BOEING COMPANY",
     "recipientUei": "HLWWEH2CCXW5",
-    "totalObligated": 22440930496.75,
-    "awardCount": 1
+    "totalObligated": 25185691071.61,
+    "awardCount": 3
   },
   {
     "recipientName": "THE LELAND STANFORD JUNIOR UNIVERSITY",
@@ -18,10 +18,34 @@
     "awardCount": 1
   },
   {
+    "recipientName": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+    "recipientUei": "MMLKPW9JLX64",
+    "totalObligated": 2621846641.56,
+    "awardCount": 27
+  },
+  {
+    "recipientName": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+    "recipientUei": "SMNWM6HN79X5",
+    "totalObligated": 2567870498.28,
+    "awardCount": 46
+  },
+  {
+    "recipientName": "BOOZ ALLEN HAMILTON INC",
+    "recipientUei": "JCBMLGPE6Z71",
+    "totalObligated": 2497774818.49,
+    "awardCount": 20
+  },
+  {
     "recipientName": "LEIDOS, INC.",
     "recipientUei": "QLNMVC12KWY3",
-    "totalObligated": 2373481848.39,
-    "awardCount": 14
+    "totalObligated": 2485055170.89,
+    "awardCount": 16
+  },
+  {
+    "recipientName": "ACCENTURE FEDERAL SERVICES LLC",
+    "recipientUei": "C47BNA8GM833",
+    "totalObligated": 2193204513.1,
+    "awardCount": 17
   },
   {
     "recipientName": "BOLLINGER SHIPYARDS LOCKPORT, L.L.C.",
@@ -36,28 +60,10 @@
     "awardCount": 1
   },
   {
-    "recipientName": "ACCENTURE FEDERAL SERVICES LLC",
-    "recipientUei": "C47BNA8GM833",
-    "totalObligated": 1969865494.24,
-    "awardCount": 12
-  },
-  {
-    "recipientName": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
-    "recipientUei": "MMLKPW9JLX64",
-    "totalObligated": 1964921678.59,
-    "awardCount": 17
-  },
-  {
     "recipientName": "IDAHO ENVIRONMENTAL COALITION LLC",
     "recipientUei": "LQ5ZLNE3EM27",
     "totalObligated": 1628766367.97,
     "awardCount": 1
-  },
-  {
-    "recipientName": "BOOZ ALLEN HAMILTON INC",
-    "recipientUei": "JCBMLGPE6Z71",
-    "totalObligated": 1563557837.89,
-    "awardCount": 15
   },
   {
     "recipientName": "ORACLE HEALTH GOVERNMENT SERVICES, INC.",
@@ -74,7 +80,13 @@
   {
     "recipientName": "CACI, INC. - FEDERAL",
     "recipientUei": "N3PBJAVNKF61",
-    "totalObligated": 1232554719.84,
+    "totalObligated": 1234755848.94,
+    "awardCount": 8
+  },
+  {
+    "recipientName": "AMENTUM SERVICES, INC.",
+    "recipientUei": "QEMLRQA7PLG4",
+    "totalObligated": 1071407977,
     "awardCount": 8
   },
   {
@@ -96,16 +108,16 @@
     "awardCount": 1
   },
   {
-    "recipientName": "THE MITRE CORPORATION",
-    "recipientUei": "DMHDNDCPWUD1",
-    "totalObligated": 888608714.81,
-    "awardCount": 17
+    "recipientName": "PERATON INC.",
+    "recipientUei": "ZBPQEJVECCT4",
+    "totalObligated": 910639211.04,
+    "awardCount": 4
   },
   {
-    "recipientName": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
-    "recipientUei": "SMNWM6HN79X5",
-    "totalObligated": 858490442.63,
-    "awardCount": 32
+    "recipientName": "THE MITRE CORPORATION",
+    "recipientUei": "DMHDNDCPWUD1",
+    "totalObligated": 904178738.91,
+    "awardCount": 19
   },
   {
     "recipientName": "AMGEN USA INC",
@@ -117,6 +129,18 @@
     "recipientName": "HENSEL PHELPS CONSTRUCTION CO",
     "recipientUei": "GPYDJ1NKULS8",
     "totalObligated": 761338534,
+    "awardCount": 1
+  },
+  {
+    "recipientName": "VERIZON BUSINESS NETWORK SERVICES LLC",
+    "recipientUei": "GEYFS4D96R55",
+    "totalObligated": 736964476.24,
+    "awardCount": 7
+  },
+  {
+    "recipientName": "TECHFLOW, INC.",
+    "recipientUei": "WDXQN83XB8Z8",
+    "totalObligated": 713048449.53,
     "awardCount": 1
   },
   {
@@ -132,22 +156,28 @@
     "awardCount": 1
   },
   {
+    "recipientName": "SALIENT CRGT, INC.",
+    "recipientUei": "Q5LJNF15T2R5",
+    "totalObligated": 654509853.13,
+    "awardCount": 4
+  },
+  {
     "recipientName": "AMENTUM SPACEPORT LLC",
     "recipientUei": "KA18WLGL1NQ5",
     "totalObligated": 634704286.22,
     "awardCount": 1
   },
   {
-    "recipientName": "PERATON ENTERPRISE SOLUTIONS LLC",
-    "recipientUei": "MBSRAWAQ9559",
-    "totalObligated": 600264635.8,
-    "awardCount": 2
-  },
-  {
     "recipientName": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
     "recipientUei": "YC1YP79BFD19",
-    "totalObligated": 510744596.56,
-    "awardCount": 20
+    "totalObligated": 601111636.88,
+    "awardCount": 29
+  },
+  {
+    "recipientName": "PERATON ENTERPRISE SOLUTIONS LLC",
+    "recipientUei": "MBSRAWAQ9559",
+    "totalObligated": 600330364.28,
+    "awardCount": 2
   },
   {
     "recipientName": "PENNSLYVANIA HIGHER EDUCATION ASSISTANCE AGENCY",
@@ -156,16 +186,22 @@
     "awardCount": 1
   },
   {
+    "recipientName": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "recipientUei": "J64CSQTQNRC1",
+    "totalObligated": 502322134.02,
+    "awardCount": 11
+  },
+  {
     "recipientName": "NATIONAL GOVERNMENT SERVICES, INC.",
     "recipientUei": "TJNDFEALGTB5",
     "totalObligated": 482491959.07,
     "awardCount": 1
   },
   {
-    "recipientName": "VERIZON BUSINESS NETWORK SERVICES LLC",
-    "recipientUei": "GEYFS4D96R55",
-    "totalObligated": 477670113.46,
-    "awardCount": 4
+    "recipientName": "CGS ADMINISTRATORS, LLC",
+    "recipientUei": "LLNXG14PXPB3",
+    "totalObligated": 470127271,
+    "awardCount": 2
   },
   {
     "recipientName": "AT&T ENTERPRISES, LLC",
@@ -174,10 +210,16 @@
     "awardCount": 6
   },
   {
+    "recipientName": "CGI FEDERAL INC.",
+    "recipientUei": "TRKEP1HEBNS5",
+    "totalObligated": 408520433.08,
+    "awardCount": 11
+  },
+  {
     "recipientName": "MERCK SHARP & DOHME LLC",
     "recipientUei": "FCFDA78HKKG2",
-    "totalObligated": 392151149,
-    "awardCount": 2
+    "totalObligated": 392161687.82,
+    "awardCount": 3
   },
   {
     "recipientName": "ARCTIC SLOPE TECHNICAL SERVICES, INC.",
@@ -192,6 +234,12 @@
     "awardCount": 2
   },
   {
+    "recipientName": "GOVCIO, LLC",
+    "recipientUei": "D84JK2RNL7V4",
+    "totalObligated": 353367480.99,
+    "awardCount": 1
+  },
+  {
     "recipientName": "LEIDOS BIOMEDICAL RESEARCH INC",
     "recipientUei": "HV8BH9BPG8Y9",
     "totalObligated": 346977272.22,
@@ -200,8 +248,8 @@
   {
     "recipientName": "SAVANNAH RIVER MISSION COMPLETION, LLC",
     "recipientUei": "C32KCWJ94LY8",
-    "totalObligated": 302407768,
-    "awardCount": 1
+    "totalObligated": 302887397,
+    "awardCount": 2
   },
   {
     "recipientName": "BRILLIENT CORPORATION",
@@ -210,22 +258,16 @@
     "awardCount": 1
   },
   {
-    "recipientName": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
-    "recipientUei": "VV9KH3L99VE3",
-    "totalObligated": 289542345.79,
+    "recipientName": "KARSUN SOLUTIONS LLC",
+    "recipientUei": "WTERVPLW2SS6",
+    "totalObligated": 292330558.98,
     "awardCount": 9
   },
   {
-    "recipientName": "AMENTUM SERVICES, INC.",
-    "recipientUei": "QEMLRQA7PLG4",
-    "totalObligated": 284718385.81,
+    "recipientName": "NOBLIS, INC.",
+    "recipientUei": "NPJ9GV7K4CL1",
+    "totalObligated": 271621803.78,
     "awardCount": 7
-  },
-  {
-    "recipientName": "CGS ADMINISTRATORS, LLC",
-    "recipientUei": "LLNXG14PXPB3",
-    "totalObligated": 263251917,
-    "awardCount": 1
   },
   {
     "recipientName": "TELEDYNE BROWN ENGINEERING, INC.",
@@ -234,16 +276,28 @@
     "awardCount": 1
   },
   {
+    "recipientName": "J. E. DUNN CONSTRUCTION COMPANY",
+    "recipientUei": "Y9FCAN97NHC9",
+    "totalObligated": 259122579,
+    "awardCount": 2
+  },
+  {
+    "recipientName": "DELOITTE CONSULTING LLP",
+    "recipientUei": "CKV2L9GZKJK3",
+    "totalObligated": 247098258.43,
+    "awardCount": 20
+  },
+  {
     "recipientName": "AMERICAN INTERNATIONAL CONTRACTORS (SPECIAL PROJECTS) INC.",
     "recipientUei": "EK55FUQ4VBM5",
     "totalObligated": 241626203.4,
     "awardCount": 1
   },
   {
-    "recipientName": "DELOITTE CONSULTING LLP",
-    "recipientUei": "CKV2L9GZKJK3",
-    "totalObligated": 224370276.61,
-    "awardCount": 17
+    "recipientName": "B.I. INCORPORATED",
+    "recipientUei": "PKK6L9KLMYR5",
+    "totalObligated": 228516114.69,
+    "awardCount": 1
   },
   {
     "recipientName": "GENERAL ELECTRIC COMPANY",
@@ -254,14 +308,8 @@
   {
     "recipientName": "WALSH CONSTRUCTION COMPANY II, LLC",
     "recipientUei": "N64NCQ58JL25",
-    "totalObligated": 213525097,
+    "totalObligated": 213893097,
     "awardCount": 1
-  },
-  {
-    "recipientName": "SALIENT CRGT, INC.",
-    "recipientUei": "Q5LJNF15T2R5",
-    "totalObligated": 213142506.39,
-    "awardCount": 3
   },
   {
     "recipientName": "EDFINANCIAL SERVICES LLC",
@@ -278,8 +326,14 @@
   {
     "recipientName": "THE EMMES COMPANY, LLC",
     "recipientUei": "NBQCBJ6FXBU4",
-    "totalObligated": 198404251.39,
-    "awardCount": 4
+    "totalObligated": 200763951.44,
+    "awardCount": 5
+  },
+  {
+    "recipientName": "VENDOR RESOURCE MANAGEMENT, INC.",
+    "recipientUei": "MW78S34A8LZ3",
+    "totalObligated": 200641130.28,
+    "awardCount": 1
   },
   {
     "recipientName": "LOCKHEED MARTIN CORPORATION",
@@ -294,6 +348,12 @@
     "awardCount": 3
   },
   {
+    "recipientName": "KBR WYLE SERVICES, LLC",
+    "recipientUei": "HYBLSJAMM2F4",
+    "totalObligated": 192191270.86,
+    "awardCount": 16
+  },
+  {
     "recipientName": "BWI TPC, A JOINT VENTURE",
     "recipientUei": "YNXXPM173W74",
     "totalObligated": 187852653.69,
@@ -304,6 +364,12 @@
     "recipientUei": "F481BZWYCZA7",
     "totalObligated": 185423517.11,
     "awardCount": 5
+  },
+  {
+    "recipientName": "STEAMPUNK, INC.",
+    "recipientUei": "LJZTDJWPG431",
+    "totalObligated": 181556241.18,
+    "awardCount": 2
   },
   {
     "recipientName": "SOS INTERNATIONAL LLC",
@@ -318,40 +384,40 @@
     "awardCount": 1
   },
   {
+    "recipientName": "AGILE DECISION SCIENCES, LLC",
+    "recipientUei": "C6EMRJ67V4M3",
+    "totalObligated": 173163571.11,
+    "awardCount": 4
+  },
+  {
     "recipientName": "TECHNICAL RESOURCES INTERNATIONAL, INC.",
     "recipientUei": "FAA2LVENETH4",
     "totalObligated": 171535995.67,
     "awardCount": 1
   },
   {
-    "recipientName": "AGILE DECISION SCIENCES, LLC",
-    "recipientUei": "C6EMRJ67V4M3",
-    "totalObligated": 165792845.41,
-    "awardCount": 3
+    "recipientName": "ASRC FEDERAL FACILITIES LOGISTICS LLC",
+    "recipientUei": "NENSLR2C1VH9",
+    "totalObligated": 169562490.24,
+    "awardCount": 1
+  },
+  {
+    "recipientName": "GUIDEHOUSE INC.",
+    "recipientUei": "N9NJK877QJK9",
+    "totalObligated": 158347573.59,
+    "awardCount": 8
+  },
+  {
+    "recipientName": "FOUR POINTS TECHNOLOGY, L.L.C.",
+    "recipientUei": "H1KHJPJH9R51",
+    "totalObligated": 154127129.93,
+    "awardCount": 21
   },
   {
     "recipientName": "MANTECH ADVANCED SYSTEMS INTERNATIONAL, INC.",
     "recipientUei": "JY2BDT2K58Z6",
     "totalObligated": 153926484.25,
     "awardCount": 2
-  },
-  {
-    "recipientName": "FOUR POINTS TECHNOLOGY, L.L.C.",
-    "recipientUei": "H1KHJPJH9R51",
-    "totalObligated": 152767983.35,
-    "awardCount": 17
-  },
-  {
-    "recipientName": "GUIDEHOUSE INC.",
-    "recipientUei": "N9NJK877QJK9",
-    "totalObligated": 148530446.14,
-    "awardCount": 6
-  },
-  {
-    "recipientName": "NOBLIS, INC.",
-    "recipientUei": "NPJ9GV7K4CL1",
-    "totalObligated": 147186176.94,
-    "awardCount": 3
   },
   {
     "recipientName": "WHITING-TURNER CONTRACTING COMPANY, THE",
@@ -372,10 +438,28 @@
     "awardCount": 4
   },
   {
+    "recipientName": "MANAGEMENT & TRAINING CORPORATION",
+    "recipientUei": "G58ZEJ7HJGM1",
+    "totalObligated": 136728116.88,
+    "awardCount": 3
+  },
+  {
+    "recipientName": "V3GATE, LLC",
+    "recipientUei": "J4KHM5JY79E3",
+    "totalObligated": 135610356.99,
+    "awardCount": 16
+  },
+  {
     "recipientName": "LINQUEST CORPORATION",
     "recipientUei": "HQBRRJBLDQ37",
     "totalObligated": 133057427.49,
     "awardCount": 3
+  },
+  {
+    "recipientName": "EAGLE HARBOR, LLC",
+    "recipientUei": "KYNNE53LWS99",
+    "totalObligated": 130208853.04,
+    "awardCount": 4
   },
   {
     "recipientName": "RECORD STEEL AND CONSTRUCTION, INC.",
@@ -390,22 +474,16 @@
     "awardCount": 3
   },
   {
-    "recipientName": "V3GATE, LLC",
-    "recipientUei": "J4KHM5JY79E3",
-    "totalObligated": 122416269.42,
-    "awardCount": 13
-  },
-  {
-    "recipientName": "CGI FEDERAL INC.",
-    "recipientUei": "TRKEP1HEBNS5",
-    "totalObligated": 122336712.26,
-    "awardCount": 7
-  },
-  {
     "recipientName": "EDUCATION & TRAINING RESOURCES LLC",
     "recipientUei": "MV7PBX3HLST1",
     "totalObligated": 119592288.38,
     "awardCount": 2
+  },
+  {
+    "recipientName": "DELL FEDERAL SYSTEMS L.P",
+    "recipientUei": "N1C5QLNPJLS4",
+    "totalObligated": 119092664.21,
+    "awardCount": 8
   },
   {
     "recipientName": "KPMG LLP",
@@ -414,22 +492,10 @@
     "awardCount": 2
   },
   {
-    "recipientName": "KARSUN SOLUTIONS LLC",
-    "recipientUei": "WTERVPLW2SS6",
-    "totalObligated": 118301153.85,
-    "awardCount": 3
-  },
-  {
-    "recipientName": "DELL FEDERAL SYSTEMS L.P",
-    "recipientUei": "N1C5QLNPJLS4",
-    "totalObligated": 116553193.98,
-    "awardCount": 6
-  },
-  {
-    "recipientName": "MANAGEMENT & TRAINING CORPORATION",
-    "recipientUei": "G58ZEJ7HJGM1",
-    "totalObligated": 113238839.99,
-    "awardCount": 2
+    "recipientName": "KEARNEY & COMPANY, P.C.",
+    "recipientUei": "UC4BPA3LC4J6",
+    "totalObligated": 116471138.33,
+    "awardCount": 1
   },
   {
     "recipientName": "CLARK CONSTRUCTION GROUP LLC",
@@ -450,16 +516,28 @@
     "awardCount": 1
   },
   {
+    "recipientName": "ECS FEDERAL, LLC",
+    "recipientUei": "XYB4JU4PA6T4",
+    "totalObligated": 110978210.43,
+    "awardCount": 12
+  },
+  {
     "recipientName": "ACUITY - JANUS GLOBAL, LLC",
     "recipientUei": "XZN5ZX4CDA69",
     "totalObligated": 110068664.04,
     "awardCount": 1
   },
   {
-    "recipientName": "J. E. DUNN CONSTRUCTION COMPANY",
-    "recipientUei": "Y9FCAN97NHC9",
-    "totalObligated": 107652290.83,
-    "awardCount": 1
+    "recipientName": "RESEARCH TRIANGLE INSTITUTE",
+    "recipientUei": "JJHCMK4NT5N3",
+    "totalObligated": 108261084.82,
+    "awardCount": 13
+  },
+  {
+    "recipientName": "AMAZON WEB SERVICES, INC.",
+    "recipientUei": "NQEWN6C1LSU5",
+    "totalObligated": 105062033.59,
+    "awardCount": 2
   },
   {
     "recipientName": "10 TANKER AIR CARRIER, LLC",
@@ -468,16 +546,16 @@
     "awardCount": 3
   },
   {
-    "recipientName": "AMAZON WEB SERVICES, INC.",
-    "recipientUei": "NQEWN6C1LSU5",
-    "totalObligated": 102914155.17,
-    "awardCount": 1
-  },
-  {
     "recipientName": "PYRAMID SYSTEMS, INC.",
     "recipientUei": "E7NQC6R9QG17",
     "totalObligated": 101996364.96,
     "awardCount": 1
+  },
+  {
+    "recipientName": "VERACITY ENGINEERING LLC",
+    "recipientUei": "LTPHJETBAAJ7",
+    "totalObligated": 101703244.4,
+    "awardCount": 3
   },
   {
     "recipientName": "KADIAK LLC",
@@ -486,10 +564,16 @@
     "awardCount": 3
   },
   {
-    "recipientName": "EAGLE HARBOR, LLC",
-    "recipientUei": "KYNNE53LWS99",
-    "totalObligated": 92832933.32,
-    "awardCount": 2
+    "recipientName": "HELICOPTER EXPRESS LLC",
+    "recipientUei": "RH1LCNXGVHL7",
+    "totalObligated": 95241089.25,
+    "awardCount": 14
+  },
+  {
+    "recipientName": "WESTAT, INC.",
+    "recipientUei": "NVUWAFWQ57S5",
+    "totalObligated": 93312138.81,
+    "awardCount": 3
   },
   {
     "recipientName": "GUIDEHOUSE DIGITAL LLC",
@@ -500,20 +584,8 @@
   {
     "recipientName": "RAYTHEON COMPANY",
     "recipientUei": "YD6LTFVUZNG1",
-    "totalObligated": 89825197.64,
-    "awardCount": 3
-  },
-  {
-    "recipientName": "WESTAT, INC.",
-    "recipientUei": "NVUWAFWQ57S5",
-    "totalObligated": 89027929,
-    "awardCount": 2
-  },
-  {
-    "recipientName": "VERACITY ENGINEERING LLC",
-    "recipientUei": "LTPHJETBAAJ7",
-    "totalObligated": 88702238.81,
-    "awardCount": 2
+    "totalObligated": 90361259.55,
+    "awardCount": 4
   },
   {
     "recipientName": "CHESAPEAKE TECHNOLOGY INTERNATIONAL, CORP.",
@@ -526,77 +598,5 @@
     "recipientUei": "MBRTHBJVFQD7",
     "totalObligated": 88188649,
     "awardCount": 1
-  },
-  {
-    "recipientName": "ADAMS AND ASSOCIATES INC",
-    "recipientUei": "HV9FBNEWXMY9",
-    "totalObligated": 87478685.99,
-    "awardCount": 2
-  },
-  {
-    "recipientName": "POTOMAC ELECTRIC POWER CO",
-    "recipientUei": "FMHCHFPKMLZ4",
-    "totalObligated": 87129160.2,
-    "awardCount": 1
-  },
-  {
-    "recipientName": "GUARDIANS OF HONOR, LLC",
-    "recipientUei": "YT2RWCQKCEJ6",
-    "totalObligated": 86977182.1,
-    "awardCount": 1
-  },
-  {
-    "recipientName": "ECS FEDERAL, LLC",
-    "recipientUei": "XYB4JU4PA6T4",
-    "totalObligated": 84932811.43,
-    "awardCount": 9
-  },
-  {
-    "recipientName": "PRECISION, LLC",
-    "recipientUei": "W77RJMD7DUE3",
-    "totalObligated": 82614925.5,
-    "awardCount": 6
-  },
-  {
-    "recipientName": "MANTA GROUP LLC",
-    "recipientUei": "W6ZWNL4GWP97",
-    "totalObligated": 81084803.11,
-    "awardCount": 1
-  },
-  {
-    "recipientName": "NAPHCARE LLC",
-    "recipientUei": "GB3CE4QXH6A4",
-    "totalObligated": 80314830.7,
-    "awardCount": 71
-  },
-  {
-    "recipientName": "BWXT NUCLEAR OPERATIONS GROUP, INC.",
-    "recipientUei": "WJYVCPD5HKK7",
-    "totalObligated": 79811931,
-    "awardCount": 1
-  },
-  {
-    "recipientName": "FIREFLY AEROSPACE INC.",
-    "recipientUei": "UJHHLTAPK7N5",
-    "totalObligated": 77936920,
-    "awardCount": 1
-  },
-  {
-    "recipientName": "WORKWEAR OUTFITTERS, LLC",
-    "recipientUei": "SQLVDBFQ4SD8",
-    "totalObligated": 77318102.71,
-    "awardCount": 2
-  },
-  {
-    "recipientName": "SABEL SYSTEMS TECHNOLOGY SOLUTIONS, LLC",
-    "recipientUei": "F65SGFW2TUC6",
-    "totalObligated": 76840700.46,
-    "awardCount": 2
-  },
-  {
-    "recipientName": "EMCOR GOVERNMENT SERVICES, INC",
-    "recipientUei": "DNYGB48XJMK5",
-    "totalObligated": 74657079.27,
-    "awardCount": 13
   }
 ]
