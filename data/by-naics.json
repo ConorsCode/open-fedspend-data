@@ -2,20 +2,20 @@
   {
     "naicsCode": "561210",
     "naicsDescription": "FACILITIES SUPPORT SERVICES",
-    "totalObligated": 143089387559.04,
-    "awardCount": 220
+    "totalObligated": 143390811297.08,
+    "awardCount": 292
   },
   {
     "naicsCode": "541710",
     "naicsDescription": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES",
-    "totalObligated": 84079143652.87,
+    "totalObligated": 84108672212.49,
     "awardCount": 5
   },
   {
     "naicsCode": "541990",
     "naicsDescription": "ALL OTHER PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES",
-    "totalObligated": 30427815349.55,
-    "awardCount": 140
+    "totalObligated": 30546516892.94,
+    "awardCount": 183
   },
   {
     "naicsCode": "336414",
@@ -24,178 +24,202 @@
     "awardCount": 3
   },
   {
+    "naicsCode": "234930",
+    "naicsDescription": "INDUSTRIAL NONBUILDING STRUCTURE CONSTRUCTION",
+    "totalObligated": 17319586105.74,
+    "awardCount": 1
+  },
+  {
     "naicsCode": "541715",
     "naicsDescription": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)",
-    "totalObligated": 12155491621,
-    "awardCount": 127
+    "totalObligated": 16156960114.72,
+    "awardCount": 180
   },
   {
     "naicsCode": "541712",
     "naicsDescription": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT BIOTECHNOLOGY)",
-    "totalObligated": 9916047096.62,
-    "awardCount": 14
-  },
-  {
-    "naicsCode": "541512",
-    "naicsDescription": "COMPUTER SYSTEMS DESIGN SERVICES",
-    "totalObligated": 6611405935.15,
-    "awardCount": 162
-  },
-  {
-    "naicsCode": "562910",
-    "naicsDescription": "REMEDIATION SERVICES",
-    "totalObligated": 5000485872.26,
-    "awardCount": 52
-  },
-  {
-    "naicsCode": "336415",
-    "naicsDescription": "GUIDED MISSILE AND SPACE VEHICLE PROPULSION UNIT AND PROPULSION UNIT PARTS MANUFACTURING",
-    "totalObligated": 4430826299.38,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "541330",
-    "naicsDescription": "ENGINEERING SERVICES",
-    "totalObligated": 3729592638.46,
-    "awardCount": 263
-  },
-  {
-    "naicsCode": "541519",
-    "naicsDescription": "OTHER COMPUTER RELATED SERVICES",
-    "totalObligated": 3552325948.42,
-    "awardCount": 533
-  },
-  {
-    "naicsCode": "333314",
-    "naicsDescription": "OPTICAL INSTRUMENT AND LENS MANUFACTURING",
-    "totalObligated": 2524388480,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "236220",
-    "naicsDescription": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
-    "totalObligated": 2415107351.06,
-    "awardCount": 203
-  },
-  {
-    "naicsCode": "624190",
-    "naicsDescription": "OTHER INDIVIDUAL AND FAMILY SERVICES",
-    "totalObligated": 2292388025.22,
-    "awardCount": 7
-  },
-  {
-    "naicsCode": "611310",
-    "naicsDescription": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS",
-    "totalObligated": 2200136905.94,
-    "awardCount": 19
+    "totalObligated": 12850292837.83,
+    "awardCount": 21
   },
   {
     "naicsCode": "541711",
     "naicsDescription": "RESEARCH AND DEVELOPMENT IN BIOTECHNOLOGY",
-    "totalObligated": 1430156312.81,
-    "awardCount": 4
+    "totalObligated": 12440431176.09,
+    "awardCount": 9
+  },
+  {
+    "naicsCode": "541512",
+    "naicsDescription": "COMPUTER SYSTEMS DESIGN SERVICES",
+    "totalObligated": 9219754224.26,
+    "awardCount": 222
+  },
+  {
+    "naicsCode": "541330",
+    "naicsDescription": "ENGINEERING SERVICES",
+    "totalObligated": 6781125495.71,
+    "awardCount": 368
+  },
+  {
+    "naicsCode": "336415",
+    "naicsDescription": "GUIDED MISSILE AND SPACE VEHICLE PROPULSION UNIT AND PROPULSION UNIT PARTS MANUFACTURING",
+    "totalObligated": 5767546675.38,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "562910",
+    "naicsDescription": "REMEDIATION SERVICES",
+    "totalObligated": 5111361008.73,
+    "awardCount": 74
+  },
+  {
+    "naicsCode": "541519",
+    "naicsDescription": "OTHER COMPUTER RELATED SERVICES",
+    "totalObligated": 4143687849,
+    "awardCount": 699
+  },
+  {
+    "naicsCode": "236220",
+    "naicsDescription": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+    "totalObligated": 3355198790,
+    "awardCount": 266
+  },
+  {
+    "naicsCode": "333314",
+    "naicsDescription": "OPTICAL INSTRUMENT AND LENS MANUFACTURING",
+    "totalObligated": 2524480170.8,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "624190",
+    "naicsDescription": "OTHER INDIVIDUAL AND FAMILY SERVICES",
+    "totalObligated": 2371914074.22,
+    "awardCount": 8
+  },
+  {
+    "naicsCode": "611310",
+    "naicsDescription": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS",
+    "totalObligated": 2202013385.65,
+    "awardCount": 23
   },
   {
     "naicsCode": "541611",
     "naicsDescription": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES",
-    "totalObligated": 1270413904.77,
-    "awardCount": 236
+    "totalObligated": 1600287771.56,
+    "awardCount": 317
+  },
+  {
+    "naicsCode": "236210",
+    "naicsDescription": "INDUSTRIAL BUILDING CONSTRUCTION",
+    "totalObligated": 1581017205.66,
+    "awardCount": 6
   },
   {
     "naicsCode": "334511",
     "naicsDescription": "SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL, AND NAUTICAL SYSTEM AND INSTRUMENT MANUFACTURING",
-    "totalObligated": 1253687073.35,
-    "awardCount": 33
+    "totalObligated": 1259004570.23,
+    "awardCount": 41
   },
   {
     "naicsCode": "541511",
     "naicsDescription": "CUSTOM COMPUTER PROGRAMMING SERVICES",
-    "totalObligated": 1079791743.17,
-    "awardCount": 109
+    "totalObligated": 1246875621.83,
+    "awardCount": 144
   },
   {
     "naicsCode": "518210",
     "naicsDescription": "COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES",
-    "totalObligated": 1009800849.58,
-    "awardCount": 93
-  },
-  {
-    "naicsCode": "325180",
-    "naicsDescription": "OTHER BASIC INORGANIC CHEMICAL MANUFACTURING",
-    "totalObligated": 973855086.64,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "561990",
-    "naicsDescription": "ALL OTHER SUPPORT SERVICES",
-    "totalObligated": 914532715.32,
-    "awardCount": 17
-  },
-  {
-    "naicsCode": "517310",
-    "naicsDescription": "TELECOMMUNICATIONS RESELLERS",
-    "totalObligated": 674025184.32,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "524114",
-    "naicsDescription": "DIRECT HEALTH AND MEDICAL INSURANCE CARRIERS",
-    "totalObligated": 668513762.35,
-    "awardCount": 5
-  },
-  {
-    "naicsCode": "561612",
-    "naicsDescription": "SECURITY GUARDS AND PATROL SERVICES",
-    "totalObligated": 628040078.98,
-    "awardCount": 262
-  },
-  {
-    "naicsCode": "481212",
-    "naicsDescription": "NONSCHEDULED CHARTERED FREIGHT AIR TRANSPORTATION",
-    "totalObligated": 598192475.15,
-    "awardCount": 46
-  },
-  {
-    "naicsCode": "517110",
-    "naicsDescription": "WIRED TELECOMMUNICATIONS CARRIERS",
-    "totalObligated": 586205983.94,
-    "awardCount": 13
-  },
-  {
-    "naicsCode": "488190",
-    "naicsDescription": "OTHER SUPPORT ACTIVITIES FOR AIR TRANSPORTATION",
-    "totalObligated": 536691460.28,
-    "awardCount": 19
-  },
-  {
-    "naicsCode": "541714",
-    "naicsDescription": "RESEARCH AND DEVELOPMENT IN BIOTECHNOLOGY (EXCEPT NANOBIOTECHNOLOGY)",
-    "totalObligated": 490013643.99,
-    "awardCount": 14
+    "totalObligated": 1222903410.64,
+    "awardCount": 120
   },
   {
     "naicsCode": "611519",
     "naicsDescription": "OTHER TECHNICAL AND TRADE SCHOOLS",
-    "totalObligated": 469794854.72,
-    "awardCount": 10
+    "totalObligated": 982022848.72,
+    "awardCount": 21
+  },
+  {
+    "naicsCode": "325180",
+    "naicsDescription": "OTHER BASIC INORGANIC CHEMICAL MANUFACTURING",
+    "totalObligated": 973869053.71,
+    "awardCount": 2
+  },
+  {
+    "naicsCode": "524114",
+    "naicsDescription": "DIRECT HEALTH AND MEDICAL INSURANCE CARRIERS",
+    "totalObligated": 935844526.16,
+    "awardCount": 7
+  },
+  {
+    "naicsCode": "561990",
+    "naicsDescription": "ALL OTHER SUPPORT SERVICES",
+    "totalObligated": 917314177.47,
+    "awardCount": 31
+  },
+  {
+    "naicsCode": "517110",
+    "naicsDescription": "WIRED TELECOMMUNICATIONS CARRIERS",
+    "totalObligated": 852743434.53,
+    "awardCount": 18
+  },
+  {
+    "naicsCode": "481212",
+    "naicsDescription": "NONSCHEDULED CHARTERED FREIGHT AIR TRANSPORTATION",
+    "totalObligated": 814265392.26,
+    "awardCount": 63
+  },
+  {
+    "naicsCode": "561612",
+    "naicsDescription": "SECURITY GUARDS AND PATROL SERVICES",
+    "totalObligated": 754369259.04,
+    "awardCount": 296
+  },
+  {
+    "naicsCode": "517310",
+    "naicsDescription": "TELECOMMUNICATIONS RESELLERS",
+    "totalObligated": 681225184.32,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "541714",
+    "naicsDescription": "RESEARCH AND DEVELOPMENT IN BIOTECHNOLOGY (EXCEPT NANOBIOTECHNOLOGY)",
+    "totalObligated": 548757116.05,
+    "awardCount": 24
+  },
+  {
+    "naicsCode": "488190",
+    "naicsDescription": "OTHER SUPPORT ACTIVITIES FOR AIR TRANSPORTATION",
+    "totalObligated": 538340499.17,
+    "awardCount": 25
   },
   {
     "naicsCode": "334220",
     "naicsDescription": "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING",
-    "totalObligated": 349491149.1,
-    "awardCount": 27
+    "totalObligated": 351821775.42,
+    "awardCount": 35
   },
   {
     "naicsCode": "237310",
     "naicsDescription": "HIGHWAY, STREET, AND BRIDGE CONSTRUCTION",
-    "totalObligated": 258166539.99,
-    "awardCount": 34
+    "totalObligated": 293096779.84,
+    "awardCount": 44
+  },
+  {
+    "naicsCode": "522390",
+    "naicsDescription": "OTHER ACTIVITIES RELATED TO CREDIT INTERMEDIATION",
+    "totalObligated": 278968629.59,
+    "awardCount": 2
   },
   {
     "naicsCode": "237990",
     "naicsDescription": "OTHER HEAVY AND CIVIL ENGINEERING CONSTRUCTION",
-    "totalObligated": 217425345.53,
-    "awardCount": 14
+    "totalObligated": 273581131.04,
+    "awardCount": 18
+  },
+  {
+    "naicsCode": "541690",
+    "naicsDescription": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES",
+    "totalObligated": 214907217.48,
+    "awardCount": 100
   },
   {
     "naicsCode": "221121",
@@ -206,20 +230,44 @@
   {
     "naicsCode": "325998",
     "naicsDescription": "ALL OTHER MISCELLANEOUS CHEMICAL PRODUCT AND PREPARATION MANUFACTURING",
-    "totalObligated": 202843559.23,
-    "awardCount": 25
+    "totalObligated": 202966395.62,
+    "awardCount": 30
+  },
+  {
+    "naicsCode": "541612",
+    "naicsDescription": "HUMAN RESOURCES CONSULTING SERVICES (2007), HUMAN RESOURCES AND EXECUTIVE SEARCH CONSULTING SERVICES (2002)",
+    "totalObligated": 202499649.72,
+    "awardCount": 18
+  },
+  {
+    "naicsCode": "561720",
+    "naicsDescription": "JANITORIAL SERVICES",
+    "totalObligated": 200422617.95,
+    "awardCount": 71
   },
   {
     "naicsCode": "221112",
     "naicsDescription": "FOSSIL FUEL ELECTRIC POWER GENERATION",
-    "totalObligated": 199779154.12,
-    "awardCount": 10
+    "totalObligated": 199798664.12,
+    "awardCount": 11
   },
   {
-    "naicsCode": "541690",
-    "naicsDescription": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES",
-    "totalObligated": 198655182.48,
-    "awardCount": 82
+    "naicsCode": "511210",
+    "naicsDescription": "SOFTWARE PUBLISHERS",
+    "totalObligated": 199311535.77,
+    "awardCount": 64
+  },
+  {
+    "naicsCode": "481211",
+    "naicsDescription": "NONSCHEDULED CHARTERED PASSENGER AIR TRANSPORTATION",
+    "totalObligated": 196081118.59,
+    "awardCount": 77
+  },
+  {
+    "naicsCode": "517911",
+    "naicsDescription": "TELECOMMUNICATIONS RESELLERS",
+    "totalObligated": 194530295.23,
+    "awardCount": 8
   },
   {
     "naicsCode": "522320",
@@ -228,82 +276,76 @@
     "awardCount": 5
   },
   {
-    "naicsCode": "541612",
-    "naicsDescription": "HUMAN RESOURCES CONSULTING SERVICES (2007), HUMAN RESOURCES AND EXECUTIVE SEARCH CONSULTING SERVICES (2002)",
-    "totalObligated": 193993496.51,
-    "awardCount": 13
-  },
-  {
     "naicsCode": "336611",
     "naicsDescription": "SHIP BUILDING AND REPAIRING",
-    "totalObligated": 184090808.78,
-    "awardCount": 34
-  },
-  {
-    "naicsCode": "517911",
-    "naicsDescription": "TELECOMMUNICATIONS RESELLERS",
-    "totalObligated": 165684119.35,
-    "awardCount": 7
-  },
-  {
-    "naicsCode": "513210",
-    "naicsDescription": "SOFTWARE PUBLISHERS",
-    "totalObligated": 155149275.56,
-    "awardCount": 54
-  },
-  {
-    "naicsCode": "522390",
-    "naicsDescription": "OTHER ACTIVITIES RELATED TO CREDIT INTERMEDIATION",
-    "totalObligated": 154873108.26,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "481211",
-    "naicsDescription": "NONSCHEDULED CHARTERED PASSENGER AIR TRANSPORTATION",
-    "totalObligated": 149829222.02,
-    "awardCount": 63
-  },
-  {
-    "naicsCode": "493110",
-    "naicsDescription": "GENERAL WAREHOUSING AND STORAGE",
-    "totalObligated": 136283511.22,
-    "awardCount": 11
+    "totalObligated": 192266509.98,
+    "awardCount": 45
   },
   {
     "naicsCode": "237110",
     "naicsDescription": "WATER AND SEWER LINE AND RELATED STRUCTURES CONSTRUCTION",
-    "totalObligated": 118434057.85,
-    "awardCount": 18
+    "totalObligated": 166039504.18,
+    "awardCount": 21
   },
   {
-    "naicsCode": "339112",
-    "naicsDescription": "SURGICAL AND MEDICAL INSTRUMENT MANUFACTURING",
-    "totalObligated": 117098042.61,
-    "awardCount": 72
-  },
-  {
-    "naicsCode": "541620",
-    "naicsDescription": "ENVIRONMENTAL CONSULTING SERVICES",
-    "totalObligated": 109903280.83,
-    "awardCount": 76
-  },
-  {
-    "naicsCode": "541310",
-    "naicsDescription": "ARCHITECTURAL SERVICES",
-    "totalObligated": 109401686.77,
-    "awardCount": 48
-  },
-  {
-    "naicsCode": "621111",
-    "naicsDescription": "OFFICES OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS)",
-    "totalObligated": 107130844.64,
-    "awardCount": 14
+    "naicsCode": "513210",
+    "naicsDescription": "SOFTWARE PUBLISHERS",
+    "totalObligated": 159687447.45,
+    "awardCount": 78
   },
   {
     "naicsCode": "541720",
     "naicsDescription": "RESEARCH AND DEVELOPMENT IN THE SOCIAL SCIENCES AND HUMANITIES",
-    "totalObligated": 105587737.42,
-    "awardCount": 20
+    "totalObligated": 149249394.05,
+    "awardCount": 29
+  },
+  {
+    "naicsCode": "541620",
+    "naicsDescription": "ENVIRONMENTAL CONSULTING SERVICES",
+    "totalObligated": 137800019.78,
+    "awardCount": 101
+  },
+  {
+    "naicsCode": "493110",
+    "naicsDescription": "GENERAL WAREHOUSING AND STORAGE",
+    "totalObligated": 137184853.41,
+    "awardCount": 13
+  },
+  {
+    "naicsCode": "339112",
+    "naicsDescription": "SURGICAL AND MEDICAL INSTRUMENT MANUFACTURING",
+    "totalObligated": 128417585.73,
+    "awardCount": 108
+  },
+  {
+    "naicsCode": "541211",
+    "naicsDescription": "OFFICES OF CERTIFIED PUBLIC ACCOUNTANTS",
+    "totalObligated": 125228689.88,
+    "awardCount": 23
+  },
+  {
+    "naicsCode": "541310",
+    "naicsDescription": "ARCHITECTURAL SERVICES",
+    "totalObligated": 112732368.85,
+    "awardCount": 56
+  },
+  {
+    "naicsCode": "621111",
+    "naicsDescription": "OFFICES OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS)",
+    "totalObligated": 108222638.14,
+    "awardCount": 18
+  },
+  {
+    "naicsCode": "562211",
+    "naicsDescription": "HAZARDOUS WASTE TREATMENT AND DISPOSAL",
+    "totalObligated": 103118921.24,
+    "awardCount": 7
+  },
+  {
+    "naicsCode": "483111",
+    "naicsDescription": "DEEP SEA FREIGHT TRANSPORTATION",
+    "totalObligated": 103085344.79,
+    "awardCount": 54
   },
   {
     "naicsCode": "532411",
@@ -312,58 +354,70 @@
     "awardCount": 17
   },
   {
-    "naicsCode": "562211",
-    "naicsDescription": "HAZARDOUS WASTE TREATMENT AND DISPOSAL",
-    "totalObligated": 100938096.05,
-    "awardCount": 3
-  },
-  {
-    "naicsCode": "221118",
-    "naicsDescription": "OTHER ELECTRIC POWER GENERATION",
-    "totalObligated": 88828874.12,
-    "awardCount": 8
-  },
-  {
-    "naicsCode": "541618",
-    "naicsDescription": "OTHER MANAGEMENT CONSULTING SERVICES",
-    "totalObligated": 86267075.06,
-    "awardCount": 8
-  },
-  {
-    "naicsCode": "561720",
-    "naicsDescription": "JANITORIAL SERVICES",
-    "totalObligated": 79614726.08,
-    "awardCount": 61
-  },
-  {
-    "naicsCode": "561499",
-    "naicsDescription": "ALL OTHER BUSINESS SUPPORT SERVICES",
-    "totalObligated": 75746631.46,
-    "awardCount": 18
-  },
-  {
-    "naicsCode": "541513",
-    "naicsDescription": "COMPUTER FACILITIES MANAGEMENT SERVICES",
-    "totalObligated": 74472400.79,
-    "awardCount": 17
-  },
-  {
-    "naicsCode": "483111",
-    "naicsDescription": "DEEP SEA FREIGHT TRANSPORTATION",
-    "totalObligated": 74303508.5,
-    "awardCount": 48
+    "naicsCode": "423450",
+    "naicsDescription": "MEDICAL, DENTAL, AND HOSPITAL EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+    "totalObligated": 102065995.86,
+    "awardCount": 28
   },
   {
     "naicsCode": "115310",
     "naicsDescription": "SUPPORT ACTIVITIES FOR FORESTRY",
-    "totalObligated": 70178983.33,
-    "awardCount": 80
+    "totalObligated": 99012083.3,
+    "awardCount": 113
+  },
+  {
+    "naicsCode": "621999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS AMBULATORY HEALTH CARE SERVICES",
+    "totalObligated": 96265880.72,
+    "awardCount": 7
+  },
+  {
+    "naicsCode": "221118",
+    "naicsDescription": "OTHER ELECTRIC POWER GENERATION",
+    "totalObligated": 91941233.25,
+    "awardCount": 10
+  },
+  {
+    "naicsCode": "541618",
+    "naicsDescription": "OTHER MANAGEMENT CONSULTING SERVICES",
+    "totalObligated": 90244866.21,
+    "awardCount": 11
+  },
+  {
+    "naicsCode": "541380",
+    "naicsDescription": "TESTING LABORATORIES AND SERVICES",
+    "totalObligated": 87153977,
+    "awardCount": 59
+  },
+  {
+    "naicsCode": "611512",
+    "naicsDescription": "FLIGHT TRAINING",
+    "totalObligated": 84686757.6,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "561499",
+    "naicsDescription": "ALL OTHER BUSINESS SUPPORT SERVICES",
+    "totalObligated": 76684703.41,
+    "awardCount": 24
+  },
+  {
+    "naicsCode": "541513",
+    "naicsDescription": "COMPUTER FACILITIES MANAGEMENT SERVICES",
+    "totalObligated": 75274342.15,
+    "awardCount": 20
   },
   {
     "naicsCode": "334111",
     "naicsDescription": "ELECTRONIC COMPUTER MANUFACTURING",
-    "totalObligated": 65804633.76,
-    "awardCount": 108
+    "totalObligated": 74103068.3,
+    "awardCount": 144
+  },
+  {
+    "naicsCode": "561621",
+    "naicsDescription": "SECURITY SYSTEMS SERVICES (EXCEPT LOCKSMITHS)",
+    "totalObligated": 71998299.26,
+    "awardCount": 71
   },
   {
     "naicsCode": "523920",
@@ -372,70 +426,94 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "517919",
-    "naicsDescription": "ALL OTHER TELECOMMUNICATIONS",
-    "totalObligated": 58154850.65,
-    "awardCount": 4
-  },
-  {
     "naicsCode": "811210",
     "naicsDescription": "ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
-    "totalObligated": 57673877.97,
+    "totalObligated": 60840131.89,
+    "awardCount": 133
+  },
+  {
+    "naicsCode": "238220",
+    "naicsDescription": "PLUMBING, HEATING, AND AIR-CONDITIONING CONTRACTORS",
+    "totalObligated": 58943734.62,
+    "awardCount": 86
+  },
+  {
+    "naicsCode": "517919",
+    "naicsDescription": "ALL OTHER TELECOMMUNICATIONS",
+    "totalObligated": 58280780.23,
+    "awardCount": 6
+  },
+  {
+    "naicsCode": "561320",
+    "naicsDescription": "TEMPORARY HELP SERVICES",
+    "totalObligated": 56327887.75,
     "awardCount": 100
   },
   {
     "naicsCode": "623990",
     "naicsDescription": "OTHER RESIDENTIAL CARE FACILITIES",
-    "totalObligated": 54839198.23,
+    "totalObligated": 55053548.23,
     "awardCount": 26
-  },
-  {
-    "naicsCode": "541380",
-    "naicsDescription": "TESTING LABORATORIES AND SERVICES",
-    "totalObligated": 53573907.84,
-    "awardCount": 44
-  },
-  {
-    "naicsCode": "511210",
-    "naicsDescription": "SOFTWARE PUBLISHERS",
-    "totalObligated": 52491333.75,
-    "awardCount": 51
-  },
-  {
-    "naicsCode": "561320",
-    "naicsDescription": "TEMPORARY HELP SERVICES",
-    "totalObligated": 51389658.43,
-    "awardCount": 86
-  },
-  {
-    "naicsCode": "622110",
-    "naicsDescription": "GENERAL MEDICAL AND SURGICAL HOSPITALS",
-    "totalObligated": 50754736.15,
-    "awardCount": 121
   },
   {
     "naicsCode": "325412",
     "naicsDescription": "PHARMACEUTICAL PREPARATION MANUFACTURING",
-    "totalObligated": 49571321.62,
-    "awardCount": 87
+    "totalObligated": 51900658.51,
+    "awardCount": 96
   },
   {
-    "naicsCode": "238220",
-    "naicsDescription": "PLUMBING, HEATING, AND AIR-CONDITIONING CONTRACTORS",
-    "totalObligated": 47923745.46,
-    "awardCount": 66
+    "naicsCode": "325120",
+    "naicsDescription": "INDUSTRIAL GAS MANUFACTURING",
+    "totalObligated": 51651729.55,
+    "awardCount": 33
   },
   {
-    "naicsCode": "561422",
-    "naicsDescription": "TELEMARKETING BUREAUS AND OTHER CONTACT CENTERS",
-    "totalObligated": 45363318.33,
-    "awardCount": 4
+    "naicsCode": "622110",
+    "naicsDescription": "GENERAL MEDICAL AND SURGICAL HOSPITALS",
+    "totalObligated": 50800194.49,
+    "awardCount": 121
+  },
+  {
+    "naicsCode": "334517",
+    "naicsDescription": "IRRADIATION APPARATUS MANUFACTURING",
+    "totalObligated": 50758954.38,
+    "awardCount": 39
   },
   {
     "naicsCode": "337214",
     "naicsDescription": "OFFICE FURNITURE (EXCEPT WOOD) MANUFACTURING",
-    "totalObligated": 45018375.34,
-    "awardCount": 335
+    "totalObligated": 49485493.1,
+    "awardCount": 526
+  },
+  {
+    "naicsCode": "561110",
+    "naicsDescription": "OFFICE ADMINISTRATIVE SERVICES",
+    "totalObligated": 48314669.24,
+    "awardCount": 21
+  },
+  {
+    "naicsCode": "561422",
+    "naicsDescription": "TELEMARKETING BUREAUS AND OTHER CONTACT CENTERS",
+    "totalObligated": 47165117.44,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "517312",
+    "naicsDescription": "WIRELESS TELECOMMUNICATIONS CARRIERS (EXCEPT SATELLITE)",
+    "totalObligated": 45715244.9,
+    "awardCount": 86
+  },
+  {
+    "naicsCode": "334516",
+    "naicsDescription": "ANALYTICAL LABORATORY INSTRUMENT MANUFACTURING",
+    "totalObligated": 44198855.45,
+    "awardCount": 207
+  },
+  {
+    "naicsCode": "541219",
+    "naicsDescription": "OTHER ACCOUNTING SERVICES",
+    "totalObligated": 43890037.4,
+    "awardCount": 11
   },
   {
     "naicsCode": "331410",
@@ -444,94 +522,88 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "325120",
-    "naicsDescription": "INDUSTRIAL GAS MANUFACTURING",
-    "totalObligated": 42414472.14,
-    "awardCount": 25
-  },
-  {
-    "naicsCode": "541219",
-    "naicsDescription": "OTHER ACCOUNTING SERVICES",
-    "totalObligated": 41098801.06,
-    "awardCount": 9
-  },
-  {
-    "naicsCode": "236210",
-    "naicsDescription": "INDUSTRIAL BUILDING CONSTRUCTION",
-    "totalObligated": 40127851.65,
-    "awardCount": 5
-  },
-  {
-    "naicsCode": "561621",
-    "naicsDescription": "SECURITY SYSTEMS SERVICES (EXCEPT LOCKSMITHS)",
-    "totalObligated": 39691978.06,
-    "awardCount": 58
-  },
-  {
-    "naicsCode": "517312",
-    "naicsDescription": "WIRELESS TELECOMMUNICATIONS CARRIERS (EXCEPT SATELLITE)",
-    "totalObligated": 39345348.24,
-    "awardCount": 68
-  },
-  {
-    "naicsCode": "541211",
-    "naicsDescription": "OFFICES OF CERTIFIED PUBLIC ACCOUNTANTS",
-    "totalObligated": 37566908.72,
-    "awardCount": 12
+    "naicsCode": "237130",
+    "naicsDescription": "POWER AND COMMUNICATION LINE AND RELATED STRUCTURES CONSTRUCTION",
+    "totalObligated": 43205303.55,
+    "awardCount": 8
   },
   {
     "naicsCode": "334290",
     "naicsDescription": "OTHER COMMUNICATIONS EQUIPMENT MANUFACTURING",
-    "totalObligated": 36381957.75,
-    "awardCount": 17
-  },
-  {
-    "naicsCode": "334517",
-    "naicsDescription": "IRRADIATION APPARATUS MANUFACTURING",
-    "totalObligated": 36022584.71,
-    "awardCount": 22
-  },
-  {
-    "naicsCode": "334516",
-    "naicsDescription": "ANALYTICAL LABORATORY INSTRUMENT MANUFACTURING",
-    "totalObligated": 32190271.84,
-    "awardCount": 152
-  },
-  {
-    "naicsCode": "541199",
-    "naicsDescription": "ALL OTHER LEGAL SERVICES",
-    "totalObligated": 31947016.77,
-    "awardCount": 66
-  },
-  {
-    "naicsCode": "811310",
-    "naicsDescription": "COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT (EXCEPT AUTOMOTIVE AND ELECTRONIC) REPAIR AND MAINTENANCE",
-    "totalObligated": 31899060.79,
-    "awardCount": 62
+    "totalObligated": 37639541.73,
+    "awardCount": 29
   },
   {
     "naicsCode": "611710",
     "naicsDescription": "EDUCATIONAL SUPPORT SERVICES",
-    "totalObligated": 29534363.87,
-    "awardCount": 9
+    "totalObligated": 36448568.65,
+    "awardCount": 12
   },
   {
-    "naicsCode": "611699",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS SCHOOLS AND INSTRUCTION",
-    "totalObligated": 27657540.8,
-    "awardCount": 5
+    "naicsCode": "541199",
+    "naicsDescription": "ALL OTHER LEGAL SERVICES",
+    "totalObligated": 35135942.7,
+    "awardCount": 86
+  },
+  {
+    "naicsCode": "811310",
+    "naicsDescription": "COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT (EXCEPT AUTOMOTIVE AND ELECTRONIC) REPAIR AND MAINTENANCE",
+    "totalObligated": 32229186.1,
+    "awardCount": 80
+  },
+  {
+    "naicsCode": "621511",
+    "naicsDescription": "MEDICAL LABORATORIES",
+    "totalObligated": 30972790.98,
+    "awardCount": 35
+  },
+  {
+    "naicsCode": "541320",
+    "naicsDescription": "LANDSCAPE ARCHITECTURAL SERVICES",
+    "totalObligated": 28728184.44,
+    "awardCount": 3
   },
   {
     "naicsCode": "621498",
     "naicsDescription": "ALL OTHER OUTPATIENT CARE CENTERS",
-    "totalObligated": 27632161.66,
+    "totalObligated": 28377574.66,
+    "awardCount": 9
+  },
+  {
+    "naicsCode": "722310",
+    "naicsDescription": "FOOD SERVICE CONTRACTORS",
+    "totalObligated": 28103257.69,
+    "awardCount": 15
+  },
+  {
+    "naicsCode": "611699",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS SCHOOLS AND INSTRUCTION",
+    "totalObligated": 27676040.8,
     "awardCount": 7
   },
   {
-    "naicsCode": "561110",
-    "naicsDescription": "OFFICE ADMINISTRATIVE SERVICES",
-    "totalObligated": 25989119.69,
-    "awardCount": 14
+    "naicsCode": "311411",
+    "naicsDescription": "FROZEN FRUIT, JUICE, AND VEGETABLE MANUFACTURING",
+    "totalObligated": 25732093.2,
+    "awardCount": 15
+  },
+  {
+    "naicsCode": "541930",
+    "naicsDescription": "TRANSLATION AND INTERPRETATION SERVICES",
+    "totalObligated": 25451901.77,
+    "awardCount": 67
+  },
+  {
+    "naicsCode": "488390",
+    "naicsDescription": "OTHER SUPPORT ACTIVITIES FOR WATER TRANSPORTATION",
+    "totalObligated": 24463164.35,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "561611",
+    "naicsDescription": "INVESTIGATION AND PERSONAL BACKGROUND CHECK SERVICES",
+    "totalObligated": 24429427.62,
+    "awardCount": 86
   },
   {
     "naicsCode": "311421",
@@ -542,74 +614,86 @@
   {
     "naicsCode": "336411",
     "naicsDescription": "AIRCRAFT MANUFACTURING",
-    "totalObligated": 22784934.03,
-    "awardCount": 9
+    "totalObligated": 23715566.96,
+    "awardCount": 13
   },
   {
-    "naicsCode": "237130",
-    "naicsDescription": "POWER AND COMMUNICATION LINE AND RELATED STRUCTURES CONSTRUCTION",
-    "totalObligated": 22054679,
+    "naicsCode": "311615",
+    "naicsDescription": "POULTRY PROCESSING",
+    "totalObligated": 23145581.04,
     "awardCount": 5
   },
   {
-    "naicsCode": "311411",
-    "naicsDescription": "FROZEN FRUIT, JUICE, AND VEGETABLE MANUFACTURING",
-    "totalObligated": 21919125.47,
-    "awardCount": 14
-  },
-  {
-    "naicsCode": "541930",
-    "naicsDescription": "TRANSLATION AND INTERPRETATION SERVICES",
-    "totalObligated": 20518412.86,
-    "awardCount": 38
-  },
-  {
-    "naicsCode": "621511",
-    "naicsDescription": "MEDICAL LABORATORIES",
-    "totalObligated": 20276092.84,
-    "awardCount": 30
-  },
-  {
-    "naicsCode": "481219",
-    "naicsDescription": "OTHER NONSCHEDULED AIR TRANSPORTATION",
-    "totalObligated": 20188063.56,
-    "awardCount": 3
+    "naicsCode": "519130",
+    "naicsDescription": "INTERNET PUBLISHING AND BROADCASTING AND WEB SEARCH PORTALS",
+    "totalObligated": 22566388.83,
+    "awardCount": 8
   },
   {
     "naicsCode": "238210",
     "naicsDescription": "ELECTRICAL CONTRACTORS AND OTHER WIRING INSTALLATION CONTRACTORS",
-    "totalObligated": 19984800.12,
-    "awardCount": 45
+    "totalObligated": 21816704.91,
+    "awardCount": 53
   },
   {
     "naicsCode": "325414",
     "naicsDescription": "BIOLOGICAL PRODUCT (EXCEPT DIAGNOSTIC) MANUFACTURING",
-    "totalObligated": 19666830.59,
+    "totalObligated": 21372428.27,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "336111",
+    "naicsDescription": "AUTOMOBILE MANUFACTURING",
+    "totalObligated": 20825400,
+    "awardCount": 850
+  },
+  {
+    "naicsCode": "481219",
+    "naicsDescription": "OTHER NONSCHEDULED AIR TRANSPORTATION",
+    "totalObligated": 20194255.49,
     "awardCount": 3
+  },
+  {
+    "naicsCode": "519290",
+    "naicsDescription": "WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES",
+    "totalObligated": 18955328.26,
+    "awardCount": 37
   },
   {
     "naicsCode": "621910",
     "naicsDescription": "AMBULANCE SERVICES",
-    "totalObligated": 17787373.83,
-    "awardCount": 10
-  },
-  {
-    "naicsCode": "541320",
-    "naicsDescription": "LANDSCAPE ARCHITECTURAL SERVICES",
-    "totalObligated": 17689281.8,
-    "awardCount": 2
+    "totalObligated": 18717881.96,
+    "awardCount": 12
   },
   {
     "naicsCode": "332994",
     "naicsDescription": "SMALL ARMS, ORDNANCE, AND ORDNANCE ACCESSORIES MANUFACTURING",
-    "totalObligated": 17632248.63,
-    "awardCount": 34
+    "totalObligated": 17962713.69,
+    "awardCount": 37
   },
   {
     "naicsCode": "221122",
     "naicsDescription": "ELECTRIC POWER DISTRIBUTION",
-    "totalObligated": 16813946.2,
-    "awardCount": 21
+    "totalObligated": 17777303.57,
+    "awardCount": 26
+  },
+  {
+    "naicsCode": "238990",
+    "naicsDescription": "ALL OTHER SPECIALTY TRADE CONTRACTORS",
+    "totalObligated": 17210294.07,
+    "awardCount": 20
+  },
+  {
+    "naicsCode": "311611",
+    "naicsDescription": "ANIMAL (EXCEPT POULTRY) SLAUGHTERING",
+    "totalObligated": 16947009.07,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "336413",
+    "naicsDescription": "OTHER AIRCRAFT PARTS AND AUXILIARY EQUIPMENT MANUFACTURING",
+    "totalObligated": 16833534.66,
+    "awardCount": 72
   },
   {
     "naicsCode": "311514",
@@ -618,28 +702,46 @@
     "awardCount": 3
   },
   {
+    "naicsCode": "541810",
+    "naicsDescription": "ADVERTISING AGENCIES",
+    "totalObligated": 16189325.53,
+    "awardCount": 9
+  },
+  {
+    "naicsCode": "334510",
+    "naicsDescription": "ELECTROMEDICAL AND ELECTROTHERAPEUTIC APPARATUS MANUFACTURING",
+    "totalObligated": 15852935.96,
+    "awardCount": 42
+  },
+  {
+    "naicsCode": "621991",
+    "naicsDescription": "BLOOD AND ORGAN BANKS",
+    "totalObligated": 15339179.22,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "611430",
+    "naicsDescription": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING",
+    "totalObligated": 15174394.18,
+    "awardCount": 37
+  },
+  {
     "naicsCode": "484230",
     "naicsDescription": "SPECIALIZED FREIGHT (EXCEPT USED GOODS) TRUCKING, LONG-DISTANCE",
     "totalObligated": 15147852,
     "awardCount": 1
   },
   {
-    "naicsCode": "621991",
-    "naicsDescription": "BLOOD AND ORGAN BANKS",
-    "totalObligated": 15122436.09,
-    "awardCount": 3
+    "naicsCode": "519190",
+    "naicsDescription": "ALL OTHER INFORMATION SERVICES",
+    "totalObligated": 15015764.74,
+    "awardCount": 5
   },
   {
-    "naicsCode": "541810",
-    "naicsDescription": "ADVERTISING AGENCIES",
-    "totalObligated": 14968672.76,
-    "awardCount": 7
-  },
-  {
-    "naicsCode": "238990",
-    "naicsDescription": "ALL OTHER SPECIALTY TRADE CONTRACTORS",
-    "totalObligated": 14932189.77,
-    "awardCount": 14
+    "naicsCode": "492110",
+    "naicsDescription": "COURIERS AND EXPRESS DELIVERY SERVICES",
+    "totalObligated": 14741095.04,
+    "awardCount": 64
   },
   {
     "naicsCode": "485991",
@@ -648,10 +750,22 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "519290",
-    "naicsDescription": "WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES",
-    "totalObligated": 13635880.7,
-    "awardCount": 26
+    "naicsCode": "561920",
+    "naicsDescription": "CONVENTION AND TRADE SHOW ORGANIZERS",
+    "totalObligated": 14301223.17,
+    "awardCount": 16
+  },
+  {
+    "naicsCode": "339113",
+    "naicsDescription": "SURGICAL APPLIANCE AND SUPPLIES MANUFACTURING",
+    "totalObligated": 13819034.02,
+    "awardCount": 204
+  },
+  {
+    "naicsCode": "517410",
+    "naicsDescription": "SATELLITE TELECOMMUNICATIONS",
+    "totalObligated": 13279394.17,
+    "awardCount": 23
   },
   {
     "naicsCode": "236116",
@@ -660,10 +774,28 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "336211",
+    "naicsDescription": "MOTOR VEHICLE BODY MANUFACTURING",
+    "totalObligated": 13167343.72,
+    "awardCount": 26
+  },
+  {
+    "naicsCode": "561730",
+    "naicsDescription": "LANDSCAPING SERVICES",
+    "totalObligated": 13154343.6,
+    "awardCount": 68
+  },
+  {
     "naicsCode": "541940",
     "naicsDescription": "VETERINARY SERVICES",
-    "totalObligated": 13114857.08,
-    "awardCount": 3
+    "totalObligated": 13125257.08,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "332311",
+    "naicsDescription": "PREFABRICATED METAL BUILDING AND COMPONENT MANUFACTURING",
+    "totalObligated": 12974697.91,
+    "awardCount": 10
   },
   {
     "naicsCode": "311224",
@@ -672,46 +804,10 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "517410",
-    "naicsDescription": "SATELLITE TELECOMMUNICATIONS",
-    "totalObligated": 12731431.03,
-    "awardCount": 18
-  },
-  {
-    "naicsCode": "336111",
-    "naicsDescription": "AUTOMOBILE MANUFACTURING",
-    "totalObligated": 12543235,
-    "awardCount": 655
-  },
-  {
-    "naicsCode": "311615",
-    "naicsDescription": "POULTRY PROCESSING",
-    "totalObligated": 12504308.62,
-    "awardCount": 4
-  },
-  {
-    "naicsCode": "611430",
-    "naicsDescription": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING",
-    "totalObligated": 12476458.91,
-    "awardCount": 26
-  },
-  {
-    "naicsCode": "722310",
-    "naicsDescription": "FOOD SERVICE CONTRACTORS",
-    "totalObligated": 11952482.4,
-    "awardCount": 4
-  },
-  {
-    "naicsCode": "561730",
-    "naicsDescription": "LANDSCAPING SERVICES",
-    "totalObligated": 11935984.26,
-    "awardCount": 59
-  },
-  {
-    "naicsCode": "339113",
-    "naicsDescription": "SURGICAL APPLIANCE AND SUPPLIES MANUFACTURING",
-    "totalObligated": 11745648.09,
-    "awardCount": 164
+    "naicsCode": "323120",
+    "naicsDescription": "SUPPORT ACTIVITIES FOR PRINTING",
+    "totalObligated": 12678610.91,
+    "awardCount": 1
   },
   {
     "naicsCode": "541360",
@@ -726,16 +822,10 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "561920",
-    "naicsDescription": "CONVENTION AND TRADE SHOW ORGANIZERS",
-    "totalObligated": 10812940.04,
-    "awardCount": 12
-  },
-  {
     "naicsCode": "541613",
     "naicsDescription": "MARKETING CONSULTING SERVICES",
-    "totalObligated": 10487717.61,
-    "awardCount": 6
+    "totalObligated": 10431446.76,
+    "awardCount": 7
   },
   {
     "naicsCode": "561510",
@@ -744,52 +834,76 @@
     "awardCount": 6
   },
   {
-    "naicsCode": "519190",
-    "naicsDescription": "ALL OTHER INFORMATION SERVICES",
-    "totalObligated": 10143752.97,
-    "awardCount": 4
+    "naicsCode": "238160",
+    "naicsDescription": "ROOFING CONTRACTORS",
+    "totalObligated": 10235315.69,
+    "awardCount": 20
   },
   {
-    "naicsCode": "336413",
-    "naicsDescription": "OTHER AIRCRAFT PARTS AND AUXILIARY EQUIPMENT MANUFACTURING",
-    "totalObligated": 9764194.9,
-    "awardCount": 42
+    "naicsCode": "541910",
+    "naicsDescription": "MARKETING RESEARCH AND PUBLIC OPINION POLLING",
+    "totalObligated": 10117406.04,
+    "awardCount": 7
   },
   {
-    "naicsCode": "311611",
-    "naicsDescription": "ANIMAL (EXCEPT POULTRY) SLAUGHTERING",
-    "totalObligated": 9646000,
-    "awardCount": 1
+    "naicsCode": "337215",
+    "naicsDescription": "SHOWCASE, PARTITION, SHELVING, AND LOCKER MANUFACTURING",
+    "totalObligated": 10015588.62,
+    "awardCount": 28
   },
   {
-    "naicsCode": "811111",
-    "naicsDescription": "GENERAL AUTOMOTIVE REPAIR",
-    "totalObligated": 9260733.44,
-    "awardCount": 6
+    "naicsCode": "238290",
+    "naicsDescription": "OTHER BUILDING EQUIPMENT CONTRACTORS",
+    "totalObligated": 9932121.19,
+    "awardCount": 18
   },
   {
-    "naicsCode": "423450",
-    "naicsDescription": "MEDICAL, DENTAL, AND HOSPITAL EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
-    "totalObligated": 9097238.92,
-    "awardCount": 25
-  },
-  {
-    "naicsCode": "492110",
-    "naicsDescription": "COURIERS AND EXPRESS DELIVERY SERVICES",
-    "totalObligated": 9007681.96,
-    "awardCount": 51
+    "naicsCode": "336110",
+    "naicsDescription": "AUTOMOBILE AND LIGHT DUTY MOTOR VEHICLE MANUFACTURING",
+    "totalObligated": 9523985.3,
+    "awardCount": 33
   },
   {
     "naicsCode": "315990",
     "naicsDescription": "APPAREL ACCESSORIES AND OTHER APPAREL MANUFACTURING",
-    "totalObligated": 8906158.59,
-    "awardCount": 35
+    "totalObligated": 9464549.37,
+    "awardCount": 39
   },
   {
     "naicsCode": "334519",
     "naicsDescription": "OTHER MEASURING AND CONTROLLING DEVICE MANUFACTURING",
-    "totalObligated": 8884589.22,
-    "awardCount": 36
+    "totalObligated": 9386248.27,
+    "awardCount": 47
+  },
+  {
+    "naicsCode": "811111",
+    "naicsDescription": "GENERAL AUTOMOTIVE REPAIR",
+    "totalObligated": 9328240.08,
+    "awardCount": 11
+  },
+  {
+    "naicsCode": "541370",
+    "naicsDescription": "SURVEYING AND MAPPING (EXCEPT GEOPHYSICAL) SERVICES",
+    "totalObligated": 8872488.67,
+    "awardCount": 18
+  },
+  {
+    "naicsCode": "524298",
+    "naicsDescription": "ALL OTHER INSURANCE RELATED ACTIVITIES",
+    "totalObligated": 8837876.07,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "326199",
+    "naicsDescription": "ALL OTHER PLASTICS PRODUCT MANUFACTURING",
+    "totalObligated": 8814083.5,
+    "awardCount": 21
+  },
+  {
+    "naicsCode": "611420",
+    "naicsDescription": "COMPUTER TRAINING",
+    "totalObligated": 8771841.54,
+    "awardCount": 8
   },
   {
     "naicsCode": "311340",
@@ -798,40 +912,22 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "524298",
-    "naicsDescription": "ALL OTHER INSURANCE RELATED ACTIVITIES",
-    "totalObligated": 8536408.57,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "561611",
-    "naicsDescription": "INVESTIGATION AND PERSONAL BACKGROUND CHECK SERVICES",
-    "totalObligated": 8437271.87,
-    "awardCount": 64
+    "naicsCode": "325413",
+    "naicsDescription": "IN-VITRO DIAGNOSTIC SUBSTANCE MANUFACTURING",
+    "totalObligated": 8513145.24,
+    "awardCount": 31
   },
   {
     "naicsCode": "541614",
     "naicsDescription": "PROCESS, PHYSICAL DISTRIBUTION, AND LOGISTICS CONSULTING SERVICES",
-    "totalObligated": 8386543.01,
-    "awardCount": 12
-  },
-  {
-    "naicsCode": "336110",
-    "naicsDescription": "AUTOMOBILE AND LIGHT DUTY MOTOR VEHICLE MANUFACTURING",
-    "totalObligated": 8367822.12,
+    "totalObligated": 8430115.01,
     "awardCount": 13
-  },
-  {
-    "naicsCode": "325413",
-    "naicsDescription": "IN-VITRO DIAGNOSTIC SUBSTANCE MANUFACTURING",
-    "totalObligated": 8088806.8,
-    "awardCount": 24
   },
   {
     "naicsCode": "485999",
     "naicsDescription": "ALL OTHER TRANSIT AND GROUND PASSENGER TRANSPORTATION",
-    "totalObligated": 8064897.34,
-    "awardCount": 5
+    "totalObligated": 8154335.71,
+    "awardCount": 7
   },
   {
     "naicsCode": "311911",
@@ -840,28 +936,52 @@
     "awardCount": 5
   },
   {
-    "naicsCode": "488390",
-    "naicsDescription": "OTHER SUPPORT ACTIVITIES FOR WATER TRANSPORTATION",
-    "totalObligated": 7463164.35,
-    "awardCount": 2
-  },
-  {
     "naicsCode": "623220",
     "naicsDescription": "RESIDENTIAL MENTAL HEALTH AND SUBSTANCE ABUSE FACILITIES",
-    "totalObligated": 7143086.35,
-    "awardCount": 7
+    "totalObligated": 7519376.35,
+    "awardCount": 9
   },
   {
     "naicsCode": "484210",
     "naicsDescription": "USED HOUSEHOLD AND OFFICE GOODS MOVING",
-    "totalObligated": 7109918.52,
-    "awardCount": 7
+    "totalObligated": 7424983.71,
+    "awardCount": 9
   },
   {
-    "naicsCode": "541910",
-    "naicsDescription": "MARKETING RESEARCH AND PUBLIC OPINION POLLING",
-    "totalObligated": 6690004.98,
-    "awardCount": 6
+    "naicsCode": "532490",
+    "naicsDescription": "OTHER COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT RENTAL AND LEASING",
+    "totalObligated": 7054845.9,
+    "awardCount": 16
+  },
+  {
+    "naicsCode": "336120",
+    "naicsDescription": "HEAVY DUTY TRUCK MANUFACTURING",
+    "totalObligated": 7049789,
+    "awardCount": 50
+  },
+  {
+    "naicsCode": "311824",
+    "naicsDescription": "DRY PASTA, DOUGH, AND FLOUR MIXES MANUFACTURING FROM PURCHASED FLOUR",
+    "totalObligated": 6985410.36,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "811219",
+    "naicsDescription": "OTHER ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
+    "totalObligated": 6891341.05,
+    "awardCount": 14
+  },
+  {
+    "naicsCode": "221210",
+    "naicsDescription": "NATURAL GAS DISTRIBUTION",
+    "totalObligated": 6867950.21,
+    "awardCount": 22
+  },
+  {
+    "naicsCode": "721110",
+    "naicsDescription": "HOTELS (EXCEPT CASINO HOTELS) AND MOTELS",
+    "totalObligated": 6751357.96,
+    "awardCount": 30
   },
   {
     "naicsCode": "337127",
@@ -870,28 +990,28 @@
     "awardCount": 7
   },
   {
-    "naicsCode": "238160",
-    "naicsDescription": "ROOFING CONTRACTORS",
-    "totalObligated": 6640098.61,
-    "awardCount": 13
+    "naicsCode": "621512",
+    "naicsDescription": "DIAGNOSTIC IMAGING CENTERS",
+    "totalObligated": 6549940.53,
+    "awardCount": 10
   },
   {
-    "naicsCode": "532490",
-    "naicsDescription": "OTHER COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT RENTAL AND LEASING",
-    "totalObligated": 6525759.24,
-    "awardCount": 9
+    "naicsCode": "624229",
+    "naicsDescription": "OTHER COMMUNITY HOUSING SERVICES",
+    "totalObligated": 6522526.44,
+    "awardCount": 5
   },
   {
-    "naicsCode": "334510",
-    "naicsDescription": "ELECTROMEDICAL AND ELECTROTHERAPEUTIC APPARATUS MANUFACTURING",
-    "totalObligated": 6217735.98,
-    "awardCount": 35
+    "naicsCode": "332999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS FABRICATED METAL PRODUCT MANUFACTURING",
+    "totalObligated": 6212474.49,
+    "awardCount": 77
   },
   {
-    "naicsCode": "541370",
-    "naicsDescription": "SURVEYING AND MAPPING (EXCEPT GEOPHYSICAL) SERVICES",
-    "totalObligated": 6182752.59,
-    "awardCount": 14
+    "naicsCode": "333120",
+    "naicsDescription": "CONSTRUCTION MACHINERY MANUFACTURING",
+    "totalObligated": 6112683.18,
+    "awardCount": 22
   },
   {
     "naicsCode": "336412",
@@ -900,10 +1020,10 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "721110",
-    "naicsDescription": "HOTELS (EXCEPT CASINO HOTELS) AND MOTELS",
-    "totalObligated": 5906462.84,
-    "awardCount": 19
+    "naicsCode": "325611",
+    "naicsDescription": "SOAP AND OTHER DETERGENT MANUFACTURING",
+    "totalObligated": 5834645.85,
+    "awardCount": 83
   },
   {
     "naicsCode": "221320",
@@ -912,58 +1032,64 @@
     "awardCount": 4
   },
   {
-    "naicsCode": "311423",
-    "naicsDescription": "DRIED AND DEHYDRATED FOOD MANUFACTURING",
-    "totalObligated": 5720825.53,
-    "awardCount": 5
-  },
-  {
     "naicsCode": "517810",
     "naicsDescription": "ALL OTHER TELECOMMUNICATIONS",
-    "totalObligated": 5597947.61,
+    "totalObligated": 5697347.61,
     "awardCount": 7
   },
   {
-    "naicsCode": "519210",
-    "naicsDescription": "LIBRARIES AND ARCHIVES",
-    "totalObligated": 5557591.77,
+    "naicsCode": "311423",
+    "naicsDescription": "DRIED AND DEHYDRATED FOOD MANUFACTURING",
+    "totalObligated": 5675682.01,
     "awardCount": 4
   },
   {
     "naicsCode": "517311",
     "naicsDescription": "WIRED TELECOMMUNICATIONS CARRIERS",
-    "totalObligated": 5537178.69,
-    "awardCount": 4
+    "totalObligated": 5668002.48,
+    "awardCount": 6
   },
   {
-    "naicsCode": "541430",
-    "naicsDescription": "GRAPHIC DESIGN SERVICES",
-    "totalObligated": 5502541.27,
-    "awardCount": 6
+    "naicsCode": "512290",
+    "naicsDescription": "OTHER SOUND RECORDING INDUSTRIES",
+    "totalObligated": 5629467.75,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "519210",
+    "naicsDescription": "LIBRARIES AND ARCHIVES",
+    "totalObligated": 5589198.72,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "221310",
+    "naicsDescription": "WATER SUPPLY AND IRRIGATION SYSTEMS",
+    "totalObligated": 5528147.04,
+    "awardCount": 17
   },
   {
     "naicsCode": "541350",
     "naicsDescription": "BUILDING INSPECTION SERVICES",
-    "totalObligated": 5408483.56,
-    "awardCount": 9
+    "totalObligated": 5485995.2,
+    "awardCount": 12
   },
   {
-    "naicsCode": "333120",
-    "naicsDescription": "CONSTRUCTION MACHINERY MANUFACTURING",
-    "totalObligated": 5380973.91,
-    "awardCount": 17
+    "naicsCode": "541430",
+    "naicsDescription": "GRAPHIC DESIGN SERVICES",
+    "totalObligated": 5338998.55,
+    "awardCount": 5
   },
   {
-    "naicsCode": "811219",
-    "naicsDescription": "OTHER ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
-    "totalObligated": 5307436.33,
-    "awardCount": 9
+    "naicsCode": "562111",
+    "naicsDescription": "SOLID WASTE COLLECTION",
+    "totalObligated": 5265412.51,
+    "awardCount": 26
   },
   {
-    "naicsCode": "221210",
-    "naicsDescription": "NATURAL GAS DISTRIBUTION",
-    "totalObligated": 5151424.68,
-    "awardCount": 17
+    "naicsCode": "444110",
+    "naicsDescription": "HOME CENTERS",
+    "totalObligated": 5263628.11,
+    "awardCount": 2667
   },
   {
     "naicsCode": "311211",
@@ -972,34 +1098,40 @@
     "awardCount": 10
   },
   {
-    "naicsCode": "337215",
-    "naicsDescription": "SHOWCASE, PARTITION, SHELVING, AND LOCKER MANUFACTURING",
-    "totalObligated": 4837486.88,
-    "awardCount": 17
+    "naicsCode": "623110",
+    "naicsDescription": "NURSING CARE FACILITIES (SKILLED NURSING FACILITIES)",
+    "totalObligated": 4821682.73,
+    "awardCount": 18
   },
   {
-    "naicsCode": "621512",
-    "naicsDescription": "DIAGNOSTIC IMAGING CENTERS",
-    "totalObligated": 4759524.03,
-    "awardCount": 7
+    "naicsCode": "339940",
+    "naicsDescription": "OFFICE SUPPLIES (EXCEPT PAPER) MANUFACTURING",
+    "totalObligated": 4443846.68,
+    "awardCount": 1030
   },
   {
-    "naicsCode": "221310",
-    "naicsDescription": "WATER SUPPLY AND IRRIGATION SYSTEMS",
-    "totalObligated": 4367395.26,
-    "awardCount": 11
+    "naicsCode": "334512",
+    "naicsDescription": "AUTOMATIC ENVIRONMENTAL CONTROL MANUFACTURING FOR RESIDENTIAL, COMMERCIAL, AND APPLIANCE USE",
+    "totalObligated": 4232111.79,
+    "awardCount": 6
   },
   {
-    "naicsCode": "238290",
-    "naicsDescription": "OTHER BUILDING EQUIPMENT CONTRACTORS",
-    "totalObligated": 4155162.98,
-    "awardCount": 11
+    "naicsCode": "332312",
+    "naicsDescription": "FABRICATED STRUCTURAL METAL MANUFACTURING",
+    "totalObligated": 4214511.68,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "928120",
+    "naicsDescription": "INTERNATIONAL AFFAIRS",
+    "totalObligated": 4202937.43,
+    "awardCount": 13
   },
   {
     "naicsCode": "562119",
     "naicsDescription": "OTHER WASTE COLLECTION",
-    "totalObligated": 4118607.32,
-    "awardCount": 5
+    "totalObligated": 4181361.8,
+    "awardCount": 6
   },
   {
     "naicsCode": "813311",
@@ -1014,12 +1146,6 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "334512",
-    "naicsDescription": "AUTOMATIC ENVIRONMENTAL CONTROL MANUFACTURING FOR RESIDENTIAL, COMMERCIAL, AND APPLIANCE USE",
-    "totalObligated": 4054538.49,
-    "awardCount": 4
-  },
-  {
     "naicsCode": "336992",
     "naicsDescription": "MILITARY ARMORED VEHICLE, TANK, AND TANK COMPONENT MANUFACTURING",
     "totalObligated": 4023608.8,
@@ -1032,16 +1158,10 @@
     "awardCount": 4
   },
   {
-    "naicsCode": "621999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS AMBULATORY HEALTH CARE SERVICES",
-    "totalObligated": 4015077,
-    "awardCount": 4
-  },
-  {
     "naicsCode": "562219",
     "naicsDescription": "OTHER NONHAZARDOUS WASTE TREATMENT AND DISPOSAL",
-    "totalObligated": 3956450,
-    "awardCount": 3
+    "totalObligated": 3962887.5,
+    "awardCount": 4
   },
   {
     "naicsCode": "624310",
@@ -1052,44 +1172,62 @@
   {
     "naicsCode": "541110",
     "naicsDescription": "OFFICES OF LAWYERS",
-    "totalObligated": 3732512.15,
-    "awardCount": 17
+    "totalObligated": 3906945.89,
+    "awardCount": 19
+  },
+  {
+    "naicsCode": "238320",
+    "naicsDescription": "PAINTING AND WALL COVERING CONTRACTORS",
+    "totalObligated": 3787100.42,
+    "awardCount": 14
+  },
+  {
+    "naicsCode": "561599",
+    "naicsDescription": "ALL OTHER TRAVEL ARRANGEMENT AND RESERVATION SERVICES",
+    "totalObligated": 3786971.25,
+    "awardCount": 5
   },
   {
     "naicsCode": "812331",
     "naicsDescription": "LINEN SUPPLY",
-    "totalObligated": 3676043.47,
+    "totalObligated": 3643743.94,
     "awardCount": 4
   },
   {
     "naicsCode": "488330",
     "naicsDescription": "NAVIGATIONAL SERVICES TO SHIPPING",
-    "totalObligated": 3570605,
-    "awardCount": 3
+    "totalObligated": 3582705,
+    "awardCount": 4
   },
   {
-    "naicsCode": "238320",
-    "naicsDescription": "PAINTING AND WALL COVERING CONTRACTORS",
-    "totalObligated": 3472059.48,
-    "awardCount": 6
+    "naicsCode": "334118",
+    "naicsDescription": "COMPUTER TERMINAL AND OTHER COMPUTER PERIPHERAL EQUIPMENT MANUFACTURING",
+    "totalObligated": 3513859.91,
+    "awardCount": 8
   },
   {
-    "naicsCode": "332312",
-    "naicsDescription": "FABRICATED STRUCTURAL METAL MANUFACTURING",
-    "totalObligated": 3421841.68,
+    "naicsCode": "561410",
+    "naicsDescription": "DOCUMENT PREPARATION SERVICES",
+    "totalObligated": 3452765.82,
     "awardCount": 2
   },
   {
-    "naicsCode": "444110",
-    "naicsDescription": "HOME CENTERS",
-    "totalObligated": 3388096.34,
-    "awardCount": 1742
+    "naicsCode": "812332",
+    "naicsDescription": "INDUSTRIAL LAUNDERERS",
+    "totalObligated": 3303227.9,
+    "awardCount": 6
   },
   {
-    "naicsCode": "611420",
-    "naicsDescription": "COMPUTER TRAINING",
-    "totalObligated": 3202831.32,
-    "awardCount": 5
+    "naicsCode": "311225",
+    "naicsDescription": "FATS AND OILS REFINING AND BLENDING",
+    "totalObligated": 3254698.12,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "311991",
+    "naicsDescription": "PERISHABLE PREPARED FOOD MANUFACTURING",
+    "totalObligated": 3152557.93,
+    "awardCount": 28
   },
   {
     "naicsCode": "621210",
@@ -1100,20 +1238,32 @@
   {
     "naicsCode": "339114",
     "naicsDescription": "DENTAL EQUIPMENT AND SUPPLIES MANUFACTURING",
-    "totalObligated": 3007252.51,
-    "awardCount": 9
+    "totalObligated": 3046249.66,
+    "awardCount": 10
   },
   {
-    "naicsCode": "339940",
-    "naicsDescription": "OFFICE SUPPLIES (EXCEPT PAPER) MANUFACTURING",
-    "totalObligated": 2999343.6,
-    "awardCount": 824
+    "naicsCode": "333998",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS GENERAL PURPOSE MACHINERY MANUFACTURING",
+    "totalObligated": 3014233.73,
+    "awardCount": 4
   },
   {
-    "naicsCode": "562111",
-    "naicsDescription": "SOLID WASTE COLLECTION",
-    "totalObligated": 2951406.62,
-    "awardCount": 16
+    "naicsCode": "493190",
+    "naicsDescription": "OTHER WAREHOUSING AND STORAGE",
+    "totalObligated": 2979772.3,
+    "awardCount": 835
+  },
+  {
+    "naicsCode": "311999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS FOOD MANUFACTURING",
+    "totalObligated": 2976098.4,
+    "awardCount": 53
+  },
+  {
+    "naicsCode": "327991",
+    "naicsDescription": "CUT STONE AND STONE PRODUCT MANUFACTURING",
+    "totalObligated": 2946855.16,
+    "awardCount": 2
   },
   {
     "naicsCode": "334513",
@@ -1122,52 +1272,52 @@
     "awardCount": 8
   },
   {
-    "naicsCode": "332311",
-    "naicsDescription": "PREFABRICATED METAL BUILDING AND COMPONENT MANUFACTURING",
-    "totalObligated": 2833771.28,
-    "awardCount": 5
-  },
-  {
     "naicsCode": "561710",
     "naicsDescription": "EXTERMINATING AND PEST CONTROL SERVICES",
-    "totalObligated": 2624680.85,
-    "awardCount": 10
-  },
-  {
-    "naicsCode": "311999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS FOOD MANUFACTURING",
-    "totalObligated": 2623079.06,
-    "awardCount": 48
-  },
-  {
-    "naicsCode": "326199",
-    "naicsDescription": "ALL OTHER PLASTICS PRODUCT MANUFACTURING",
-    "totalObligated": 2491438.93,
-    "awardCount": 15
-  },
-  {
-    "naicsCode": "332999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS FABRICATED METAL PRODUCT MANUFACTURING",
-    "totalObligated": 2465973.74,
-    "awardCount": 58
-  },
-  {
-    "naicsCode": "332216",
-    "naicsDescription": "SAW BLADE AND HANDTOOL MANUFACTURING",
-    "totalObligated": 2451328.29,
-    "awardCount": 242
-  },
-  {
-    "naicsCode": "928120",
-    "naicsDescription": "INTERNATIONAL AFFAIRS",
-    "totalObligated": 2424337.44,
-    "awardCount": 9
+    "totalObligated": 2787361.82,
+    "awardCount": 13
   },
   {
     "naicsCode": "531320",
     "naicsDescription": "OFFICES OF REAL ESTATE APPRAISERS",
-    "totalObligated": 2420641.94,
-    "awardCount": 17
+    "totalObligated": 2767989.99,
+    "awardCount": 22
+  },
+  {
+    "naicsCode": "221330",
+    "naicsDescription": "STEAM AND AIR-CONDITIONING SUPPLY",
+    "totalObligated": 2689499.06,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "922120",
+    "naicsDescription": "POLICE PROTECTION",
+    "totalObligated": 2626353.06,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "811212",
+    "naicsDescription": "COMPUTER AND OFFICE MACHINE REPAIR AND MAINTENANCE",
+    "totalObligated": 2552897,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "332216",
+    "naicsDescription": "SAW BLADE AND HANDTOOL MANUFACTURING",
+    "totalObligated": 2548226.17,
+    "awardCount": 342
+  },
+  {
+    "naicsCode": "336112",
+    "naicsDescription": "LIGHT TRUCK AND UTILITY VEHICLE MANUFACTURING",
+    "totalObligated": 2476088.3,
+    "awardCount": 14
+  },
+  {
+    "naicsCode": "332992",
+    "naicsDescription": "SMALL ARMS AMMUNITION MANUFACTURING",
+    "totalObligated": 2376990.57,
+    "awardCount": 13
   },
   {
     "naicsCode": "721310",
@@ -1176,28 +1326,16 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "811212",
-    "naicsDescription": "COMPUTER AND OFFICE MACHINE REPAIR AND MAINTENANCE",
-    "totalObligated": 2356514.78,
-    "awardCount": 3
+    "naicsCode": "339999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS MANUFACTURING",
+    "totalObligated": 2323643.96,
+    "awardCount": 76
   },
   {
-    "naicsCode": "493190",
-    "naicsDescription": "OTHER WAREHOUSING AND STORAGE",
-    "totalObligated": 2281628.69,
-    "awardCount": 494
-  },
-  {
-    "naicsCode": "221330",
-    "naicsDescription": "STEAM AND AIR-CONDITIONING SUPPLY",
-    "totalObligated": 2270859.06,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "332992",
-    "naicsDescription": "SMALL ARMS AMMUNITION MANUFACTURING",
-    "totalObligated": 2241318.47,
-    "awardCount": 9
+    "naicsCode": "531311",
+    "naicsDescription": "RESIDENTIAL PROPERTY MANAGERS",
+    "totalObligated": 2286465.56,
+    "awardCount": 10
   },
   {
     "naicsCode": "532210",
@@ -1206,34 +1344,58 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "334118",
-    "naicsDescription": "COMPUTER TERMINAL AND OTHER COMPUTER PERIPHERAL EQUIPMENT MANUFACTURING",
-    "totalObligated": 2153805.91,
-    "awardCount": 6
+    "naicsCode": "334515",
+    "naicsDescription": "INSTRUMENT MANUFACTURING FOR MEASURING AND TESTING ELECTRICITY AND ELECTRICAL SIGNALS",
+    "totalObligated": 2226224.24,
+    "awardCount": 24
   },
   {
-    "naicsCode": "531311",
-    "naicsDescription": "RESIDENTIAL PROPERTY MANAGERS",
-    "totalObligated": 2115830.11,
-    "awardCount": 9
+    "naicsCode": "238390",
+    "naicsDescription": "OTHER BUILDING FINISHING CONTRACTORS",
+    "totalObligated": 2204060.01,
+    "awardCount": 14
   },
   {
-    "naicsCode": "561410",
-    "naicsDescription": "DOCUMENT PREPARATION SERVICES",
-    "totalObligated": 2044746,
+    "naicsCode": "113310",
+    "naicsDescription": "LOGGING",
+    "totalObligated": 2176597,
     "awardCount": 1
   },
   {
-    "naicsCode": "339999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS MANUFACTURING",
-    "totalObligated": 1946407.88,
-    "awardCount": 49
+    "naicsCode": "333415",
+    "naicsDescription": "AIR-CONDITIONING AND WARM AIR HEATING EQUIPMENT AND COMMERCIAL AND INDUSTRIAL REFRIGERATION EQUIPMENT MANUFACTURING",
+    "totalObligated": 2113581.1,
+    "awardCount": 14
+  },
+  {
+    "naicsCode": "334419",
+    "naicsDescription": "OTHER ELECTRONIC COMPONENT MANUFACTURING",
+    "totalObligated": 2076155.23,
+    "awardCount": 10
   },
   {
     "naicsCode": "517121",
     "naicsDescription": "TELECOMMUNICATIONS RESELLERS",
-    "totalObligated": 1903572.81,
-    "awardCount": 7
+    "totalObligated": 2001365.19,
+    "awardCount": 9
+  },
+  {
+    "naicsCode": "423430",
+    "naicsDescription": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS",
+    "totalObligated": 1949336.77,
+    "awardCount": 8
+  },
+  {
+    "naicsCode": "337211",
+    "naicsDescription": "WOOD OFFICE FURNITURE MANUFACTURING",
+    "totalObligated": 1921394.63,
+    "awardCount": 96
+  },
+  {
+    "naicsCode": "621493",
+    "naicsDescription": "FREESTANDING AMBULATORY SURGICAL AND EMERGENCY CENTERS",
+    "totalObligated": 1919428.28,
+    "awardCount": 1
   },
   {
     "naicsCode": "237120",
@@ -1242,34 +1404,16 @@
     "awardCount": 2
   },
   {
+    "naicsCode": "335910",
+    "naicsDescription": "BATTERY MANUFACTURING",
+    "totalObligated": 1861321.33,
+    "awardCount": 7
+  },
+  {
     "naicsCode": "311230",
     "naicsDescription": "BREAKFAST CEREAL MANUFACTURING",
     "totalObligated": 1859636.07,
     "awardCount": 1
-  },
-  {
-    "naicsCode": "423430",
-    "naicsDescription": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS",
-    "totalObligated": 1838486.77,
-    "awardCount": 7
-  },
-  {
-    "naicsCode": "624229",
-    "naicsDescription": "OTHER COMMUNITY HOUSING SERVICES",
-    "totalObligated": 1768367.43,
-    "awardCount": 3
-  },
-  {
-    "naicsCode": "335910",
-    "naicsDescription": "BATTERY MANUFACTURING",
-    "totalObligated": 1767173.33,
-    "awardCount": 6
-  },
-  {
-    "naicsCode": "336211",
-    "naicsDescription": "MOTOR VEHICLE BODY MANUFACTURING",
-    "totalObligated": 1766938,
-    "awardCount": 5
   },
   {
     "naicsCode": "512110",
@@ -1278,22 +1422,46 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "336120",
-    "naicsDescription": "HEAVY DUTY TRUCK MANUFACTURING",
-    "totalObligated": 1763183,
-    "awardCount": 9
+    "naicsCode": "333316",
+    "naicsDescription": "PHOTOGRAPHIC AND PHOTOCOPYING EQUIPMENT MANUFACTURING",
+    "totalObligated": 1744678.07,
+    "awardCount": 18
   },
   {
-    "naicsCode": "238390",
-    "naicsDescription": "OTHER BUILDING FINISHING CONTRACTORS",
-    "totalObligated": 1703553.38,
+    "naicsCode": "115210",
+    "naicsDescription": "SUPPORT ACTIVITIES FOR ANIMAL PRODUCTION",
+    "totalObligated": 1730617.5,
     "awardCount": 6
+  },
+  {
+    "naicsCode": "453210",
+    "naicsDescription": "OFFICE SUPPLIES AND STATIONERY STORES",
+    "totalObligated": 1715752.14,
+    "awardCount": 1873
+  },
+  {
+    "naicsCode": "531110",
+    "naicsDescription": "LESSORS OF RESIDENTIAL BUILDINGS AND DWELLINGS",
+    "totalObligated": 1688417.28,
+    "awardCount": 10
+  },
+  {
+    "naicsCode": "444130",
+    "naicsDescription": "HARDWARE STORES",
+    "totalObligated": 1684292.72,
+    "awardCount": 706
+  },
+  {
+    "naicsCode": "336612",
+    "naicsDescription": "BOAT BUILDING",
+    "totalObligated": 1649360.26,
+    "awardCount": 4
   },
   {
     "naicsCode": "334310",
     "naicsDescription": "AUDIO AND VIDEO EQUIPMENT MANUFACTURING",
-    "totalObligated": 1609201.88,
-    "awardCount": 11
+    "totalObligated": 1633045.66,
+    "awardCount": 15
   },
   {
     "naicsCode": "333298",
@@ -1310,20 +1478,20 @@
   {
     "naicsCode": "532420",
     "naicsDescription": "OFFICE MACHINERY AND EQUIPMENT RENTAL AND LEASING",
-    "totalObligated": 1514736.76,
-    "awardCount": 10
+    "totalObligated": 1524246.9,
+    "awardCount": 11
   },
   {
-    "naicsCode": "115210",
-    "naicsDescription": "SUPPORT ACTIVITIES FOR ANIMAL PRODUCTION",
-    "totalObligated": 1426987.5,
+    "naicsCode": "517111",
+    "naicsDescription": "WIRED TELECOMMUNICATIONS CARRIERS",
+    "totalObligated": 1444970.29,
+    "awardCount": 23
+  },
+  {
+    "naicsCode": "335311",
+    "naicsDescription": "POWER, DISTRIBUTION, AND SPECIALTY TRANSFORMER MANUFACTURING",
+    "totalObligated": 1361008.32,
     "awardCount": 5
-  },
-  {
-    "naicsCode": "327991",
-    "naicsDescription": "CUT STONE AND STONE PRODUCT MANUFACTURING",
-    "totalObligated": 1396295.16,
-    "awardCount": 1
   },
   {
     "naicsCode": "561311",
@@ -1334,44 +1502,50 @@
   {
     "naicsCode": "624230",
     "naicsDescription": "EMERGENCY AND OTHER RELIEF SERVICES",
-    "totalObligated": 1314515.23,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "517111",
-    "naicsDescription": "WIRED TELECOMMUNICATIONS CARRIERS",
-    "totalObligated": 1310266.09,
-    "awardCount": 21
-  },
-  {
-    "naicsCode": "561599",
-    "naicsDescription": "ALL OTHER TRAVEL ARRANGEMENT AND RESERVATION SERVICES",
-    "totalObligated": 1268671,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "531110",
-    "naicsDescription": "LESSORS OF RESIDENTIAL BUILDINGS AND DWELLINGS",
-    "totalObligated": 1246708.12,
+    "totalObligated": 1321825.23,
     "awardCount": 5
   },
   {
-    "naicsCode": "337211",
-    "naicsDescription": "WOOD OFFICE FURNITURE MANUFACTURING",
-    "totalObligated": 1092234.2,
-    "awardCount": 62
+    "naicsCode": "524210",
+    "naicsDescription": "INSURANCE AGENCIES AND BROKERAGES",
+    "totalObligated": 1270810.99,
+    "awardCount": 8
   },
   {
     "naicsCode": "333923",
     "naicsDescription": "OVERHEAD TRAVELING CRANE, HOIST, AND MONORAIL SYSTEM MANUFACTURING",
-    "totalObligated": 1072634.74,
+    "totalObligated": 1202584.74,
+    "awardCount": 6
+  },
+  {
+    "naicsCode": "562112",
+    "naicsDescription": "HAZARDOUS WASTE COLLECTION",
+    "totalObligated": 1180724.34,
+    "awardCount": 11
+  },
+  {
+    "naicsCode": "238190",
+    "naicsDescription": "OTHER FOUNDATION, STRUCTURE, AND BUILDING EXTERIOR CONTRACTORS",
+    "totalObligated": 1103810,
     "awardCount": 5
   },
   {
-    "naicsCode": "336612",
-    "naicsDescription": "BOAT BUILDING",
-    "totalObligated": 1069920.26,
-    "awardCount": 3
+    "naicsCode": "339115",
+    "naicsDescription": "OPHTHALMIC GOODS MANUFACTURING",
+    "totalObligated": 1096817.29,
+    "awardCount": 21
+  },
+  {
+    "naicsCode": "541410",
+    "naicsDescription": "INTERIOR DESIGN SERVICES",
+    "totalObligated": 1084235.78,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "333924",
+    "naicsDescription": "INDUSTRIAL TRUCK, TRACTOR, TRAILER, AND STACKER MACHINERY MANUFACTURING",
+    "totalObligated": 1053042.68,
+    "awardCount": 10
   },
   {
     "naicsCode": "926130",
@@ -1380,46 +1554,58 @@
     "awardCount": 5
   },
   {
-    "naicsCode": "311991",
-    "naicsDescription": "PERISHABLE PREPARED FOOD MANUFACTURING",
-    "totalObligated": 1039081.75,
-    "awardCount": 17
-  },
-  {
     "naicsCode": "811121",
     "naicsDescription": "AUTOMOTIVE BODY, PAINT, AND INTERIOR REPAIR AND MAINTENANCE",
-    "totalObligated": 1034142.68,
-    "awardCount": 4
-  },
-  {
-    "naicsCode": "541410",
-    "naicsDescription": "INTERIOR DESIGN SERVICES",
-    "totalObligated": 1029363.13,
-    "awardCount": 2
+    "totalObligated": 1041656.53,
+    "awardCount": 5
   },
   {
     "naicsCode": "484110",
     "naicsDescription": "GENERAL FREIGHT TRUCKING, LOCAL",
-    "totalObligated": 1001000,
-    "awardCount": 3
+    "totalObligated": 1016446.4,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "531390",
+    "naicsDescription": "OTHER ACTIVITIES RELATED TO REAL ESTATE",
+    "totalObligated": 1003815.1,
+    "awardCount": 6
   },
   {
     "naicsCode": "492210",
     "naicsDescription": "LOCAL MESSENGERS AND LOCAL DELIVERY",
-    "totalObligated": 976506.9,
+    "totalObligated": 976971.9,
     "awardCount": 3
   },
   {
-    "naicsCode": "444130",
-    "naicsDescription": "HARDWARE STORES",
-    "totalObligated": 968736.87,
-    "awardCount": 459
+    "naicsCode": "561421",
+    "naicsDescription": "TELEPHONE ANSWERING SERVICES",
+    "totalObligated": 976726.14,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "561431",
+    "naicsDescription": "PRIVATE MAIL CENTERS",
+    "totalObligated": 975855.28,
+    "awardCount": 2
+  },
+  {
+    "naicsCode": "813920",
+    "naicsDescription": "PROFESSIONAL ORGANIZATIONS",
+    "totalObligated": 972827.04,
+    "awardCount": 12
+  },
+  {
+    "naicsCode": "339950",
+    "naicsDescription": "SIGN MANUFACTURING",
+    "totalObligated": 964703.96,
+    "awardCount": 8
   },
   {
     "naicsCode": "333310",
     "naicsDescription": "COMMERCIAL AND SERVICE INDUSTRY MACHINERY MANUFACTURING",
-    "totalObligated": 960179.01,
-    "awardCount": 15
+    "totalObligated": 960452.01,
+    "awardCount": 18
   },
   {
     "naicsCode": "811412",
@@ -1428,28 +1614,16 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "336112",
-    "naicsDescription": "LIGHT TRUCK AND UTILITY VEHICLE MANUFACTURING",
-    "totalObligated": 923597.56,
-    "awardCount": 11
-  },
-  {
-    "naicsCode": "561421",
-    "naicsDescription": "TELEPHONE ANSWERING SERVICES",
-    "totalObligated": 919063.71,
-    "awardCount": 3
+    "naicsCode": "423850",
+    "naicsDescription": "SERVICE ESTABLISHMENT EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+    "totalObligated": 930682.49,
+    "awardCount": 1905
   },
   {
     "naicsCode": "488310",
     "naicsDescription": "PORT AND HARBOR OPERATIONS",
-    "totalObligated": 916626.17,
+    "totalObligated": 920826.17,
     "awardCount": 10
-  },
-  {
-    "naicsCode": "813920",
-    "naicsDescription": "PROFESSIONAL ORGANIZATIONS",
-    "totalObligated": 876330.1,
-    "awardCount": 8
   },
   {
     "naicsCode": "112990",
@@ -1458,9 +1632,9 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "333924",
-    "naicsDescription": "INDUSTRIAL TRUCK, TRACTOR, TRAILER, AND STACKER MACHINERY MANUFACTURING",
-    "totalObligated": 856856.81,
+    "naicsCode": "336999",
+    "naicsDescription": "ALL OTHER TRANSPORTATION EQUIPMENT MANUFACTURING",
+    "totalObligated": 865295.5,
     "awardCount": 8
   },
   {
@@ -1470,10 +1644,22 @@
     "awardCount": 7
   },
   {
-    "naicsCode": "621340",
-    "naicsDescription": "OFFICES OF PHYSICAL, OCCUPATIONAL AND SPEECH THERAPISTS, AND AUDIOLOGISTS",
-    "totalObligated": 830882.61,
-    "awardCount": 3
+    "naicsCode": "621399",
+    "naicsDescription": "OFFICES OF ALL OTHER MISCELLANEOUS HEALTH PRACTITIONERS",
+    "totalObligated": 849958.92,
+    "awardCount": 8
+  },
+  {
+    "naicsCode": "561790",
+    "naicsDescription": "OTHER SERVICES TO BUILDINGS AND DWELLINGS",
+    "totalObligated": 832427.91,
+    "awardCount": 8
+  },
+  {
+    "naicsCode": "811213",
+    "naicsDescription": "COMMUNICATION EQUIPMENT REPAIR AND MAINTENANCE",
+    "totalObligated": 825000,
+    "awardCount": 1
   },
   {
     "naicsCode": "812320",
@@ -1485,37 +1671,43 @@
     "naicsCode": "621420",
     "naicsDescription": "OUTPATIENT MENTAL HEALTH AND SUBSTANCE ABUSE CENTERS",
     "totalObligated": 819283.78,
-    "awardCount": 27
-  },
-  {
-    "naicsCode": "336999",
-    "naicsDescription": "ALL OTHER TRANSPORTATION EQUIPMENT MANUFACTURING",
-    "totalObligated": 809053.89,
-    "awardCount": 7
-  },
-  {
-    "naicsCode": "453210",
-    "naicsDescription": "OFFICE SUPPLIES AND STATIONERY STORES",
-    "totalObligated": 806130.62,
-    "awardCount": 1193
-  },
-  {
-    "naicsCode": "322230",
-    "naicsDescription": "STATIONERY PRODUCT MANUFACTURING",
-    "totalObligated": 794079.6,
-    "awardCount": 901
-  },
-  {
-    "naicsCode": "621399",
-    "naicsDescription": "OFFICES OF ALL OTHER MISCELLANEOUS HEALTH PRACTITIONERS",
-    "totalObligated": 776958.92,
-    "awardCount": 7
+    "awardCount": 28
   },
   {
     "naicsCode": "333112",
     "naicsDescription": "LAWN AND GARDEN TRACTOR AND HOME LAWN AND GARDEN EQUIPMENT MANUFACTURING",
-    "totalObligated": 755663.84,
-    "awardCount": 5
+    "totalObligated": 807513.84,
+    "awardCount": 6
+  },
+  {
+    "naicsCode": "562991",
+    "naicsDescription": "SEPTIC TANK AND RELATED SERVICES",
+    "totalObligated": 800870.07,
+    "awardCount": 14
+  },
+  {
+    "naicsCode": "812990",
+    "naicsDescription": "ALL OTHER PERSONAL SERVICES",
+    "totalObligated": 799841.56,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "238910",
+    "naicsDescription": "SITE PREPARATION CONTRACTORS",
+    "totalObligated": 794573.13,
+    "awardCount": 7
+  },
+  {
+    "naicsCode": "561492",
+    "naicsDescription": "COURT REPORTING AND STENOTYPE SERVICES",
+    "totalObligated": 779170.94,
+    "awardCount": 19
+  },
+  {
+    "naicsCode": "333318",
+    "naicsDescription": "OTHER COMMERCIAL AND SERVICE INDUSTRY MACHINERY MANUFACTURING",
+    "totalObligated": 767867.8,
+    "awardCount": 11
   },
   {
     "naicsCode": "332913",
@@ -1530,10 +1722,10 @@
     "awardCount": 4
   },
   {
-    "naicsCode": "519130",
-    "naicsDescription": "INTERNET PUBLISHING AND BROADCASTING AND WEB SEARCH PORTALS",
-    "totalObligated": 749197,
-    "awardCount": 7
+    "naicsCode": "221113",
+    "naicsDescription": "NUCLEAR ELECTRIC POWER GENERATION",
+    "totalObligated": 747131.2,
+    "awardCount": 1
   },
   {
     "naicsCode": "623311",
@@ -1542,16 +1734,10 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "333318",
-    "naicsDescription": "OTHER COMMERCIAL AND SERVICE INDUSTRY MACHINERY MANUFACTURING",
-    "totalObligated": 742269.58,
-    "awardCount": 10
-  },
-  {
-    "naicsCode": "531390",
-    "naicsDescription": "OTHER ACTIVITIES RELATED TO REAL ESTATE",
-    "totalObligated": 738909.25,
-    "awardCount": 4
+    "naicsCode": "511120",
+    "naicsDescription": "PERIODICAL PUBLISHERS",
+    "totalObligated": 739791,
+    "awardCount": 3
   },
   {
     "naicsCode": "332710",
@@ -1566,16 +1752,28 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "562112",
-    "naicsDescription": "HAZARDOUS WASTE COLLECTION",
-    "totalObligated": 728365.55,
-    "awardCount": 6
-  },
-  {
     "naicsCode": "561450",
     "naicsDescription": "CREDIT BUREAUS",
     "totalObligated": 726729.07,
     "awardCount": 3
+  },
+  {
+    "naicsCode": "621340",
+    "naicsDescription": "OFFICES OF PHYSICAL, OCCUPATIONAL AND SPEECH THERAPISTS, AND AUDIOLOGISTS",
+    "totalObligated": 715077.38,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "322230",
+    "naicsDescription": "STATIONERY PRODUCT MANUFACTURING",
+    "totalObligated": 712411.97,
+    "awardCount": 919
+  },
+  {
+    "naicsCode": "812930",
+    "naicsDescription": "PARKING LOTS AND GARAGES",
+    "totalObligated": 701143.8,
+    "awardCount": 7
   },
   {
     "naicsCode": "339944",
@@ -1584,22 +1782,22 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "511120",
-    "naicsDescription": "PERIODICAL PUBLISHERS",
-    "totalObligated": 668513,
-    "awardCount": 2
-  },
-  {
     "naicsCode": "334413",
     "naicsDescription": "SEMICONDUCTOR AND RELATED DEVICE MANUFACTURING",
     "totalObligated": 667016.46,
     "awardCount": 3
   },
   {
+    "naicsCode": "115112",
+    "naicsDescription": "SOIL PREPARATION, PLANTING, AND CULTIVATING",
+    "totalObligated": 659355.17,
+    "awardCount": 5
+  },
+  {
     "naicsCode": "531210",
     "naicsDescription": "OFFICES OF REAL ESTATE AGENTS AND BROKERS",
     "totalObligated": 656326.02,
-    "awardCount": 12
+    "awardCount": 18
   },
   {
     "naicsCode": "332993",
@@ -1608,40 +1806,10 @@
     "awardCount": 4
   },
   {
-    "naicsCode": "561492",
-    "naicsDescription": "COURT REPORTING AND STENOTYPE SERVICES",
-    "totalObligated": 638287.79,
-    "awardCount": 14
-  },
-  {
-    "naicsCode": "339950",
-    "naicsDescription": "SIGN MANUFACTURING",
-    "totalObligated": 633995.83,
-    "awardCount": 6
-  },
-  {
-    "naicsCode": "812930",
-    "naicsDescription": "PARKING LOTS AND GARAGES",
-    "totalObligated": 623274.36,
-    "awardCount": 5
-  },
-  {
-    "naicsCode": "423850",
-    "naicsDescription": "SERVICE ESTABLISHMENT EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
-    "totalObligated": 607874.61,
-    "awardCount": 1296
-  },
-  {
-    "naicsCode": "335999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS ELECTRICAL EQUIPMENT AND COMPONENT MANUFACTURING",
-    "totalObligated": 607781.84,
+    "naicsCode": "561439",
+    "naicsDescription": "OTHER BUSINESS SERVICE CENTERS (INCLUDING COPY SHOPS)",
+    "totalObligated": 604212.03,
     "awardCount": 4
-  },
-  {
-    "naicsCode": "333316",
-    "naicsDescription": "PHOTOGRAPHIC AND PHOTOCOPYING EQUIPMENT MANUFACTURING",
-    "totalObligated": 594007.39,
-    "awardCount": 9
   },
   {
     "naicsCode": "621112",
@@ -1650,40 +1818,34 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "334515",
-    "naicsDescription": "INSTRUMENT MANUFACTURING FOR MEASURING AND TESTING ELECTRICITY AND ELECTRICAL SIGNALS",
-    "totalObligated": 581673.26,
-    "awardCount": 17
+    "naicsCode": "213112",
+    "naicsDescription": "SUPPORT ACTIVITIES FOR OIL AND GAS OPERATIONS",
+    "totalObligated": 580322,
+    "awardCount": 2
   },
   {
-    "naicsCode": "238910",
-    "naicsDescription": "SITE PREPARATION CONTRACTORS",
-    "totalObligated": 568987.71,
+    "naicsCode": "333618",
+    "naicsDescription": "OTHER ENGINE EQUIPMENT MANUFACTURING",
+    "totalObligated": 570199.31,
+    "awardCount": 8
+  },
+  {
+    "naicsCode": "335312",
+    "naicsDescription": "MOTOR AND GENERATOR MANUFACTURING",
+    "totalObligated": 553308.32,
+    "awardCount": 6
+  },
+  {
+    "naicsCode": "516210",
+    "naicsDescription": "MEDIA STREAMING DISTRIBUTION SERVICES, SOCIAL NETWORKS, AND OTHER MEDIA NETWORKS AND CONTENT PROVIDERS",
+    "totalObligated": 546311.6,
     "awardCount": 5
   },
   {
-    "naicsCode": "213112",
-    "naicsDescription": "SUPPORT ACTIVITIES FOR OIL AND GAS OPERATIONS",
-    "totalObligated": 563295,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "711510",
-    "naicsDescription": "INDEPENDENT ARTISTS, WRITERS, AND PERFORMERS",
-    "totalObligated": 536815.72,
-    "awardCount": 11
-  },
-  {
-    "naicsCode": "562991",
-    "naicsDescription": "SEPTIC TANK AND RELATED SERVICES",
-    "totalObligated": 535018.55,
-    "awardCount": 9
-  },
-  {
-    "naicsCode": "334419",
-    "naicsDescription": "OTHER ELECTRONIC COMPONENT MANUFACTURING",
-    "totalObligated": 509140.27,
-    "awardCount": 7
+    "naicsCode": "332510",
+    "naicsDescription": "HARDWARE MANUFACTURING",
+    "totalObligated": 512518.28,
+    "awardCount": 421
   },
   {
     "naicsCode": "333248",
@@ -1692,15 +1854,45 @@
     "awardCount": 5
   },
   {
-    "naicsCode": "335312",
-    "naicsDescription": "MOTOR AND GENERATOR MANUFACTURING",
-    "totalObligated": 487322.32,
-    "awardCount": 5
+    "naicsCode": "333244",
+    "naicsDescription": "PRINTING MACHINERY AND EQUIPMENT MANUFACTURING",
+    "totalObligated": 505804.88,
+    "awardCount": 3
   },
   {
-    "naicsCode": "238190",
-    "naicsDescription": "OTHER FOUNDATION, STRUCTURE, AND BUILDING EXTERIOR CONTRACTORS",
-    "totalObligated": 479060,
+    "naicsCode": "541820",
+    "naicsDescription": "PUBLIC RELATIONS AGENCIES",
+    "totalObligated": 503513.64,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "322211",
+    "naicsDescription": "CORRUGATED AND SOLID FIBER BOX MANUFACTURING",
+    "totalObligated": 502519.25,
+    "awardCount": 39
+  },
+  {
+    "naicsCode": "323113",
+    "naicsDescription": "COMMERCIAL SCREEN PRINTING",
+    "totalObligated": 500856.86,
+    "awardCount": 13
+  },
+  {
+    "naicsCode": "711510",
+    "naicsDescription": "INDEPENDENT ARTISTS, WRITERS, AND PERFORMERS",
+    "totalObligated": 487185.22,
+    "awardCount": 8
+  },
+  {
+    "naicsCode": "333517",
+    "naicsDescription": "MACHINE TOOL MANUFACTURING",
+    "totalObligated": 480683.4,
+    "awardCount": 6
+  },
+  {
+    "naicsCode": "443120",
+    "naicsDescription": "COMPUTER AND SOFTWARE STORES",
+    "totalObligated": 477905.43,
     "awardCount": 2
   },
   {
@@ -1710,22 +1902,28 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "115112",
-    "naicsDescription": "SOIL PREPARATION, PLANTING, AND CULTIVATING",
-    "totalObligated": 468258.2,
-    "awardCount": 4
+    "naicsCode": "339920",
+    "naicsDescription": "SPORTING AND ATHLETIC GOODS MANUFACTURING",
+    "totalObligated": 466393.66,
+    "awardCount": 10
   },
   {
-    "naicsCode": "322211",
-    "naicsDescription": "CORRUGATED AND SOLID FIBER BOX MANUFACTURING",
-    "totalObligated": 464231.35,
-    "awardCount": 33
+    "naicsCode": "624221",
+    "naicsDescription": "TEMPORARY SHELTERS",
+    "totalObligated": 459570.9,
+    "awardCount": 2
   },
   {
     "naicsCode": "336320",
     "naicsDescription": "MOTOR VEHICLE ELECTRICAL AND ELECTRONIC EQUIPMENT MANUFACTURING",
     "totalObligated": 457750,
-    "awardCount": 1
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "488210",
+    "naicsDescription": "SUPPORT ACTIVITIES FOR RAIL TRANSPORTATION",
+    "totalObligated": 456778,
+    "awardCount": 2
   },
   {
     "naicsCode": "334210",
@@ -1734,52 +1932,34 @@
     "awardCount": 5
   },
   {
-    "naicsCode": "624221",
-    "naicsDescription": "TEMPORARY SHELTERS",
-    "totalObligated": 441890.9,
-    "awardCount": 1
+    "naicsCode": "311119",
+    "naicsDescription": "OTHER ANIMAL FOOD MANUFACTURING",
+    "totalObligated": 430710.11,
+    "awardCount": 5
   },
   {
-    "naicsCode": "488210",
-    "naicsDescription": "SUPPORT ACTIVITIES FOR RAIL TRANSPORTATION",
-    "totalObligated": 439306,
-    "awardCount": 1
+    "naicsCode": "238330",
+    "naicsDescription": "FLOORING CONTRACTORS",
+    "totalObligated": 418105.86,
+    "awardCount": 6
   },
   {
-    "naicsCode": "561439",
-    "naicsDescription": "OTHER BUSINESS SERVICE CENTERS (INCLUDING COPY SHOPS)",
-    "totalObligated": 425252.34,
+    "naicsCode": "531190",
+    "naicsDescription": "LESSORS OF OTHER REAL ESTATE PROPERTY",
+    "totalObligated": 411397.11,
+    "awardCount": 4
+  },
+  {
+    "naicsCode": "336310",
+    "naicsDescription": "MOTOR VEHICLE GASOLINE ENGINE AND ENGINE PARTS MANUFACTURING",
+    "totalObligated": 405802.89,
     "awardCount": 3
-  },
-  {
-    "naicsCode": "311812",
-    "naicsDescription": "COMMERCIAL BAKERIES",
-    "totalObligated": 423599.78,
-    "awardCount": 9
-  },
-  {
-    "naicsCode": "561790",
-    "naicsDescription": "OTHER SERVICES TO BUILDINGS AND DWELLINGS",
-    "totalObligated": 416462.91,
-    "awardCount": 4
-  },
-  {
-    "naicsCode": "333517",
-    "naicsDescription": "MACHINE TOOL MANUFACTURING",
-    "totalObligated": 401870.4,
-    "awardCount": 4
   },
   {
     "naicsCode": "457210",
     "naicsDescription": "FUEL DEALERS",
     "totalObligated": 397284.56,
     "awardCount": 8
-  },
-  {
-    "naicsCode": "323113",
-    "naicsDescription": "COMMERCIAL SCREEN PRINTING",
-    "totalObligated": 390813.81,
-    "awardCount": 11
   },
   {
     "naicsCode": "212319",
@@ -1790,8 +1970,14 @@
   {
     "naicsCode": "562998",
     "naicsDescription": "ALL OTHER MISCELLANEOUS WASTE MANAGEMENT SERVICES",
-    "totalObligated": 381062.02,
-    "awardCount": 4
+    "totalObligated": 386612.02,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "518111",
+    "naicsDescription": "INTERNET SERVICE PROVIDERS",
+    "totalObligated": 384432.29,
+    "awardCount": 1
   },
   {
     "naicsCode": "238150",
@@ -1800,16 +1986,22 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "531190",
-    "naicsDescription": "LESSORS OF OTHER REAL ESTATE PROPERTY",
-    "totalObligated": 374003.97,
-    "awardCount": 3
+    "naicsCode": "333111",
+    "naicsDescription": "FARM MACHINERY AND EQUIPMENT MANUFACTURING",
+    "totalObligated": 373007.86,
+    "awardCount": 5
   },
   {
     "naicsCode": "332322",
     "naicsDescription": "SHEET METAL WORK MANUFACTURING",
     "totalObligated": 368540.58,
     "awardCount": 3
+  },
+  {
+    "naicsCode": "517112",
+    "naicsDescription": "WIRELESS TELECOMMUNICATIONS CARRIERS (EXCEPT SATELLITE)",
+    "totalObligated": 367992.71,
+    "awardCount": 12
   },
   {
     "naicsCode": "524292",
@@ -1830,16 +2022,34 @@
     "awardCount": 2
   },
   {
+    "naicsCode": "325199",
+    "naicsDescription": "ALL OTHER BASIC ORGANIC CHEMICAL MANUFACTURING",
+    "totalObligated": 352598.4,
+    "awardCount": 2
+  },
+  {
     "naicsCode": "238310",
     "naicsDescription": "DRYWALL AND INSULATION CONTRACTORS",
     "totalObligated": 350513.37,
     "awardCount": 2
   },
   {
-    "naicsCode": "336310",
-    "naicsDescription": "MOTOR VEHICLE GASOLINE ENGINE AND ENGINE PARTS MANUFACTURING",
-    "totalObligated": 349802.89,
-    "awardCount": 2
+    "naicsCode": "334112",
+    "naicsDescription": "COMPUTER STORAGE DEVICE MANUFACTURING",
+    "totalObligated": 339552.31,
+    "awardCount": 9
+  },
+  {
+    "naicsCode": "923120",
+    "naicsDescription": "ADMINISTRATION OF PUBLIC HEALTH PROGRAMS",
+    "totalObligated": 335734.98,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "311812",
+    "naicsDescription": "COMMERCIAL BAKERIES",
+    "totalObligated": 335272.54,
+    "awardCount": 8
   },
   {
     "naicsCode": "442299",
@@ -1848,27 +2058,33 @@
     "awardCount": 2
   },
   {
+    "naicsCode": "212321",
+    "naicsDescription": "CONSTRUCTION SAND AND GRAVEL MINING",
+    "totalObligated": 330436.9,
+    "awardCount": 4
+  },
+  {
     "naicsCode": "423710",
     "naicsDescription": "HARDWARE MERCHANT WHOLESALERS",
-    "totalObligated": 330147.17,
-    "awardCount": 509
+    "totalObligated": 321827.55,
+    "awardCount": 542
   },
   {
-    "naicsCode": "311119",
-    "naicsDescription": "OTHER ANIMAL FOOD MANUFACTURING",
-    "totalObligated": 319333.21,
+    "naicsCode": "327390",
+    "naicsDescription": "OTHER CONCRETE PRODUCT MANUFACTURING",
+    "totalObligated": 316884,
     "awardCount": 3
-  },
-  {
-    "naicsCode": "923120",
-    "naicsDescription": "ADMINISTRATION OF PUBLIC HEALTH PROGRAMS",
-    "totalObligated": 316334.98,
-    "awardCount": 2
   },
   {
     "naicsCode": "522110",
     "naicsDescription": "COMMERCIAL BANKING",
     "totalObligated": 315332.48,
+    "awardCount": 2
+  },
+  {
+    "naicsCode": "532284",
+    "naicsDescription": "RECREATIONAL GOODS RENTAL",
+    "totalObligated": 314593.77,
     "awardCount": 2
   },
   {
@@ -1878,34 +2094,34 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "335999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS ELECTRICAL EQUIPMENT AND COMPONENT MANUFACTURING",
+    "totalObligated": 308233.62,
+    "awardCount": 5
+  },
+  {
     "naicsCode": "621330",
     "naicsDescription": "OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS)",
     "totalObligated": 306484,
     "awardCount": 2
   },
   {
-    "naicsCode": "516210",
-    "naicsDescription": "MEDIA STREAMING DISTRIBUTION SERVICES, SOCIAL NETWORKS, AND OTHER MEDIA NETWORKS AND CONTENT PROVIDERS",
-    "totalObligated": 302568.5,
-    "awardCount": 3
+    "naicsCode": "332618",
+    "naicsDescription": "OTHER FABRICATED WIRE PRODUCT MANUFACTURING",
+    "totalObligated": 302804,
+    "awardCount": 2
   },
   {
-    "naicsCode": "332510",
-    "naicsDescription": "HARDWARE MANUFACTURING",
-    "totalObligated": 300511.81,
-    "awardCount": 295
-  },
-  {
-    "naicsCode": "238330",
-    "naicsDescription": "FLOORING CONTRACTORS",
-    "totalObligated": 298823.4,
+    "naicsCode": "423990",
+    "naicsDescription": "OTHER MISCELLANEOUS DURABLE GOODS MERCHANT WHOLESALERS",
+    "totalObligated": 299054.79,
     "awardCount": 4
   },
   {
-    "naicsCode": "517112",
-    "naicsDescription": "WIRELESS TELECOMMUNICATIONS CARRIERS (EXCEPT SATELLITE)",
-    "totalObligated": 297992.71,
-    "awardCount": 11
+    "naicsCode": "333315",
+    "naicsDescription": "PHOTOGRAPHIC AND PHOTOCOPYING EQUIPMENT MANUFACTURING",
+    "totalObligated": 293265.19,
+    "awardCount": 5
   },
   {
     "naicsCode": "713940",
@@ -1920,10 +2136,28 @@
     "awardCount": 2
   },
   {
+    "naicsCode": "337122",
+    "naicsDescription": "NONUPHOLSTERED WOOD HOUSEHOLD FURNITURE MANUFACTURING",
+    "totalObligated": 284599.56,
+    "awardCount": 12
+  },
+  {
     "naicsCode": "456110",
     "naicsDescription": "PHARMACIES AND DRUG RETAILERS",
     "totalObligated": 283296.13,
     "awardCount": 1
+  },
+  {
+    "naicsCode": "423210",
+    "naicsDescription": "FURNITURE MERCHANT WHOLESALERS",
+    "totalObligated": 275580.5,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "541850",
+    "naicsDescription": "INDOOR AND OUTDOOR DISPLAY ADVERTISING",
+    "totalObligated": 275498.9,
+    "awardCount": 2
   },
   {
     "naicsCode": "513110",
@@ -1932,22 +2166,10 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "327390",
-    "naicsDescription": "OTHER CONCRETE PRODUCT MANUFACTURING",
-    "totalObligated": 268737,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "332618",
-    "naicsDescription": "OTHER FABRICATED WIRE PRODUCT MANUFACTURING",
-    "totalObligated": 266904,
-    "awardCount": 1
-  },
-  {
     "naicsCode": "325612",
     "naicsDescription": "POLISH AND OTHER SANITATION GOOD MANUFACTURING",
-    "totalObligated": 264146.99,
-    "awardCount": 7
+    "totalObligated": 264489.17,
+    "awardCount": 8
   },
   {
     "naicsCode": "424410",
@@ -1956,10 +2178,10 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "333315",
-    "naicsDescription": "PHOTOGRAPHIC AND PHOTOCOPYING EQUIPMENT MANUFACTURING",
-    "totalObligated": 259157.61,
-    "awardCount": 5
+    "naicsCode": "922190",
+    "naicsDescription": "OTHER JUSTICE, PUBLIC ORDER, AND SAFETY ACTIVITIES",
+    "totalObligated": 262029.04,
+    "awardCount": 2
   },
   {
     "naicsCode": "333912",
@@ -1980,28 +2202,40 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "423210",
-    "naicsDescription": "FURNITURE MERCHANT WHOLESALERS",
-    "totalObligated": 244951.25,
-    "awardCount": 2
+    "naicsCode": "335220",
+    "naicsDescription": "MAJOR HOUSEHOLD APPLIANCE MANUFACTURING",
+    "totalObligated": 235896.96,
+    "awardCount": 5
   },
   {
-    "naicsCode": "325611",
-    "naicsDescription": "SOAP AND OTHER DETERGENT MANUFACTURING",
-    "totalObligated": 242913.14,
-    "awardCount": 67
+    "naicsCode": "321999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS WOOD PRODUCT MANUFACTURING",
+    "totalObligated": 234856.89,
+    "awardCount": 262
   },
   {
-    "naicsCode": "339920",
-    "naicsDescription": "SPORTING AND ATHLETIC GOODS MANUFACTURING",
-    "totalObligated": 240705.93,
+    "naicsCode": "336390",
+    "naicsDescription": "OTHER MOTOR VEHICLE PARTS MANUFACTURING",
+    "totalObligated": 234581.98,
     "awardCount": 3
+  },
+  {
+    "naicsCode": "423840",
+    "naicsDescription": "INDUSTRIAL SUPPLIES MERCHANT WHOLESALERS",
+    "totalObligated": 234302.62,
+    "awardCount": 187
   },
   {
     "naicsCode": "333241",
     "naicsDescription": "FOOD PRODUCT MACHINERY MANUFACTURING",
     "totalObligated": 228561.5,
-    "awardCount": 7
+    "awardCount": 8
+  },
+  {
+    "naicsCode": "424690",
+    "naicsDescription": "OTHER CHEMICAL AND ALLIED PRODUCTS MERCHANT WHOLESALERS",
+    "totalObligated": 228096.4,
+    "awardCount": 1
   },
   {
     "naicsCode": "511130",
@@ -2010,22 +2244,40 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "333111",
-    "naicsDescription": "FARM MACHINERY AND EQUIPMENT MANUFACTURING",
-    "totalObligated": 210280.08,
+    "naicsCode": "423490",
+    "naicsDescription": "OTHER PROFESSIONAL EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+    "totalObligated": 224430.76,
     "awardCount": 4
   },
   {
-    "naicsCode": "333244",
-    "naicsDescription": "PRINTING MACHINERY AND EQUIPMENT MANUFACTURING",
-    "totalObligated": 208899.25,
+    "naicsCode": "333921",
+    "naicsDescription": "ELEVATOR AND MOVING STAIRWAY MANUFACTURING",
+    "totalObligated": 219865.83,
+    "awardCount": 7
+  },
+  {
+    "naicsCode": "335313",
+    "naicsDescription": "SWITCHGEAR AND SWITCHBOARD APPARATUS MANUFACTURING",
+    "totalObligated": 216103.06,
     "awardCount": 2
+  },
+  {
+    "naicsCode": "441110",
+    "naicsDescription": "NEW CAR DEALERS",
+    "totalObligated": 211889,
+    "awardCount": 1
   },
   {
     "naicsCode": "315234",
     "naicsDescription": "WOMEN'S AND GIRLS' CUT AND SEW SUIT, COAT, TAILORED JACKET, AND SKIRT MANUFACTURING",
     "totalObligated": 206668.54,
     "awardCount": 1
+  },
+  {
+    "naicsCode": "238340",
+    "naicsDescription": "TILE AND TERRAZZO CONTRACTORS",
+    "totalObligated": 205529.35,
+    "awardCount": 2
   },
   {
     "naicsCode": "424480",
@@ -2046,33 +2298,15 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "321999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS WOOD PRODUCT MANUFACTURING",
-    "totalObligated": 198612.17,
-    "awardCount": 180
+    "naicsCode": "423610",
+    "naicsDescription": "ELECTRICAL APPARATUS AND EQUIPMENT, WIRING SUPPLIES, AND RELATED EQUIPMENT MERCHANT  WHOLESALERS",
+    "totalObligated": 202394.89,
+    "awardCount": 6
   },
   {
-    "naicsCode": "336390",
-    "naicsDescription": "OTHER MOTOR VEHICLE PARTS MANUFACTURING",
-    "totalObligated": 198453.79,
-    "awardCount": 3
-  },
-  {
-    "naicsCode": "325199",
-    "naicsDescription": "ALL OTHER BASIC ORGANIC CHEMICAL MANUFACTURING",
-    "totalObligated": 195888,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "335220",
-    "naicsDescription": "MAJOR HOUSEHOLD APPLIANCE MANUFACTURING",
-    "totalObligated": 195500.69,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "423490",
-    "naicsDescription": "OTHER PROFESSIONAL EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
-    "totalObligated": 190680.76,
+    "naicsCode": "493120",
+    "naicsDescription": "REFRIGERATED WAREHOUSING AND STORAGE",
+    "totalObligated": 189375.68,
     "awardCount": 3
   },
   {
@@ -2082,16 +2316,40 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "423840",
-    "naicsDescription": "INDUSTRIAL SUPPLIES MERCHANT WHOLESALERS",
-    "totalObligated": 180725.67,
-    "awardCount": 190
+    "naicsCode": "333914",
+    "naicsDescription": "MEASURING, DISPENSING, AND OTHER PUMPING EQUIPMENT MANUFACTURING",
+    "totalObligated": 183505.39,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "811114",
+    "naicsDescription": "SPECIALIZED AUTOMOTIVE REPAIR",
+    "totalObligated": 182958.81,
+    "awardCount": 3
+  },
+  {
+    "naicsCode": "332321",
+    "naicsDescription": "METAL WINDOW AND DOOR MANUFACTURING",
+    "totalObligated": 182243.28,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "316210",
+    "naicsDescription": "FOOTWEAR MANUFACTURING",
+    "totalObligated": 180979.25,
+    "awardCount": 8
   },
   {
     "naicsCode": "332215",
     "naicsDescription": "METAL KITCHEN COOKWARE, UTENSIL, CUTLERY, AND FLATWARE (EXCEPT PRECIOUS) MANUFACTURING",
-    "totalObligated": 179659.63,
-    "awardCount": 5
+    "totalObligated": 180072.75,
+    "awardCount": 7
+  },
+  {
+    "naicsCode": "331210",
+    "naicsDescription": "IRON AND STEEL PIPE AND TUBE MANUFACTURING FROM PURCHASED STEEL",
+    "totalObligated": 179620,
+    "awardCount": 1
   },
   {
     "naicsCode": "523910",
@@ -2106,22 +2364,16 @@
     "awardCount": 4
   },
   {
-    "naicsCode": "333914",
-    "naicsDescription": "MEASURING, DISPENSING, AND OTHER PUMPING EQUIPMENT MANUFACTURING",
-    "totalObligated": 173548.65,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "333415",
-    "naicsDescription": "AIR-CONDITIONING AND WARM AIR HEATING EQUIPMENT AND COMMERCIAL AND INDUSTRIAL REFRIGERATION EQUIPMENT MANUFACTURING",
-    "totalObligated": 171468.05,
-    "awardCount": 7
-  },
-  {
-    "naicsCode": "333618",
-    "naicsDescription": "OTHER ENGINE EQUIPMENT MANUFACTURING",
-    "totalObligated": 166368.85,
+    "naicsCode": "336212",
+    "naicsDescription": "TRUCK TRAILER MANUFACTURING",
+    "totalObligated": 170701.32,
     "awardCount": 5
+  },
+  {
+    "naicsCode": "326111",
+    "naicsDescription": "PLASTICS BAG MANUFACTURING",
+    "totalObligated": 167671.45,
+    "awardCount": 110
   },
   {
     "naicsCode": "531120",
@@ -2136,22 +2388,10 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "532284",
-    "naicsDescription": "RECREATIONAL GOODS RENTAL",
-    "totalObligated": 158575.9,
-    "awardCount": 1
-  },
-  {
     "naicsCode": "926120",
     "naicsDescription": "REGULATION AND ADMINISTRATION OF TRANSPORTATION PROGRAMS",
     "totalObligated": 149000,
     "awardCount": 3
-  },
-  {
-    "naicsCode": "493120",
-    "naicsDescription": "REFRIGERATED WAREHOUSING AND STORAGE",
-    "totalObligated": 148091.68,
-    "awardCount": 2
   },
   {
     "naicsCode": "325991",
@@ -2160,27 +2400,9 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "423610",
-    "naicsDescription": "ELECTRICAL APPARATUS AND EQUIPMENT, WIRING SUPPLIES, AND RELATED EQUIPMENT MERCHANT  WHOLESALERS",
-    "totalObligated": 142823.43,
-    "awardCount": 4
-  },
-  {
     "naicsCode": "488119",
     "naicsDescription": "OTHER AIRPORT OPERATIONS",
     "totalObligated": 140143,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "337122",
-    "naicsDescription": "NONUPHOLSTERED WOOD HOUSEHOLD FURNITURE MANUFACTURING",
-    "totalObligated": 139532.03,
-    "awardCount": 7
-  },
-  {
-    "naicsCode": "541850",
-    "naicsDescription": "INDOOR AND OUTDOOR DISPLAY ADVERTISING",
-    "totalObligated": 137792.84,
     "awardCount": 1
   },
   {
@@ -2190,16 +2412,22 @@
     "awardCount": 4
   },
   {
+    "naicsCode": "488999",
+    "naicsDescription": "ALL OTHER SUPPORT ACTIVITIES FOR TRANSPORTATION",
+    "totalObligated": 136299.97,
+    "awardCount": 2
+  },
+  {
     "naicsCode": "314110",
     "naicsDescription": "CARPET AND RUG MILLS",
     "totalObligated": 135440.49,
     "awardCount": 1
   },
   {
-    "naicsCode": "326111",
-    "naicsDescription": "PLASTICS BAG MANUFACTURING",
-    "totalObligated": 134891.66,
-    "awardCount": 69
+    "naicsCode": "459999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS RETAILERS",
+    "totalObligated": 135142,
+    "awardCount": 2
   },
   {
     "naicsCode": "513120",
@@ -2238,15 +2466,15 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "812990",
-    "naicsDescription": "ALL OTHER PERSONAL SERVICES",
-    "totalObligated": 126653.99,
-    "awardCount": 2
-  },
-  {
     "naicsCode": "423820",
     "naicsDescription": "FARM AND GARDEN MACHINERY AND EQUIPMENT MERCHANT WHOLESALERS",
     "totalObligated": 125000,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "112120",
+    "naicsDescription": "DAIRY CATTLE AND MILK PRODUCTION",
+    "totalObligated": 124950.73,
     "awardCount": 1
   },
   {
@@ -2256,10 +2484,10 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "325320",
-    "naicsDescription": "PESTICIDE AND OTHER AGRICULTURAL CHEMICAL MANUFACTURING",
-    "totalObligated": 119652.89,
-    "awardCount": 5
+    "naicsCode": "326191",
+    "naicsDescription": "PLASTICS PLUMBING FIXTURE MANUFACTURING",
+    "totalObligated": 120970,
+    "awardCount": 1
   },
   {
     "naicsCode": "327999",
@@ -2274,28 +2502,22 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "921190",
+    "naicsDescription": "OTHER GENERAL GOVERNMENT SUPPORT",
+    "totalObligated": 115313.06,
+    "awardCount": 4
+  },
+  {
     "naicsCode": "485112",
     "naicsDescription": "COMMUTER RAIL SYSTEMS",
     "totalObligated": 114939.95,
     "awardCount": 2
   },
   {
-    "naicsCode": "922120",
-    "naicsDescription": "POLICE PROTECTION",
-    "totalObligated": 114664.06,
-    "awardCount": 3
-  },
-  {
     "naicsCode": "332323",
     "naicsDescription": "ORNAMENTAL AND ARCHITECTURAL METAL WORK MANUFACTURING",
     "totalObligated": 113534,
     "awardCount": 2
-  },
-  {
-    "naicsCode": "459999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS RETAILERS",
-    "totalObligated": 111140,
-    "awardCount": 1
   },
   {
     "naicsCode": "337920",
@@ -2308,12 +2530,6 @@
     "naicsDescription": "PETROLEUM BULK STATIONS AND TERMINALS",
     "totalObligated": 109500,
     "awardCount": 1
-  },
-  {
-    "naicsCode": "334112",
-    "naicsDescription": "COMPUTER STORAGE DEVICE MANUFACTURING",
-    "totalObligated": 108939.85,
-    "awardCount": 8
   },
   {
     "naicsCode": "335122",
@@ -2346,22 +2562,34 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "926110",
-    "naicsDescription": "ADMINISTRATION OF GENERAL ECONOMIC PROGRAMS",
-    "totalObligated": 102168.48,
+    "naicsCode": "321215",
+    "naicsDescription": "ENGINEERED WOOD MEMBER MANUFACTURING",
+    "totalObligated": 103330.2,
     "awardCount": 1
   },
   {
-    "naicsCode": "336212",
-    "naicsDescription": "TRUCK TRAILER MANUFACTURING",
-    "totalObligated": 100541.32,
-    "awardCount": 2
+    "naicsCode": "926110",
+    "naicsDescription": "ADMINISTRATION OF GENERAL ECONOMIC PROGRAMS",
+    "totalObligated": 103020.88,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "314999",
+    "naicsDescription": "ALL OTHER MISCELLANEOUS TEXTILE PRODUCT MILLS",
+    "totalObligated": 100818.62,
+    "awardCount": 42
   },
   {
     "naicsCode": "423830",
     "naicsDescription": "INDUSTRIAL MACHINERY AND EQUIPMENT MERCHANT WHOLESALERS",
     "totalObligated": 100150.26,
     "awardCount": 4
+  },
+  {
+    "naicsCode": "325320",
+    "naicsDescription": "PESTICIDE AND OTHER AGRICULTURAL CHEMICAL MANUFACTURING",
+    "totalObligated": 99792.08,
+    "awardCount": 5
   },
   {
     "naicsCode": "812210",
@@ -2373,7 +2601,7 @@
     "naicsCode": "425120",
     "naicsDescription": "WHOLESALE TRADE AGENTS AND BROKERS",
     "totalObligated": 94629.25,
-    "awardCount": 2
+    "awardCount": 3
   },
   {
     "naicsCode": "611692",
@@ -2406,6 +2634,12 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "326122",
+    "naicsDescription": "PLASTICS PIPE AND PIPE FITTING MANUFACTURING",
+    "totalObligated": 89150.04,
+    "awardCount": 20
+  },
+  {
     "naicsCode": "424350",
     "naicsDescription": "CLOTHING AND CLOTHING ACCESSORIES MERCHANT WHOLESALERS",
     "totalObligated": 88689.7,
@@ -2430,12 +2664,6 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "443120",
-    "naicsDescription": "COMPUTER AND SOFTWARE STORES",
-    "totalObligated": 86805,
-    "awardCount": 1
-  },
-  {
     "naicsCode": "424490",
     "naicsDescription": "OTHER GROCERY AND RELATED PRODUCTS MERCHANT WHOLESALERS",
     "totalObligated": 86375.58,
@@ -2445,12 +2673,6 @@
     "naicsCode": "541191",
     "naicsDescription": "TITLE ABSTRACT AND SETTLEMENT OFFICES",
     "totalObligated": 85413,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "811114",
-    "naicsDescription": "SPECIALIZED AUTOMOTIVE REPAIR",
-    "totalObligated": 82914,
     "awardCount": 1
   },
   {
@@ -2464,6 +2686,12 @@
     "naicsDescription": "FREIGHT TRANSPORTATION ARRANGEMENT",
     "totalObligated": 80127.4,
     "awardCount": 2
+  },
+  {
+    "naicsCode": "423940",
+    "naicsDescription": "JEWELRY, WATCH, PRECIOUS STONE, AND PRECIOUS METAL MERCHANT WHOLESALERS",
+    "totalObligated": 79206.18,
+    "awardCount": 90
   },
   {
     "naicsCode": "516110",
@@ -2488,12 +2716,6 @@
     "naicsDescription": "BUS AND OTHER MOTOR VEHICLE TRANSIT SYSTEMS",
     "totalObligated": 74717.26,
     "awardCount": 1
-  },
-  {
-    "naicsCode": "812332",
-    "naicsDescription": "INDUSTRIAL LAUNDERERS",
-    "totalObligated": 74280.96,
-    "awardCount": 4
   },
   {
     "naicsCode": "325992",
@@ -2526,34 +2748,28 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "611512",
-    "naicsDescription": "FLIGHT TRAINING",
-    "totalObligated": 68180,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "333998",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS GENERAL PURPOSE MACHINERY MANUFACTURING",
-    "totalObligated": 65573.2,
-    "awardCount": 1
-  },
-  {
     "naicsCode": "312112",
     "naicsDescription": "BOTTLED WATER MANUFACTURING",
-    "totalObligated": 63695.86,
-    "awardCount": 8
+    "totalObligated": 65978.65,
+    "awardCount": 12
   },
   {
     "naicsCode": "519120",
     "naicsDescription": "LIBRARIES AND ARCHIVES",
-    "totalObligated": 63248,
-    "awardCount": 1
+    "totalObligated": 65977.96,
+    "awardCount": 2
   },
   {
     "naicsCode": "339994",
     "naicsDescription": "BROOM, BRUSH, AND MOP MANUFACTURING",
-    "totalObligated": 63062.76,
-    "awardCount": 20
+    "totalObligated": 63793.08,
+    "awardCount": 24
+  },
+  {
+    "naicsCode": "326121",
+    "naicsDescription": "UNLAMINATED PLASTICS PROFILE SHAPE MANUFACTURING",
+    "totalObligated": 63400,
+    "awardCount": 2
   },
   {
     "naicsCode": "333996",
@@ -2562,22 +2778,10 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "423940",
-    "naicsDescription": "JEWELRY, WATCH, PRECIOUS STONE, AND PRECIOUS METAL MERCHANT WHOLESALERS",
-    "totalObligated": 60450.09,
-    "awardCount": 70
-  },
-  {
-    "naicsCode": "326121",
-    "naicsDescription": "UNLAMINATED PLASTICS PROFILE SHAPE MANUFACTURING",
-    "totalObligated": 59092,
-    "awardCount": 1
-  },
-  {
     "naicsCode": "326299",
     "naicsDescription": "ALL OTHER RUBBER PRODUCT MANUFACTURING",
-    "totalObligated": 57734.56,
-    "awardCount": 6
+    "totalObligated": 59611.5,
+    "awardCount": 8
   },
   {
     "naicsCode": "922130",
@@ -2586,22 +2790,46 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "339115",
-    "naicsDescription": "OPHTHALMIC GOODS MANUFACTURING",
-    "totalObligated": 56392.1,
-    "awardCount": 11
-  },
-  {
     "naicsCode": "311920",
     "naicsDescription": "COFFEE AND TEA MANUFACTURING",
     "totalObligated": 54472.2,
     "awardCount": 1
   },
   {
-    "naicsCode": "333993",
-    "naicsDescription": "PACKAGING MACHINERY MANUFACTURING",
-    "totalObligated": 51230.24,
-    "awardCount": 14
+    "naicsCode": "532112",
+    "naicsDescription": "PASSENGER CAR LEASING",
+    "totalObligated": 54154,
+    "awardCount": 2
+  },
+  {
+    "naicsCode": "336330",
+    "naicsDescription": "MOTOR VEHICLE STEERING AND SUSPENSION COMPONENTS (EXCEPT SPRING) MANUFACTURING",
+    "totalObligated": 53527.47,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "811411",
+    "naicsDescription": "HOME AND GARDEN EQUIPMENT REPAIR AND MAINTENANCE",
+    "totalObligated": 53104.94,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "334119",
+    "naicsDescription": "OTHER COMPUTER PERIPHERAL EQUIPMENT MANUFACTURING",
+    "totalObligated": 52372.19,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "711130",
+    "naicsDescription": "MUSICAL GROUPS AND ARTISTS",
+    "totalObligated": 52182,
+    "awardCount": 2
+  },
+  {
+    "naicsCode": "488410",
+    "naicsDescription": "MOTOR VEHICLE TOWING",
+    "totalObligated": 51262.5,
+    "awardCount": 3
   },
   {
     "naicsCode": "313310",
@@ -2614,6 +2842,24 @@
     "naicsDescription": "POURED CONCRETE FOUNDATION AND STRUCTURE CONTRACTORS",
     "totalObligated": 49950,
     "awardCount": 1
+  },
+  {
+    "naicsCode": "333993",
+    "naicsDescription": "PACKAGING MACHINERY MANUFACTURING",
+    "totalObligated": 49411.16,
+    "awardCount": 17
+  },
+  {
+    "naicsCode": "562212",
+    "naicsDescription": "SOLID WASTE LANDFILL",
+    "totalObligated": 48880.1,
+    "awardCount": 2
+  },
+  {
+    "naicsCode": "491110",
+    "naicsDescription": "POSTAL SERVICE",
+    "totalObligated": 48486.12,
+    "awardCount": 2
   },
   {
     "naicsCode": "424430",
@@ -2634,34 +2880,16 @@
     "awardCount": 3
   },
   {
-    "naicsCode": "423620",
-    "naicsDescription": "HOUSEHOLD APPLIANCES, ELECTRIC HOUSEWARES, AND CONSUMER ELECTRONICS MERCHANT WHOLESALERS",
-    "totalObligated": 45654.76,
+    "naicsCode": "332911",
+    "naicsDescription": "INDUSTRIAL VALVE MANUFACTURING",
+    "totalObligated": 45836,
     "awardCount": 2
-  },
-  {
-    "naicsCode": "623110",
-    "naicsDescription": "NURSING CARE FACILITIES (SKILLED NURSING FACILITIES)",
-    "totalObligated": 45500,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "491110",
-    "naicsDescription": "POSTAL SERVICE",
-    "totalObligated": 45500,
-    "awardCount": 1
   },
   {
     "naicsCode": "315250",
     "naicsDescription": "CUT AND SEW APPAREL MANUFACTURING (EXCEPT CONTRACTORS)",
     "totalObligated": 45415.5,
     "awardCount": 3
-  },
-  {
-    "naicsCode": "316210",
-    "naicsDescription": "FOOTWEAR MANUFACTURING",
-    "totalObligated": 44389.19,
-    "awardCount": 6
   },
   {
     "naicsCode": "311612",
@@ -2676,18 +2904,6 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "562212",
-    "naicsDescription": "SOLID WASTE LANDFILL",
-    "totalObligated": 42936.37,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "326122",
-    "naicsDescription": "PLASTICS PIPE AND PIPE FITTING MANUFACTURING",
-    "totalObligated": 42294.91,
-    "awardCount": 17
-  },
-  {
     "naicsCode": "321113",
     "naicsDescription": "SAWMILLS",
     "totalObligated": 41688.3,
@@ -2697,6 +2913,18 @@
     "naicsCode": "332420",
     "naicsDescription": "METAL TANK (HEAVY GAUGE) MANUFACTURING",
     "totalObligated": 41056.61,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "924110",
+    "naicsDescription": "ADMINISTRATION OF AIR AND WATER RESOURCE AND SOLID WASTE MANAGEMENT PROGRAMS",
+    "totalObligated": 40300,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "561520",
+    "naicsDescription": "TOUR OPERATORS",
+    "totalObligated": 40000,
     "awardCount": 1
   },
   {
@@ -2710,6 +2938,12 @@
     "naicsDescription": "PAPER MILLS",
     "totalObligated": 39292,
     "awardCount": 1
+  },
+  {
+    "naicsCode": "115115",
+    "naicsDescription": "FARM LABOR CONTRACTORS AND CREW LEADERS",
+    "totalObligated": 38536,
+    "awardCount": 2
   },
   {
     "naicsCode": "327320",
@@ -2727,24 +2961,6 @@
     "naicsCode": "316998",
     "naicsDescription": "ALL OTHER LEATHER GOOD AND ALLIED PRODUCT MANUFACTURING",
     "totalObligated": 37665,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "921190",
-    "naicsDescription": "OTHER GENERAL GOVERNMENT SUPPORT",
-    "totalObligated": 37605.05,
-    "awardCount": 2
-  },
-  {
-    "naicsCode": "812220",
-    "naicsDescription": "CEMETERIES AND CREMATORIES",
-    "totalObligated": 36959.67,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "711130",
-    "naicsDescription": "MUSICAL GROUPS AND ARTISTS",
-    "totalObligated": 36792,
     "awardCount": 1
   },
   {
@@ -2778,9 +2994,9 @@
     "awardCount": 2
   },
   {
-    "naicsCode": "333921",
-    "naicsDescription": "ELEVATOR AND MOVING STAIRWAY MANUFACTURING",
-    "totalObligated": 32005.83,
+    "naicsCode": "721214",
+    "naicsDescription": "RECREATIONAL AND VACATION CAMPS (EXCEPT CAMPGROUNDS)",
+    "totalObligated": 32630,
     "awardCount": 2
   },
   {
@@ -2790,15 +3006,39 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "928110",
+    "naicsDescription": "NATIONAL SECURITY",
+    "totalObligated": 30821.9,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "532412",
+    "naicsDescription": "CONSTRUCTION, MINING, AND FORESTRY MACHINERY AND EQUIPMENT RENTAL AND LEASING",
+    "totalObligated": 30093.34,
+    "awardCount": 1
+  },
+  {
     "naicsCode": "332431",
     "naicsDescription": "METAL CAN MANUFACTURING",
     "totalObligated": 29000,
     "awardCount": 1
   },
   {
+    "naicsCode": "561613",
+    "naicsDescription": "ARMORED CAR SERVICES",
+    "totalObligated": 27774.41,
+    "awardCount": 1
+  },
+  {
     "naicsCode": "332919",
     "naicsDescription": "OTHER METAL VALVE AND PIPE FITTING MANUFACTURING",
     "totalObligated": 27216.5,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "611630",
+    "naicsDescription": "LANGUAGE SCHOOLS",
+    "totalObligated": 27169.14,
     "awardCount": 1
   },
   {
@@ -2814,6 +3054,12 @@
     "awardCount": 2
   },
   {
+    "naicsCode": "423620",
+    "naicsDescription": "HOUSEHOLD APPLIANCES, ELECTRIC HOUSEWARES, AND CONSUMER ELECTRONICS MERCHANT WHOLESALERS",
+    "totalObligated": 26563.5,
+    "awardCount": 1
+  },
+  {
     "naicsCode": "532283",
     "naicsDescription": "HOME HEALTH EQUIPMENT RENTAL",
     "totalObligated": 26414.67,
@@ -2824,6 +3070,12 @@
     "naicsDescription": "ALUMINUM SHEET, PLATE, AND FOIL MANUFACTURING",
     "totalObligated": 25591.42,
     "awardCount": 25
+  },
+  {
+    "naicsCode": "424110",
+    "naicsDescription": "PRINTING AND WRITING PAPER MERCHANT WHOLESALERS",
+    "totalObligated": 25355,
+    "awardCount": 1
   },
   {
     "naicsCode": "423330",
@@ -2838,10 +3090,10 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "524210",
-    "naicsDescription": "INSURANCE AGENCIES AND BROKERAGES",
-    "totalObligated": 23941.99,
-    "awardCount": 6
+    "naicsCode": "238350",
+    "naicsDescription": "FINISH CARPENTRY CONTRACTORS",
+    "totalObligated": 23527.78,
+    "awardCount": 1
   },
   {
     "naicsCode": "921120",
@@ -2850,9 +3102,27 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "323116",
+    "naicsDescription": "MANIFOLD BUSINESS FORMS PRINTING",
+    "totalObligated": 22640.94,
+    "awardCount": 56
+  },
+  {
     "naicsCode": "332111",
     "naicsDescription": "IRON AND STEEL FORGING",
     "totalObligated": 21423.76,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "324121",
+    "naicsDescription": "ASPHALT PAVING MIXTURE AND BLOCK MANUFACTURING",
+    "totalObligated": 21423.31,
+    "awardCount": 2
+  },
+  {
+    "naicsCode": "423860",
+    "naicsDescription": "TRANSPORTATION EQUIPMENT AND SUPPLIES (EXCEPT MOTOR VEHICLE) MERCHANT WHOLESALERS",
+    "totalObligated": 21341.46,
     "awardCount": 1
   },
   {
@@ -2868,6 +3138,12 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "321992",
+    "naicsDescription": "PREFABRICATED WOOD BUILDING MANUFACTURING",
+    "totalObligated": 20825,
+    "awardCount": 1
+  },
+  {
     "naicsCode": "423410",
     "naicsDescription": "PHOTOGRAPHIC EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
     "totalObligated": 20754.9,
@@ -2877,12 +3153,6 @@
     "naicsCode": "334514",
     "naicsDescription": "TOTALIZING FLUID METER AND COUNTING DEVICE MANUFACTURING",
     "totalObligated": 20273.76,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "335313",
-    "naicsDescription": "SWITCHGEAR AND SWITCHBOARD APPARATUS MANUFACTURING",
-    "totalObligated": 19945,
     "awardCount": 1
   },
   {
@@ -2904,9 +3174,15 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "115115",
-    "naicsDescription": "FARM LABOR CONTRACTORS AND CREW LEADERS",
-    "totalObligated": 17642,
+    "naicsCode": "336350",
+    "naicsDescription": "MOTOR VEHICLE TRANSMISSION AND POWER TRAIN PARTS MANUFACTURING",
+    "totalObligated": 19250,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "336991",
+    "naicsDescription": "MOTORCYCLE, BICYCLE, AND PARTS MANUFACTURING",
+    "totalObligated": 19111.6,
     "awardCount": 1
   },
   {
@@ -2916,33 +3192,39 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "332911",
-    "naicsDescription": "INDUSTRIAL VALVE MANUFACTURING",
-    "totalObligated": 17080,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "488999",
-    "naicsDescription": "ALL OTHER SUPPORT ACTIVITIES FOR TRANSPORTATION",
-    "totalObligated": 16919.97,
-    "awardCount": 1
+    "naicsCode": "311111",
+    "naicsDescription": "DOG AND CAT FOOD MANUFACTURING",
+    "totalObligated": 17449.79,
+    "awardCount": 8
   },
   {
     "naicsCode": "922160",
     "naicsDescription": "FIRE PROTECTION",
-    "totalObligated": 15852.52,
-    "awardCount": 3
+    "totalObligated": 16652.52,
+    "awardCount": 4
   },
   {
-    "naicsCode": "311111",
-    "naicsDescription": "DOG AND CAT FOOD MANUFACTURING",
-    "totalObligated": 15669.23,
-    "awardCount": 6
+    "naicsCode": "449210",
+    "naicsDescription": "ELECTRONICS AND APPLIANCE RETAILERS",
+    "totalObligated": 16572.72,
+    "awardCount": 1
   },
   {
     "naicsCode": "335314",
     "naicsDescription": "RELAY AND INDUSTRIAL CONTROL MANUFACTURING",
     "totalObligated": 15132.5,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "326140",
+    "naicsDescription": "POLYSTYRENE FOAM PRODUCT MANUFACTURING",
+    "totalObligated": 14870.52,
+    "awardCount": 5
+  },
+  {
+    "naicsCode": "485320",
+    "naicsDescription": "LIMOUSINE SERVICE",
+    "totalObligated": 14826.41,
     "awardCount": 1
   },
   {
@@ -2952,16 +3234,16 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "551112",
+    "naicsDescription": "OFFICES OF OTHER HOLDING COMPANIES",
+    "totalObligated": 14685,
+    "awardCount": 1
+  },
+  {
     "naicsCode": "315280",
     "naicsDescription": "OTHER CUT AND SEW APPAREL MANUFACTURING",
     "totalObligated": 14232,
     "awardCount": 2
-  },
-  {
-    "naicsCode": "314999",
-    "naicsDescription": "ALL OTHER MISCELLANEOUS TEXTILE PRODUCT MILLS",
-    "totalObligated": 14121.75,
-    "awardCount": 29
   },
   {
     "naicsCode": "812910",
@@ -2976,22 +3258,28 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "334119",
-    "naicsDescription": "OTHER COMPUTER PERIPHERAL EQUIPMENT MANUFACTURING",
-    "totalObligated": 12959.89,
-    "awardCount": 3
+    "naicsCode": "326150",
+    "naicsDescription": "URETHANE AND OTHER FOAM PRODUCT (EXCEPT POLYSTYRENE) MANUFACTURING",
+    "totalObligated": 13404.58,
+    "awardCount": 15
   },
   {
-    "naicsCode": "333514",
-    "naicsDescription": "SPECIAL DIE AND TOOL, DIE SET, JIG, AND FIXTURE MANUFACTURING",
-    "totalObligated": 12441.37,
-    "awardCount": 45
+    "naicsCode": "313110",
+    "naicsDescription": "FIBER, YARN, AND THREAD MILLS",
+    "totalObligated": 13368.59,
+    "awardCount": 10
   },
   {
-    "naicsCode": "324121",
-    "naicsDescription": "ASPHALT PAVING MIXTURE AND BLOCK MANUFACTURING",
-    "totalObligated": 11479.21,
+    "naicsCode": "562213",
+    "naicsDescription": "SOLID WASTE COMBUSTORS AND INCINERATORS",
+    "totalObligated": 13320,
     "awardCount": 1
+  },
+  {
+    "naicsCode": "314910",
+    "naicsDescription": "TEXTILE BAG AND CANVAS MILLS",
+    "totalObligated": 12861.3,
+    "awardCount": 10
   },
   {
     "naicsCode": "531312",
@@ -3000,16 +3288,10 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "313110",
-    "naicsDescription": "FIBER, YARN, AND THREAD MILLS",
-    "totalObligated": 10471.59,
-    "awardCount": 5
-  },
-  {
-    "naicsCode": "326150",
-    "naicsDescription": "URETHANE AND OTHER FOAM PRODUCT (EXCEPT POLYSTYRENE) MANUFACTURING",
-    "totalObligated": 9067.18,
-    "awardCount": 9
+    "naicsCode": "812220",
+    "naicsDescription": "CEMETERIES AND CREMATORIES",
+    "totalObligated": 10278,
+    "awardCount": 1
   },
   {
     "naicsCode": "561740",
@@ -3018,21 +3300,21 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "333514",
+    "naicsDescription": "SPECIAL DIE AND TOOL, DIE SET, JIG, AND FIXTURE MANUFACTURING",
+    "totalObligated": 8178.8,
+    "awardCount": 43
+  },
+  {
     "naicsCode": "512230",
     "naicsDescription": "MUSIC PUBLISHERS",
     "totalObligated": 7300,
     "awardCount": 1
   },
   {
-    "naicsCode": "314910",
-    "naicsDescription": "TEXTILE BAG AND CANVAS MILLS",
-    "totalObligated": 5643,
-    "awardCount": 5
-  },
-  {
-    "naicsCode": "423990",
-    "naicsDescription": "OTHER MISCELLANEOUS DURABLE GOODS MERCHANT WHOLESALERS",
-    "totalObligated": 5249.45,
+    "naicsCode": "325910",
+    "naicsDescription": "PRINTING INK MANUFACTURING",
+    "totalObligated": 5674.5,
     "awardCount": 1
   },
   {
@@ -3040,18 +3322,6 @@
     "naicsDescription": "COPPER ROLLING, DRAWING, EXTRUDING, AND ALLOYING",
     "totalObligated": 5037.48,
     "awardCount": 1
-  },
-  {
-    "naicsCode": "212321",
-    "naicsDescription": "CONSTRUCTION SAND AND GRAVEL MINING",
-    "totalObligated": 5004.9,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "335129",
-    "naicsDescription": "OTHER LIGHTING EQUIPMENT MANUFACTURING",
-    "totalObligated": 4407.08,
-    "awardCount": 8
   },
   {
     "naicsCode": "541340",
@@ -3066,16 +3336,22 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "323116",
-    "naicsDescription": "MANIFOLD BUSINESS FORMS PRINTING",
-    "totalObligated": 3998.75,
-    "awardCount": 35
-  },
-  {
     "naicsCode": "611210",
     "naicsDescription": "JUNIOR COLLEGES",
     "totalObligated": 3981.64,
     "awardCount": 1
+  },
+  {
+    "naicsCode": "335129",
+    "naicsDescription": "OTHER LIGHTING EQUIPMENT MANUFACTURING",
+    "totalObligated": 3897.36,
+    "awardCount": 9
+  },
+  {
+    "naicsCode": "326112",
+    "naicsDescription": "PLASTICS PACKAGING FILM AND SHEET (INCLUDING LAMINATED) MANUFACTURING",
+    "totalObligated": 3804.17,
+    "awardCount": 12
   },
   {
     "naicsCode": "315220",
@@ -3084,21 +3360,27 @@
     "awardCount": 3
   },
   {
+    "naicsCode": "922140",
+    "naicsDescription": "CORRECTIONAL INSTITUTIONS",
+    "totalObligated": 3200,
+    "awardCount": 1
+  },
+  {
     "naicsCode": "923130",
     "naicsDescription": "ADMINISTRATION OF HUMAN RESOURCE PROGRAMS (EXCEPT EDUCATION, PUBLIC HEALTH, AND VETERANS' AFFAIRS PROGRAMS)",
     "totalObligated": 3000,
     "awardCount": 1
   },
   {
-    "naicsCode": "326112",
-    "naicsDescription": "PLASTICS PACKAGING FILM AND SHEET (INCLUDING LAMINATED) MANUFACTURING",
-    "totalObligated": 2407.47,
-    "awardCount": 7
-  },
-  {
     "naicsCode": "114210",
     "naicsDescription": "HUNTING AND TRAPPING",
     "totalObligated": 1627.5,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "322121",
+    "naicsDescription": "PAPER (EXCEPT NEWSPRINT) MILLS",
+    "totalObligated": 1616.42,
     "awardCount": 1
   },
   {
@@ -3108,34 +3390,28 @@
     "awardCount": 1
   },
   {
+    "naicsCode": "314912",
+    "naicsDescription": "CANVAS AND RELATED PRODUCT MILLS",
+    "totalObligated": 1099.69,
+    "awardCount": 3
+  },
+  {
     "naicsCode": "325920",
     "naicsDescription": "EXPLOSIVES MANUFACTURING",
     "totalObligated": 719.5,
     "awardCount": 1
   },
   {
-    "naicsCode": "314912",
-    "naicsDescription": "CANVAS AND RELATED PRODUCT MILLS",
-    "totalObligated": 556.74,
-    "awardCount": 2
-  },
-  {
     "naicsCode": "327910",
     "naicsDescription": "ABRASIVE PRODUCT MANUFACTURING",
-    "totalObligated": 115.88,
-    "awardCount": 1
+    "totalObligated": 431.64,
+    "awardCount": 3
   },
   {
     "naicsCode": "315992",
     "naicsDescription": "GLOVE AND MITTEN MANUFACTURING",
-    "totalObligated": 79.92,
-    "awardCount": 1
-  },
-  {
-    "naicsCode": "326140",
-    "naicsDescription": "POLYSTYRENE FOAM PRODUCT MANUFACTURING",
-    "totalObligated": 0,
-    "awardCount": 4
+    "totalObligated": 317.28,
+    "awardCount": 2
   },
   {
     "naicsCode": "335139",
