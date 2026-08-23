@@ -252,16 +252,16 @@
     "awardCount": 9
   },
   {
-    "recipientName": "DELOITTE CONSULTING LLP",
-    "recipientUei": "CKV2L9GZKJK3",
-    "totalObligated": 625723247.61,
-    "awardCount": 21
-  },
-  {
     "recipientName": "PERATON INC.",
     "recipientUei": "ZBPQEJVECCT4",
     "totalObligated": 598734154.34,
     "awardCount": 15
+  },
+  {
+    "recipientName": "DELOITTE CONSULTING LLP",
+    "recipientUei": "CKV2L9GZKJK3",
+    "totalObligated": 589482168.11,
+    "awardCount": 20
   },
   {
     "recipientName": "BCCG A JOINT VENTURE",
@@ -330,12 +330,6 @@
     "awardCount": 1
   },
   {
-    "recipientName": "TELEDYNE BROWN ENGINEERING, INC.",
-    "recipientUei": "FBRSJB6V4LW8",
-    "totalObligated": 371501551.41,
-    "awardCount": 1
-  },
-  {
     "recipientName": "MAXIMUS FEDERAL SERVICES, INC.",
     "recipientUei": "TREKW6J3QSF5",
     "totalObligated": 369915640.02,
@@ -392,8 +386,8 @@
   {
     "recipientName": "AMENTUM SERVICES, INC.",
     "recipientUei": "QEMLRQA7PLG4",
-    "totalObligated": 284726492.68,
-    "awardCount": 59
+    "totalObligated": 284726385.88,
+    "awardCount": 58
   },
   {
     "recipientName": "NOVA SPACE SOLUTIONS, LLC",
@@ -498,12 +492,6 @@
     "awardCount": 10
   },
   {
-    "recipientName": "PERIMETER SOLUTIONS LP",
-    "recipientUei": "QGUQWSU5AHB4",
-    "totalObligated": 201328521.21,
-    "awardCount": 3
-  },
-  {
     "recipientName": "PERATON ENTERPRISE SOLUTIONS LLC",
     "recipientUei": "MBSRAWAQ9559",
     "totalObligated": 200703806.59,
@@ -597,6 +585,18 @@
     "recipientName": "NELNET SERVICING LLC",
     "recipientUei": "MNXKQ62J7AE8",
     "totalObligated": 154873108.26,
+    "awardCount": 1
+  },
+  {
+    "recipientName": "HSGS-AMERESCO, LLC",
+    "recipientUei": "K2TBVYNZS593",
+    "totalObligated": 149234540.79,
+    "awardCount": 1
+  },
+  {
+    "recipientName": "CALIBRE SYSTEMS INC",
+    "recipientUei": "KHGARY8DHL23",
+    "totalObligated": 144132977.84,
     "awardCount": 1
   }
 ]
