@@ -1,43 +1,43 @@
 [
   {
     "awardingAgency": "Department of Energy",
-    "totalObligated": 123151474201.94,
+    "totalObligated": 123151337402.19,
     "awardCount": 211
   },
   {
     "awardingAgency": "National Aeronautics and Space Administration",
-    "totalObligated": 41888214786.69,
-    "awardCount": 391
+    "totalObligated": 41781674661.1,
+    "awardCount": 390
   },
   {
     "awardingAgency": "Department of Homeland Security",
-    "totalObligated": 13368060101.89,
-    "awardCount": 1149
+    "totalObligated": 13455906711.47,
+    "awardCount": 1163
   },
   {
     "awardingAgency": "Department of Health and Human Services",
-    "totalObligated": 11277545647.16,
-    "awardCount": 1178
+    "totalObligated": 11302479951.95,
+    "awardCount": 1175
   },
   {
     "awardingAgency": "Department of Transportation",
-    "totalObligated": 10918898509.51,
-    "awardCount": 631
+    "totalObligated": 10920621143.88,
+    "awardCount": 630
   },
   {
     "awardingAgency": "General Services Administration",
-    "totalObligated": 9057465098.87,
-    "awardCount": 17174
+    "totalObligated": 9056421063.96,
+    "awardCount": 16777
   },
   {
     "awardingAgency": "Department of State",
-    "totalObligated": 5865407758.14,
-    "awardCount": 540
+    "totalObligated": 5878271823.18,
+    "awardCount": 547
   },
   {
     "awardingAgency": "Department of Veterans Affairs",
-    "totalObligated": 5467744761.94,
-    "awardCount": 1650
+    "totalObligated": 5452941862.87,
+    "awardCount": 1669
   },
   {
     "awardingAgency": "National Science Foundation",
@@ -46,23 +46,23 @@
   },
   {
     "awardingAgency": "Department of the Interior",
-    "totalObligated": 1988076486.12,
-    "awardCount": 821
-  },
-  {
-    "awardingAgency": "Department of Agriculture",
-    "totalObligated": 1853400681.12,
-    "awardCount": 803
+    "totalObligated": 1983687622.11,
+    "awardCount": 822
   },
   {
     "awardingAgency": "Department of Justice",
-    "totalObligated": 1764597464.86,
-    "awardCount": 1752
+    "totalObligated": 1773362520.14,
+    "awardCount": 1759
+  },
+  {
+    "awardingAgency": "Department of Agriculture",
+    "totalObligated": 1753989280.71,
+    "awardCount": 848
   },
   {
     "awardingAgency": "Department of Commerce",
-    "totalObligated": 1386885381.64,
-    "awardCount": 423
+    "totalObligated": 1389208452.7,
+    "awardCount": 421
   },
   {
     "awardingAgency": "Social Security Administration",
@@ -91,8 +91,8 @@
   },
   {
     "awardingAgency": "Environmental Protection Agency",
-    "totalObligated": 296616846.88,
-    "awardCount": 150
+    "totalObligated": 293854686.81,
+    "awardCount": 147
   },
   {
     "awardingAgency": "Nuclear Regulatory Commission",
@@ -131,8 +131,8 @@
   },
   {
     "awardingAgency": "Smithsonian Institution",
-    "totalObligated": 31362720.86,
-    "awardCount": 27
+    "totalObligated": 31190070.46,
+    "awardCount": 24
   },
   {
     "awardingAgency": "Millennium Challenge Corporation",
@@ -171,8 +171,8 @@
   },
   {
     "awardingAgency": null,
-    "totalObligated": 12225771.31,
-    "awardCount": 20
+    "totalObligated": 12855771.31,
+    "awardCount": 21
   },
   {
     "awardingAgency": "National Gallery of Art",
@@ -186,8 +186,8 @@
   },
   {
     "awardingAgency": "National Transportation Safety Board",
-    "totalObligated": 6935147.92,
-    "awardCount": 6
+    "totalObligated": 6825967.92,
+    "awardCount": 5
   },
   {
     "awardingAgency": "Consumer Financial Protection Bureau",

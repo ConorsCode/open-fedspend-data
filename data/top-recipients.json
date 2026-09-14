@@ -44,8 +44,8 @@
   {
     "recipientName": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
     "recipientUei": "YC1YP79BFD19",
-    "totalObligated": 3321940276.82,
-    "awardCount": 44
+    "totalObligated": 3211196023.82,
+    "awardCount": 43
   },
   {
     "recipientName": "MAXIMUS FEDERAL SERVICES, INC.",
@@ -122,8 +122,8 @@
   {
     "recipientName": "ACCENTURE FEDERAL SERVICES LLC",
     "recipientUei": "C47BNA8GM833",
-    "totalObligated": 1302230789.75,
-    "awardCount": 29
+    "totalObligated": 1323259241.3,
+    "awardCount": 30
   },
   {
     "recipientName": "SPENCER CONSTRUCTION LLC",
@@ -320,8 +320,8 @@
   {
     "recipientName": "CGI FEDERAL INC.",
     "recipientUei": "TRKEP1HEBNS5",
-    "totalObligated": 372993893.12,
-    "awardCount": 23
+    "totalObligated": 373392475.52,
+    "awardCount": 24
   },
   {
     "recipientName": "LOCKHEED MARTIN CORP",
@@ -456,16 +456,16 @@
     "awardCount": 17
   },
   {
+    "recipientName": "THE MITRE CORPORATION",
+    "recipientUei": "DMHDNDCPWUD1",
+    "totalObligated": 212485919.53,
+    "awardCount": 13
+  },
+  {
     "recipientName": "NTT DATA SERVICES FEDERAL GOVERNMENT, LLC",
     "recipientUei": "TMT1PKFK7XG6",
     "totalObligated": 208221910.56,
     "awardCount": 1
-  },
-  {
-    "recipientName": "THE MITRE CORPORATION",
-    "recipientUei": "DMHDNDCPWUD1",
-    "totalObligated": 207674069.26,
-    "awardCount": 12
   },
   {
     "recipientName": "OHIO VALLEY ELECTRIC CORPORATION",
@@ -474,16 +474,22 @@
     "awardCount": 1
   },
   {
-    "recipientName": "HELICOPTER TRANSPORT SERVICES, LLC",
-    "recipientUei": "H1VHLSRLB3Y7",
-    "totalObligated": 201436296.01,
-    "awardCount": 10
-  },
-  {
     "recipientName": "ASRC FEDERAL FACILITIES LOGISTICS LLC",
     "recipientUei": "NENSLR2C1VH9",
     "totalObligated": 194395142.1,
     "awardCount": 1
+  },
+  {
+    "recipientName": "HELICOPTER TRANSPORT SERVICES, LLC",
+    "recipientUei": "H1VHLSRLB3Y7",
+    "totalObligated": 184487510.23,
+    "awardCount": 9
+  },
+  {
+    "recipientName": "WORKWEAR OUTFITTERS, LLC",
+    "recipientUei": "SQLVDBFQ4SD8",
+    "totalObligated": 181966388.77,
+    "awardCount": 6
   },
   {
     "recipientName": "LEIDOS BIOMEDICAL RESEARCH INC",
@@ -578,8 +584,8 @@
   {
     "recipientName": "KELLY SERVICES, INC.",
     "recipientUei": "Y3FCQR7FW2E1",
-    "totalObligated": 130163203.03,
-    "awardCount": 146
+    "totalObligated": 130919059.03,
+    "awardCount": 148
   },
   {
     "recipientName": "LS TECHNOLOGIES LLC",
@@ -591,12 +597,6 @@
     "recipientName": "TEAM GREENZONE JV LLC",
     "recipientUei": "C8LFSXN73XJ5",
     "totalObligated": 129522496.57,
-    "awardCount": 1
-  },
-  {
-    "recipientName": "EDFINANCIAL SERVICES LLC",
-    "recipientUei": "TB69PMAFZSK8",
-    "totalObligated": 124118429.42,
     "awardCount": 1
   }
 ]
