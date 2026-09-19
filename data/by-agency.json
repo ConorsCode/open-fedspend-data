@@ -11,23 +11,23 @@
   },
   {
     "awardingAgency": "Department of Homeland Security",
-    "totalObligated": 7525897447.75,
-    "awardCount": 661
+    "totalObligated": 7512283027.03,
+    "awardCount": 644
   },
   {
     "awardingAgency": "General Services Administration",
-    "totalObligated": 6498166689.58,
-    "awardCount": 7157
+    "totalObligated": 6496232957.51,
+    "awardCount": 4720
   },
   {
     "awardingAgency": "Department of Transportation",
-    "totalObligated": 6311161560.86,
-    "awardCount": 366
+    "totalObligated": 6308695353.42,
+    "awardCount": 361
   },
   {
     "awardingAgency": "Department of Health and Human Services",
-    "totalObligated": 4300106991.15,
-    "awardCount": 776
+    "totalObligated": 4255875450.13,
+    "awardCount": 766
   },
   {
     "awardingAgency": "National Science Foundation",
@@ -36,13 +36,13 @@
   },
   {
     "awardingAgency": "Department of State",
-    "totalObligated": 2971844911.8,
-    "awardCount": 239
+    "totalObligated": 2971232327.88,
+    "awardCount": 235
   },
   {
     "awardingAgency": "Department of Veterans Affairs",
-    "totalObligated": 2587783318.62,
-    "awardCount": 1077
+    "totalObligated": 2574435855.26,
+    "awardCount": 1049
   },
   {
     "awardingAgency": "Department of Education",
@@ -51,13 +51,13 @@
   },
   {
     "awardingAgency": "Department of Commerce",
-    "totalObligated": 1187618540.67,
-    "awardCount": 248
+    "totalObligated": 1180505150.83,
+    "awardCount": 244
   },
   {
     "awardingAgency": "Department of the Treasury",
-    "totalObligated": 989836629.83,
-    "awardCount": 79
+    "totalObligated": 1005466870.72,
+    "awardCount": 92
   },
   {
     "awardingAgency": "Department of Labor",
@@ -66,18 +66,18 @@
   },
   {
     "awardingAgency": "Department of the Interior",
-    "totalObligated": 817778097,
-    "awardCount": 563
+    "totalObligated": 817163416.17,
+    "awardCount": 556
   },
   {
     "awardingAgency": "Department of Agriculture",
-    "totalObligated": 764744840.29,
-    "awardCount": 527
+    "totalObligated": 752595087.69,
+    "awardCount": 456
   },
   {
     "awardingAgency": "Department of Justice",
-    "totalObligated": 598901482.68,
-    "awardCount": 862
+    "totalObligated": 574343590.56,
+    "awardCount": 800
   },
   {
     "awardingAgency": "Department of Defense",
@@ -118,11 +118,6 @@
     "awardingAgency": "Millennium Challenge Corporation",
     "totalObligated": 32199899.35,
     "awardCount": 6
-  },
-  {
-    "awardingAgency": null,
-    "totalObligated": 21177222.29,
-    "awardCount": 25
   },
   {
     "awardingAgency": "Commodity Futures Trading Commission",
@@ -183,6 +178,11 @@
     "awardingAgency": "U.S. Agency for Global Media",
     "totalObligated": 3976494.23,
     "awardCount": 2
+  },
+  {
+    "awardingAgency": null,
+    "totalObligated": 3954618.19,
+    "awardCount": 9
   },
   {
     "awardingAgency": "Smithsonian Institution",
