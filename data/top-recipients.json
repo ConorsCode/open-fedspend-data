@@ -32,8 +32,8 @@
   {
     "recipientName": "BATTELLE MEMORIAL INSTITUTE",
     "recipientUei": "CWKJEXDG79A7",
-    "totalObligated": 31099827343.37,
-    "awardCount": 5
+    "totalObligated": 31088310587.9,
+    "awardCount": 4
   },
   {
     "recipientName": "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC",
@@ -86,8 +86,8 @@
   {
     "recipientName": "LOCKHEED MARTIN CORP",
     "recipientUei": "FYHNA5WC8XD7",
-    "totalObligated": 16681943464.42,
-    "awardCount": 5
+    "totalObligated": 16674938699.42,
+    "awardCount": 4
   },
   {
     "recipientName": "THE LELAND STANFORD JUNIOR UNIVERSITY",
@@ -123,7 +123,7 @@
     "recipientName": "LEIDOS, INC.",
     "recipientUei": "MYKLJHTX3MM7",
     "totalObligated": 4873047748.06,
-    "awardCount": 24
+    "awardCount": 23
   },
   {
     "recipientName": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
@@ -134,8 +134,8 @@
   {
     "recipientName": "BOOZ ALLEN HAMILTON INC",
     "recipientUei": "JCBMLGPE6Z71",
-    "totalObligated": 4506008455.02,
-    "awardCount": 47
+    "totalObligated": 4475285229.64,
+    "awardCount": 46
   },
   {
     "recipientName": "ACCENTURE FEDERAL SERVICES LLC",
@@ -177,7 +177,7 @@
     "recipientName": "OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED",
     "recipientUei": "JW7MLW3RRK34",
     "totalObligated": 3249635321.19,
-    "awardCount": 3
+    "awardCount": 2
   },
   {
     "recipientName": "SPACE EXPLORATION TECHNOLOGIES CORP.",
@@ -272,8 +272,8 @@
   {
     "recipientName": "AMENTUM SERVICES, INC.",
     "recipientUei": "QEMLRQA7PLG4",
-    "totalObligated": 1671492742.95,
-    "awardCount": 151
+    "totalObligated": 1671453095.7,
+    "awardCount": 61
   },
   {
     "recipientName": "IDAHO ENVIRONMENTAL COALITION LLC",
@@ -286,12 +286,6 @@
     "recipientUei": "XXNJCWMAKNH8",
     "totalObligated": 1644027320.65,
     "awardCount": 5
-  },
-  {
-    "recipientName": "SALIENT CRGT, INC.",
-    "recipientUei": "Q5LJNF15T2R5",
-    "totalObligated": 1461175010.63,
-    "awardCount": 4
   },
   {
     "recipientName": "MAXIMUS EDUCATION LLC",
@@ -375,7 +369,7 @@
     "recipientName": "MINBURN TECHNOLOGY GROUP, LLC",
     "recipientUei": "WN8JFVZTBCA5",
     "totalObligated": 803421144.73,
-    "awardCount": 39
+    "awardCount": 38
   },
   {
     "recipientName": "COVENANT AVIATION SECURITY, LLC",
@@ -462,6 +456,12 @@
     "awardCount": 1
   },
   {
+    "recipientName": "SALIENT CRGT, INC.",
+    "recipientUei": "Q5LJNF15T2R5",
+    "totalObligated": 542994970.12,
+    "awardCount": 3
+  },
+  {
     "recipientName": "WESTAT, INC.",
     "recipientUei": "NVUWAFWQ57S5",
     "totalObligated": 537776885.94,
@@ -470,8 +470,8 @@
   {
     "recipientName": "THUNDERCAT TECHNOLOGY, LLC",
     "recipientUei": "UER4AJLUB8D5",
-    "totalObligated": 511789406.77,
-    "awardCount": 50
+    "totalObligated": 511697617.15,
+    "awardCount": 47
   },
   {
     "recipientName": "BAE SYSTEMS SPACE & MISSION SYSTEMS INC.",
@@ -534,12 +534,6 @@
     "awardCount": 1
   },
   {
-    "recipientName": "CARAHSOFT TECHNOLOGY CORP",
-    "recipientUei": "DT8KJHZXVJH5",
-    "totalObligated": 378025715.65,
-    "awardCount": 79
-  },
-  {
     "recipientName": "PLOWSHARE GROUP, INC",
     "recipientUei": "TBJ3THVUK3H8",
     "totalObligated": 373880937.69,
@@ -556,6 +550,12 @@
     "recipientUei": "DJUCEANK2KP4",
     "totalObligated": 365371919.36,
     "awardCount": 2
+  },
+  {
+    "recipientName": "CARAHSOFT TECHNOLOGY CORP",
+    "recipientUei": "DT8KJHZXVJH5",
+    "totalObligated": 359836854.45,
+    "awardCount": 72
   },
   {
     "recipientName": "BIRDON AMERICA INC",
