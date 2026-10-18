@@ -236,8 +236,8 @@
   {
     "naicsCode": "115310",
     "naicsDescription": "SUPPORT ACTIVITIES FOR FORESTRY",
-    "totalObligated": 28229261.83,
-    "awardCount": 120
+    "totalObligated": 28224761.83,
+    "awardCount": 119
   },
   {
     "naicsCode": "541614",
@@ -854,8 +854,8 @@
   {
     "naicsCode": "339940",
     "naicsDescription": "OFFICE SUPPLIES (EXCEPT PAPER) MANUFACTURING",
-    "totalObligated": 1724470.54,
-    "awardCount": 465
+    "totalObligated": 1724254.54,
+    "awardCount": 464
   },
   {
     "naicsCode": "221210",
@@ -998,8 +998,8 @@
   {
     "naicsCode": "337214",
     "naicsDescription": "OFFICE FURNITURE (EXCEPT WOOD) MANUFACTURING",
-    "totalObligated": 981729.47,
-    "awardCount": 61
+    "totalObligated": 981597.35,
+    "awardCount": 60
   },
   {
     "naicsCode": "423450",
@@ -1118,8 +1118,8 @@
   {
     "naicsCode": "332216",
     "naicsDescription": "SAW BLADE AND HANDTOOL MANUFACTURING",
-    "totalObligated": 616316.39,
-    "awardCount": 790
+    "totalObligated": 611670.43,
+    "awardCount": 783
   },
   {
     "naicsCode": "541430",
@@ -1308,12 +1308,6 @@
     "awardCount": 4
   },
   {
-    "naicsCode": "423850",
-    "naicsDescription": "SERVICE ESTABLISHMENT EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
-    "totalObligated": 261073.99,
-    "awardCount": 423
-  },
-  {
     "naicsCode": "561439",
     "naicsDescription": "OTHER BUSINESS SERVICE CENTERS (INCLUDING COPY SHOPS)",
     "totalObligated": 257144.66,
@@ -1370,20 +1364,14 @@
   {
     "naicsCode": "332510",
     "naicsDescription": "HARDWARE MANUFACTURING",
-    "totalObligated": 211510.77,
-    "awardCount": 279
+    "totalObligated": 207161.99,
+    "awardCount": 274
   },
   {
     "naicsCode": "322230",
     "naicsDescription": "STATIONERY PRODUCT MANUFACTURING",
-    "totalObligated": 202390.35,
-    "awardCount": 177
-  },
-  {
-    "naicsCode": "453210",
-    "naicsDescription": "OFFICE SUPPLIES AND STATIONERY STORES",
-    "totalObligated": 200151.68,
-    "awardCount": 361
+    "totalObligated": 196424.02,
+    "awardCount": 171
   },
   {
     "naicsCode": "326140",
@@ -1402,6 +1390,12 @@
     "naicsDescription": "GENERAL WAREHOUSING AND STORAGE",
     "totalObligated": 176973.17,
     "awardCount": 5
+  },
+  {
+    "naicsCode": "453210",
+    "naicsDescription": "OFFICE SUPPLIES AND STATIONERY STORES",
+    "totalObligated": 170399.69,
+    "awardCount": 348
   },
   {
     "naicsCode": "311412",
@@ -1426,6 +1420,12 @@
     "naicsDescription": "TELECOMMUNICATIONS RESELLERS",
     "totalObligated": 151590.21,
     "awardCount": 2
+  },
+  {
+    "naicsCode": "423850",
+    "naicsDescription": "SERVICE ESTABLISHMENT EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+    "totalObligated": 143834.27,
+    "awardCount": 392
   },
   {
     "naicsCode": "325910",
@@ -1472,8 +1472,8 @@
   {
     "naicsCode": "334515",
     "naicsDescription": "INSTRUMENT MANUFACTURING FOR MEASURING AND TESTING ELECTRICITY AND ELECTRICAL SIGNALS",
-    "totalObligated": 124815.09,
-    "awardCount": 146
+    "totalObligated": 123955.41,
+    "awardCount": 139
   },
   {
     "naicsCode": "334310",
@@ -1550,8 +1550,8 @@
   {
     "naicsCode": "493190",
     "naicsDescription": "OTHER WAREHOUSING AND STORAGE",
-    "totalObligated": 91678.45,
-    "awardCount": 88
+    "totalObligated": 91486.48,
+    "awardCount": 86
   },
   {
     "naicsCode": "324121",
@@ -1568,8 +1568,8 @@
   {
     "naicsCode": "423710",
     "naicsDescription": "HARDWARE MERCHANT WHOLESALERS",
-    "totalObligated": 84709.55,
-    "awardCount": 103
+    "totalObligated": 83673.9,
+    "awardCount": 96
   },
   {
     "naicsCode": "454310",
@@ -2064,12 +2064,6 @@
     "awardCount": 1
   },
   {
-    "naicsCode": "314910",
-    "naicsDescription": "TEXTILE BAG AND CANVAS MILLS",
-    "totalObligated": 14691,
-    "awardCount": 2
-  },
-  {
     "naicsCode": "331315",
     "naicsDescription": "ALUMINUM SHEET, PLATE, AND FOIL MANUFACTURING",
     "totalObligated": 14397.6,
@@ -2085,6 +2079,12 @@
     "naicsCode": "811198",
     "naicsDescription": "ALL OTHER AUTOMOTIVE REPAIR AND MAINTENANCE",
     "totalObligated": 13422.18,
+    "awardCount": 1
+  },
+  {
+    "naicsCode": "314910",
+    "naicsDescription": "TEXTILE BAG AND CANVAS MILLS",
+    "totalObligated": 13280,
     "awardCount": 1
   },
   {
@@ -2120,8 +2120,8 @@
   {
     "naicsCode": "423840",
     "naicsDescription": "INDUSTRIAL SUPPLIES MERCHANT WHOLESALERS",
-    "totalObligated": 6527.2,
-    "awardCount": 40
+    "totalObligated": 6520.96,
+    "awardCount": 39
   },
   {
     "naicsCode": "334119",
@@ -2192,8 +2192,8 @@
   {
     "naicsCode": "333514",
     "naicsDescription": "SPECIAL DIE AND TOOL, DIE SET, JIG, AND FIXTURE MANUFACTURING",
-    "totalObligated": 2930.12,
-    "awardCount": 15
+    "totalObligated": 2894.7,
+    "awardCount": 14
   },
   {
     "naicsCode": "323116",
