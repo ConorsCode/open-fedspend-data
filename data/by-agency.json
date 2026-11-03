@@ -1,113 +1,113 @@
 [
   {
     "awardingAgency": "Department of Energy",
-    "totalObligated": 406437995304.49,
-    "awardCount": 105
+    "totalObligated": 359757046642.13,
+    "awardCount": 75
   },
   {
     "awardingAgency": "National Aeronautics and Space Administration",
-    "totalObligated": 39025883388.53,
-    "awardCount": 222
-  },
-  {
-    "awardingAgency": "Department of Homeland Security",
-    "totalObligated": 8529533601.05,
-    "awardCount": 498
-  },
-  {
-    "awardingAgency": "General Services Administration",
-    "totalObligated": 8362827060.41,
-    "awardCount": 12284
-  },
-  {
-    "awardingAgency": "Department of Health and Human Services",
-    "totalObligated": 5288651784.4,
-    "awardCount": 469
-  },
-  {
-    "awardingAgency": "Department of Veterans Affairs",
-    "totalObligated": 4141697628.83,
-    "awardCount": 1324
-  },
-  {
-    "awardingAgency": "Department of Transportation",
-    "totalObligated": 2109317104.29,
-    "awardCount": 277
-  },
-  {
-    "awardingAgency": "Department of the Interior",
-    "totalObligated": 1832192213.32,
-    "awardCount": 451
-  },
-  {
-    "awardingAgency": "Department of the Treasury",
-    "totalObligated": 1713328895.92,
-    "awardCount": 424
-  },
-  {
-    "awardingAgency": "Department of Labor",
-    "totalObligated": 1201820497.08,
-    "awardCount": 62
-  },
-  {
-    "awardingAgency": "Department of Agriculture",
-    "totalObligated": 1181340057.49,
-    "awardCount": 362
-  },
-  {
-    "awardingAgency": "Department of Justice",
-    "totalObligated": 995359043.5,
-    "awardCount": 1239
-  },
-  {
-    "awardingAgency": "Department of Education",
-    "totalObligated": 641573413.93,
-    "awardCount": 18
-  },
-  {
-    "awardingAgency": "Department of State",
-    "totalObligated": 634709400.06,
+    "totalObligated": 39869640802.92,
     "awardCount": 165
   },
   {
+    "awardingAgency": "General Services Administration",
+    "totalObligated": 5084381984.39,
+    "awardCount": 9436
+  },
+  {
+    "awardingAgency": "Department of Homeland Security",
+    "totalObligated": 4121724033.17,
+    "awardCount": 359
+  },
+  {
+    "awardingAgency": "Department of Health and Human Services",
+    "totalObligated": 4092483781.3,
+    "awardCount": 376
+  },
+  {
+    "awardingAgency": "Department of Veterans Affairs",
+    "totalObligated": 3665283216.09,
+    "awardCount": 1008
+  },
+  {
+    "awardingAgency": "Department of Transportation",
+    "totalObligated": 1926836605.99,
+    "awardCount": 219
+  },
+  {
+    "awardingAgency": "Department of the Interior",
+    "totalObligated": 1646573707.51,
+    "awardCount": 329
+  },
+  {
+    "awardingAgency": "Department of the Treasury",
+    "totalObligated": 1238908037.44,
+    "awardCount": 394
+  },
+  {
+    "awardingAgency": "Department of Labor",
+    "totalObligated": 1100192314.7,
+    "awardCount": 53
+  },
+  {
+    "awardingAgency": "Department of Agriculture",
+    "totalObligated": 965005832.99,
+    "awardCount": 273
+  },
+  {
+    "awardingAgency": "Department of Justice",
+    "totalObligated": 755187302.77,
+    "awardCount": 900
+  },
+  {
+    "awardingAgency": "Department of State",
+    "totalObligated": 575098590.9,
+    "awardCount": 141
+  },
+  {
     "awardingAgency": "Department of Commerce",
-    "totalObligated": 417942125.29,
-    "awardCount": 65
+    "totalObligated": 406130260.15,
+    "awardCount": 48
   },
   {
-    "awardingAgency": "Department of Housing and Urban Development",
-    "totalObligated": 297247916.83,
-    "awardCount": 44
-  },
-  {
-    "awardingAgency": "Environmental Protection Agency",
-    "totalObligated": 288876015.6,
-    "awardCount": 120
-  },
-  {
-    "awardingAgency": "Securities and Exchange Commission",
-    "totalObligated": 228713368.42,
-    "awardCount": 15
-  },
-  {
-    "awardingAgency": "Agency for International Development",
-    "totalObligated": 177853983.21,
-    "awardCount": 4
-  },
-  {
-    "awardingAgency": "Social Security Administration",
-    "totalObligated": 92645961.97,
-    "awardCount": 42
-  },
-  {
-    "awardingAgency": "Federal Communications Commission",
-    "totalObligated": 84503700.63,
+    "awardingAgency": "Department of Education",
+    "totalObligated": 379429735.01,
     "awardCount": 10
   },
   {
+    "awardingAgency": "Department of Housing and Urban Development",
+    "totalObligated": 266612815.85,
+    "awardCount": 35
+  },
+  {
+    "awardingAgency": "Environmental Protection Agency",
+    "totalObligated": 250513298.57,
+    "awardCount": 102
+  },
+  {
+    "awardingAgency": "Securities and Exchange Commission",
+    "totalObligated": 151081846.12,
+    "awardCount": 11
+  },
+  {
+    "awardingAgency": "Social Security Administration",
+    "totalObligated": 86166197.92,
+    "awardCount": 28
+  },
+  {
+    "awardingAgency": "Federal Communications Commission",
+    "totalObligated": 84030370.63,
+    "awardCount": 9
+  },
+  {
+    "awardingAgency": "Agency for International Development",
+    "totalObligated": 73501070.87,
+    "awardCount": 2
+  },
+  {
     "awardingAgency": "Department of Defense",
-    "totalObligated": 60121418.34,
-    "awardCount": 5
+    "totalObligated": 51531483.91,
+    "awardCount": 4
   },
   {
     "awardingAgency": "National Science Foundation",
@@ -116,23 +116,18 @@
   },
   {
     "awardingAgency": "Government Accountability Office",
-    "totalObligated": 47573528.23,
-    "awardCount": 6
-  },
-  {
-    "awardingAgency": "National Archives and Records Administration",
-    "totalObligated": 36154665.83,
-    "awardCount": 26
+    "totalObligated": 47240130.7,
+    "awardCount": 4
   },
   {
     "awardingAgency": "Consumer Financial Protection Bureau",
-    "totalObligated": 32526117.43,
-    "awardCount": 5
+    "totalObligated": 31944235.86,
+    "awardCount": 4
   },
   {
-    "awardingAgency": "Peace Corps",
-    "totalObligated": 22536414.79,
-    "awardCount": 2
+    "awardingAgency": "National Archives and Records Administration",
+    "totalObligated": 30273521.01,
+    "awardCount": 21
   },
   {
     "awardingAgency": "Pension Benefit Guaranty Corporation",
@@ -141,47 +136,22 @@
   },
   {
     "awardingAgency": "Smithsonian Institution",
-    "totalObligated": 16377735.07,
-    "awardCount": 16
+    "totalObligated": 13505999.1,
+    "awardCount": 13
   },
   {
     "awardingAgency": "Federal Trade Commission",
-    "totalObligated": 8642832.84,
-    "awardCount": 6
+    "totalObligated": 6360240.5,
+    "awardCount": 4
   },
   {
     "awardingAgency": "Executive Office of the President",
-    "totalObligated": 6169094.63,
-    "awardCount": 11
-  },
-  {
-    "awardingAgency": "Commodity Futures Trading Commission",
-    "totalObligated": 3865969.69,
-    "awardCount": 5
-  },
-  {
-    "awardingAgency": "Nuclear Regulatory Commission",
-    "totalObligated": 2736885.48,
-    "awardCount": 5
-  },
-  {
-    "awardingAgency": "U.S. International Development Finance Corporation",
-    "totalObligated": 2143323.27,
-    "awardCount": 3
+    "totalObligated": 5252468.64,
+    "awardCount": 9
   },
   {
     "awardingAgency": "National Gallery of Art",
     "totalObligated": 2050236.88,
-    "awardCount": 5
-  },
-  {
-    "awardingAgency": "Equal Employment Opportunity Commission",
-    "totalObligated": 1948875,
-    "awardCount": 7
-  },
-  {
-    "awardingAgency": "Court Services and Offender Supervision Agency",
-    "totalObligated": 1776041.11,
     "awardCount": 5
   },
   {
@@ -190,29 +160,39 @@
     "awardCount": 2
   },
   {
-    "awardingAgency": "District of Columbia Courts",
-    "totalObligated": 837221,
-    "awardCount": 6
+    "awardingAgency": "Court Services and Offender Supervision Agency",
+    "totalObligated": 1697901.11,
+    "awardCount": 3
   },
   {
-    "awardingAgency": "U.S. Agency for Global Media",
-    "totalObligated": 768703.48,
+    "awardingAgency": "U.S. International Development Finance Corporation",
+    "totalObligated": 1598245.97,
+    "awardCount": 2
+  },
+  {
+    "awardingAgency": "Commodity Futures Trading Commission",
+    "totalObligated": 987739.69,
     "awardCount": 4
   },
   {
     "awardingAgency": "Council of the Inspectors General on Integrity and Efficiency",
-    "totalObligated": 630553.76,
-    "awardCount": 8
+    "totalObligated": 617655.52,
+    "awardCount": 7
+  },
+  {
+    "awardingAgency": "Peace Corps",
+    "totalObligated": 510426.8,
+    "awardCount": 1
   },
   {
     "awardingAgency": "Export-Import Bank of the United States",
-    "totalObligated": 538612.76,
-    "awardCount": 4
+    "totalObligated": 430055.52,
+    "awardCount": 3
   },
   {
-    "awardingAgency": "Railroad Retirement Board",
-    "totalObligated": 97306.94,
-    "awardCount": 7
+    "awardingAgency": "District of Columbia Courts",
+    "totalObligated": 138221,
+    "awardCount": 3
   },
   {
     "awardingAgency": "Morris K. Udall and Stewart L. Udall Foundation",
@@ -220,9 +200,9 @@
     "awardCount": 1
   },
   {
-    "awardingAgency": "Consumer Product Safety Commission",
-    "totalObligated": 42003.46,
-    "awardCount": 2
+    "awardingAgency": "Nuclear Regulatory Commission",
+    "totalObligated": 44862.34,
+    "awardCount": 1
   },
   {
     "awardingAgency": "National Endowment for the Arts",
@@ -230,8 +210,18 @@
     "awardCount": 1
   },
   {
+    "awardingAgency": "Railroad Retirement Board",
+    "totalObligated": 4730.32,
+    "awardCount": 5
+  },
+  {
     "awardingAgency": "Merit Systems Protection Board",
     "totalObligated": 1746,
+    "awardCount": 1
+  },
+  {
+    "awardingAgency": "U.S. Agency for Global Media",
+    "totalObligated": 0,
     "awardCount": 1
   }
 ]
