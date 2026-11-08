@@ -62,8 +62,8 @@
   {
     "recipientName": "AMENTUM SERVICES, INC.",
     "recipientUei": "QEMLRQA7PLG4",
-    "totalObligated": 1079825142.24,
-    "awardCount": 79
+    "totalObligated": 1079821551.58,
+    "awardCount": 74
   },
   {
     "recipientName": "CACI, INC. - FEDERAL",
@@ -318,12 +318,6 @@
     "awardCount": 1
   },
   {
-    "recipientName": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
-    "recipientUei": "J64CSQTQNRC1",
-    "totalObligated": 127561072.3,
-    "awardCount": 9
-  },
-  {
     "recipientName": "ZIMMER GUNSUL FRASCA ARCHITECTS LLP",
     "recipientUei": "VN35SXAP4F44",
     "totalObligated": 127364576.95,
@@ -340,6 +334,12 @@
     "recipientUei": "P3LNRFU5L122",
     "totalObligated": 119839256.62,
     "awardCount": 1
+  },
+  {
+    "recipientName": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "recipientUei": "J64CSQTQNRC1",
+    "totalObligated": 118194224.68,
+    "awardCount": 8
   },
   {
     "recipientName": "FIREFLY AEROSPACE INC.",
