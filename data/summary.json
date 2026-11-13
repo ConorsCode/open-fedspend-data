@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-12T15:50:50.646Z",
+  "generatedAt": "2026-11-13T15:11:25.030Z",
   "window": {
-    "startDate": "2026-11-06",
-    "endDate": "2026-11-12",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-13",
     "days": 7
   },
-  "totalAwards": 16087,
-  "totalObligated": 123198112313.79,
-  "totalOutlays": 55387043558.34,
-  "uniqueRecipients": 1850,
-  "uniqueAgencies": 38,
+  "totalAwards": 12878,
+  "totalObligated": 84382086119.33,
+  "totalOutlays": 42008024158.85,
+  "uniqueRecipients": 1185,
+  "uniqueAgencies": 32,
   "hitPaginationCap": false,
   "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
-  "elapsedMs": 62063,
+  "elapsedMs": 49581,
   "notes": [
     "awardAmount is the obligated amount for this award transaction (USAspending \"Award Amount\"), not a contract ceiling/potential value.",
     "totalOutlays is USAspending \"Total Outlays\" — actual dollars disbursed to date against the award, where reported; null when not reported. It is NOT a ceiling or ask price.",
